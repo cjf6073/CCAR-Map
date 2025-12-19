@@ -1,0 +1,966 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="40.664617999999997" minlon="-77.888381999999993" maxlat="40.665489000000001" maxlon="-77.887461999999999" />
+  </metadata>
+  <wpt lat="40.664859" lon="-77.888382">
+    <ele>356.116272</ele>
+    <time>2025-11-12T15:14:46Z</time>
+    <name>001</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664859</gpxx:lat>
+      <gpxx:lon>-77.888382</gpxx:lon>
+      <gpxx:y_proj>40.664859</gpxx:y_proj>
+      <gpxx:x_proj>-77.888382</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:14:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664892" lon="-77.888246">
+    <ele>353.474182</ele>
+    <time>2025-11-12T15:19:25Z</time>
+    <name>4790</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664892</gpxx:lat>
+      <gpxx:lon>-77.888246</gpxx:lon>
+      <gpxx:y_proj>40.664892</gpxx:y_proj>
+      <gpxx:x_proj>-77.888246</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:19:25</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664706" lon="-77.887942">
+    <ele>347.584259</ele>
+    <time>2025-11-12T15:26:20Z</time>
+    <name>009</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664706</gpxx:lat>
+      <gpxx:lon>-77.887942</gpxx:lon>
+      <gpxx:y_proj>40.664706</gpxx:y_proj>
+      <gpxx:x_proj>-77.887942</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:26:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664618" lon="-77.887748">
+    <ele>344.420013</ele>
+    <time>2025-11-12T15:29:40Z</time>
+    <name>013</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664618</gpxx:lat>
+      <gpxx:lon>-77.887748</gpxx:lon>
+      <gpxx:y_proj>40.664618</gpxx:y_proj>
+      <gpxx:x_proj>-77.887748</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:29:40</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664736" lon="-77.887736">
+    <ele>346.265198</ele>
+    <time>2025-11-12T15:32:31Z</time>
+    <name>012</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664736</gpxx:lat>
+      <gpxx:lon>-77.887736</gpxx:lon>
+      <gpxx:y_proj>40.664736</gpxx:y_proj>
+      <gpxx:x_proj>-77.887736</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:32:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664731" lon="-77.887751">
+    <ele>345.037384</ele>
+    <time>2025-11-12T15:35:27Z</time>
+    <name>S4777</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664731</gpxx:lat>
+      <gpxx:lon>-77.887751</gpxx:lon>
+      <gpxx:y_proj>40.664731</gpxx:y_proj>
+      <gpxx:x_proj>-77.887751</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:35:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664842" lon="-77.887817">
+    <ele>346.765411</ele>
+    <time>2025-11-12T15:38:29Z</time>
+    <name>4779</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664842</gpxx:lat>
+      <gpxx:lon>-77.887817</gpxx:lon>
+      <gpxx:y_proj>40.664842</gpxx:y_proj>
+      <gpxx:x_proj>-77.887817</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:38:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664771" lon="-77.887837">
+    <ele>346.603333</ele>
+    <time>2025-11-12T15:40:41Z</time>
+    <name>011</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664771</gpxx:lat>
+      <gpxx:lon>-77.887837</gpxx:lon>
+      <gpxx:y_proj>40.664771</gpxx:y_proj>
+      <gpxx:x_proj>-77.887837</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:40:41</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66482" lon="-77.887893">
+    <ele>346.227753</ele>
+    <time>2025-11-12T15:42:47Z</time>
+    <name>010</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66482</gpxx:lat>
+      <gpxx:lon>-77.887893</gpxx:lon>
+      <gpxx:y_proj>40.66482</gpxx:y_proj>
+      <gpxx:x_proj>-77.887893</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:42:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664894" lon="-77.887822">
+    <ele>345.091003</ele>
+    <time>2025-11-12T15:45:10Z</time>
+    <name>020</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664894</gpxx:lat>
+      <gpxx:lon>-77.887822</gpxx:lon>
+      <gpxx:y_proj>40.664894</gpxx:y_proj>
+      <gpxx:x_proj>-77.887822</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:45:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.6649" lon="-77.88795">
+    <ele>345.345551</ele>
+    <time>2025-11-12T15:47:01Z</time>
+    <name>021</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.6649</gpxx:lat>
+      <gpxx:lon>-77.88795</gpxx:lon>
+      <gpxx:y_proj>40.6649</gpxx:y_proj>
+      <gpxx:x_proj>-77.88795</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:47:01</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664859" lon="-77.887955">
+    <ele>342.560211</ele>
+    <time>2025-11-12T15:48:18Z</time>
+    <name>008</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664859</gpxx:lat>
+      <gpxx:lon>-77.887955</gpxx:lon>
+      <gpxx:y_proj>40.664859</gpxx:y_proj>
+      <gpxx:x_proj>-77.887955</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:48:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664815" lon="-77.888011">
+    <ele>343.313477</ele>
+    <time>2025-11-12T15:49:09Z</time>
+    <name>S4782</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664815</gpxx:lat>
+      <gpxx:lon>-77.888011</gpxx:lon>
+      <gpxx:y_proj>40.664815</gpxx:y_proj>
+      <gpxx:x_proj>-77.888011</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:49:09</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664863" lon="-77.88803">
+    <ele>342.498688</ele>
+    <time>2025-11-12T15:51:46Z</time>
+    <name>S4783</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664863</gpxx:lat>
+      <gpxx:lon>-77.88803</gpxx:lon>
+      <gpxx:y_proj>40.664863</gpxx:y_proj>
+      <gpxx:x_proj>-77.88803</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:51:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664815" lon="-77.888099">
+    <ele>342.119324</ele>
+    <time>2025-11-12T15:53:50Z</time>
+    <name>007</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664815</gpxx:lat>
+      <gpxx:lon>-77.888099</gpxx:lon>
+      <gpxx:y_proj>40.664815</gpxx:y_proj>
+      <gpxx:x_proj>-77.888099</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:53:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664877" lon="-77.888074">
+    <ele>339.755035</ele>
+    <time>2025-11-12T15:56:34Z</time>
+    <name>S4787</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664877</gpxx:lat>
+      <gpxx:lon>-77.888074</gpxx:lon>
+      <gpxx:y_proj>40.664877</gpxx:y_proj>
+      <gpxx:x_proj>-77.888074</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:56:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664963" lon="-77.888181">
+    <ele>342.18219</ele>
+    <time>2025-11-12T15:58:52Z</time>
+    <name>4788</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664963</gpxx:lat>
+      <gpxx:lon>-77.888181</gpxx:lon>
+      <gpxx:y_proj>40.664963</gpxx:y_proj>
+      <gpxx:x_proj>-77.888181</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 10:58:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664931" lon="-77.888206">
+    <ele>340.466278</ele>
+    <time>2025-11-12T16:01:42Z</time>
+    <name>002</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664931</gpxx:lat>
+      <gpxx:lon>-77.888206</gpxx:lon>
+      <gpxx:y_proj>40.664931</gpxx:y_proj>
+      <gpxx:x_proj>-77.888206</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:01:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664982" lon="-77.888165">
+    <ele>340.010193</ele>
+    <time>2025-11-12T16:02:25Z</time>
+    <name>003</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664982</gpxx:lat>
+      <gpxx:lon>-77.888165</gpxx:lon>
+      <gpxx:y_proj>40.664982</gpxx:y_proj>
+      <gpxx:x_proj>-77.888165</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:02:25</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664955" lon="-77.888217">
+    <ele>337.954987</ele>
+    <time>2025-11-12T16:06:56Z</time>
+    <name>4789</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664955</gpxx:lat>
+      <gpxx:lon>-77.888217</gpxx:lon>
+      <gpxx:y_proj>40.664955</gpxx:y_proj>
+      <gpxx:x_proj>-77.888217</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:06:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664961" lon="-77.888148">
+    <ele>338.633423</ele>
+    <time>2025-11-12T16:07:49Z</time>
+    <name>004</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664961</gpxx:lat>
+      <gpxx:lon>-77.888148</gpxx:lon>
+      <gpxx:y_proj>40.664961</gpxx:y_proj>
+      <gpxx:x_proj>-77.888148</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:07:49</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665015" lon="-77.888168">
+    <ele>338.208588</ele>
+    <time>2025-11-12T16:14:02Z</time>
+    <name>4696</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665015</gpxx:lat>
+      <gpxx:lon>-77.888168</gpxx:lon>
+      <gpxx:y_proj>40.665015</gpxx:y_proj>
+      <gpxx:x_proj>-77.888168</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:14:02</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664972" lon="-77.888136">
+    <ele>337.141052</ele>
+    <time>2025-11-12T16:14:51Z</time>
+    <name>005</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664972</gpxx:lat>
+      <gpxx:lon>-77.888136</gpxx:lon>
+      <gpxx:y_proj>40.664972</gpxx:y_proj>
+      <gpxx:x_proj>-77.888136</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:14:51</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664962" lon="-77.888107">
+    <ele>338.357147</ele>
+    <time>2025-11-12T16:15:28Z</time>
+    <name>006</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664962</gpxx:lat>
+      <gpxx:lon>-77.888107</gpxx:lon>
+      <gpxx:y_proj>40.664962</gpxx:y_proj>
+      <gpxx:x_proj>-77.888107</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:15:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66488" lon="-77.888096">
+    <ele>336.051605</ele>
+    <time>2025-11-12T16:17:45Z</time>
+    <name>4785</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66488</gpxx:lat>
+      <gpxx:lon>-77.888096</gpxx:lon>
+      <gpxx:y_proj>40.66488</gpxx:y_proj>
+      <gpxx:x_proj>-77.888096</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:17:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66494" lon="-77.888079">
+    <ele>336.291168</ele>
+    <time>2025-11-12T16:19:24Z</time>
+    <name>S4784</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66494</gpxx:lat>
+      <gpxx:lon>-77.888079</gpxx:lon>
+      <gpxx:y_proj>40.66494</gpxx:y_proj>
+      <gpxx:x_proj>-77.888079</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:19:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665003" lon="-77.888051">
+    <ele>336.723907</ele>
+    <time>2025-11-12T16:23:47Z</time>
+    <name>4691</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665003</gpxx:lat>
+      <gpxx:lon>-77.888051</gpxx:lon>
+      <gpxx:y_proj>40.665003</gpxx:y_proj>
+      <gpxx:x_proj>-77.888051</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:23:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665013" lon="-77.888094">
+    <ele>334.632935</ele>
+    <time>2025-11-12T16:25:20Z</time>
+    <name>2830</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665013</gpxx:lat>
+      <gpxx:lon>-77.888094</gpxx:lon>
+      <gpxx:y_proj>40.665013</gpxx:y_proj>
+      <gpxx:x_proj>-77.888094</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:25:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664775" lon="-77.887556">
+    <ele>327.574402</ele>
+    <time>2025-11-12T16:31:10Z</time>
+    <name>014</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664775</gpxx:lat>
+      <gpxx:lon>-77.887556</gpxx:lon>
+      <gpxx:y_proj>40.664775</gpxx:y_proj>
+      <gpxx:x_proj>-77.887556</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:31:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664728" lon="-77.887492">
+    <ele>328.734253</ele>
+    <time>2025-11-12T16:32:43Z</time>
+    <name>015</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664728</gpxx:lat>
+      <gpxx:lon>-77.887492</gpxx:lon>
+      <gpxx:y_proj>40.664728</gpxx:y_proj>
+      <gpxx:x_proj>-77.887492</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:32:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664811" lon="-77.887559">
+    <ele>330.838074</ele>
+    <time>2025-11-12T16:34:32Z</time>
+    <name>4775</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664811</gpxx:lat>
+      <gpxx:lon>-77.887559</gpxx:lon>
+      <gpxx:y_proj>40.664811</gpxx:y_proj>
+      <gpxx:x_proj>-77.887559</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:34:32</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664866" lon="-77.887543">
+    <ele>330.133514</ele>
+    <time>2025-11-12T16:36:00Z</time>
+    <name>017</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664866</gpxx:lat>
+      <gpxx:lon>-77.887543</gpxx:lon>
+      <gpxx:y_proj>40.664866</gpxx:y_proj>
+      <gpxx:x_proj>-77.887543</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:36:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664871" lon="-77.887462">
+    <ele>330.074036</ele>
+    <time>2025-11-12T16:37:01Z</time>
+    <name>016</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664871</gpxx:lat>
+      <gpxx:lon>-77.887462</gpxx:lon>
+      <gpxx:y_proj>40.664871</gpxx:y_proj>
+      <gpxx:x_proj>-77.887462</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:37:01</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664838" lon="-77.887536">
+    <ele>330.571198</ele>
+    <time>2025-11-12T16:43:20Z</time>
+    <name>SNT79</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664838</gpxx:lat>
+      <gpxx:lon>-77.887536</gpxx:lon>
+      <gpxx:y_proj>40.664838</gpxx:y_proj>
+      <gpxx:x_proj>-77.887536</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:43:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66495" lon="-77.88757">
+    <ele>333.44754</ele>
+    <time>2025-11-12T16:46:04Z</time>
+    <name>S4659</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66495</gpxx:lat>
+      <gpxx:lon>-77.88757</gpxx:lon>
+      <gpxx:y_proj>40.66495</gpxx:y_proj>
+      <gpxx:x_proj>-77.88757</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:46:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664969" lon="-77.887576">
+    <ele>333.247833</ele>
+    <time>2025-11-12T16:47:13Z</time>
+    <name>S4658</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664969</gpxx:lat>
+      <gpxx:lon>-77.887576</gpxx:lon>
+      <gpxx:y_proj>40.664969</gpxx:y_proj>
+      <gpxx:x_proj>-77.887576</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:47:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664955" lon="-77.887565">
+    <ele>334.475372</ele>
+    <time>2025-11-12T16:49:17Z</time>
+    <name>S4657</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664955</gpxx:lat>
+      <gpxx:lon>-77.887565</gpxx:lon>
+      <gpxx:y_proj>40.664955</gpxx:y_proj>
+      <gpxx:x_proj>-77.887565</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:49:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665023" lon="-77.887662">
+    <ele>332.959412</ele>
+    <time>2025-11-12T16:53:23Z</time>
+    <name>024</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665023</gpxx:lat>
+      <gpxx:lon>-77.887662</gpxx:lon>
+      <gpxx:y_proj>40.665023</gpxx:y_proj>
+      <gpxx:x_proj>-77.887662</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:53:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664974" lon="-77.88766">
+    <ele>332.88913</ele>
+    <time>2025-11-12T16:54:58Z</time>
+    <name>S4660</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664974</gpxx:lat>
+      <gpxx:lon>-77.88766</gpxx:lon>
+      <gpxx:y_proj>40.664974</gpxx:y_proj>
+      <gpxx:x_proj>-77.88766</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:54:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664911" lon="-77.887742">
+    <ele>333.977539</ele>
+    <time>2025-11-12T16:57:28Z</time>
+    <name>018</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664911</gpxx:lat>
+      <gpxx:lon>-77.887742</gpxx:lon>
+      <gpxx:y_proj>40.664911</gpxx:y_proj>
+      <gpxx:x_proj>-77.887742</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:57:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664912" lon="-77.887777">
+    <ele>332.340637</ele>
+    <time>2025-11-12T16:58:56Z</time>
+    <name>019</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664912</gpxx:lat>
+      <gpxx:lon>-77.887777</gpxx:lon>
+      <gpxx:y_proj>40.664912</gpxx:y_proj>
+      <gpxx:x_proj>-77.887777</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 11:58:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664879" lon="-77.887936">
+    <ele>334.111298</ele>
+    <time>2025-11-12T17:03:21Z</time>
+    <name>S4799</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664879</gpxx:lat>
+      <gpxx:lon>-77.887936</gpxx:lon>
+      <gpxx:y_proj>40.664879</gpxx:y_proj>
+      <gpxx:x_proj>-77.887936</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:03:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665009" lon="-77.888066">
+    <ele>336.295197</ele>
+    <time>2025-11-12T17:14:30Z</time>
+    <name>S4600</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665009</gpxx:lat>
+      <gpxx:lon>-77.888066</gpxx:lon>
+      <gpxx:y_proj>40.665009</gpxx:y_proj>
+      <gpxx:x_proj>-77.888066</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:14:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664966" lon="-77.888025">
+    <ele>335.592804</ele>
+    <time>2025-11-12T17:15:53Z</time>
+    <name>S4692</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664966</gpxx:lat>
+      <gpxx:lon>-77.888025</gpxx:lon>
+      <gpxx:y_proj>40.664966</gpxx:y_proj>
+      <gpxx:x_proj>-77.888025</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:15:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664951" lon="-77.887968">
+    <ele>336.509949</ele>
+    <time>2025-11-12T17:16:38Z</time>
+    <name>S4699</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664951</gpxx:lat>
+      <gpxx:lon>-77.887968</gpxx:lon>
+      <gpxx:y_proj>40.664951</gpxx:y_proj>
+      <gpxx:x_proj>-77.887968</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:16:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664958" lon="-77.887912">
+    <ele>336.23056</ele>
+    <time>2025-11-12T17:17:36Z</time>
+    <name>S4598</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664958</gpxx:lat>
+      <gpxx:lon>-77.887912</gpxx:lon>
+      <gpxx:y_proj>40.664958</gpxx:y_proj>
+      <gpxx:x_proj>-77.887912</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:17:36</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665059" lon="-77.888009">
+    <ele>339.229553</ele>
+    <time>2025-11-12T17:20:27Z</time>
+    <name>NT31</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665059</gpxx:lat>
+      <gpxx:lon>-77.888009</gpxx:lon>
+      <gpxx:y_proj>40.665059</gpxx:y_proj>
+      <gpxx:x_proj>-77.888009</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:20:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665039" lon="-77.888023">
+    <ele>338.99173</ele>
+    <time>2025-11-12T17:21:50Z</time>
+    <name>S4693</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665039</gpxx:lat>
+      <gpxx:lon>-77.888023</gpxx:lon>
+      <gpxx:y_proj>40.665039</gpxx:y_proj>
+      <gpxx:x_proj>-77.888023</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:21:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664955" lon="-77.88795">
+    <ele>342.596863</ele>
+    <time>2025-11-12T17:24:28Z</time>
+    <name>022</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664955</gpxx:lat>
+      <gpxx:lon>-77.88795</gpxx:lon>
+      <gpxx:y_proj>40.664955</gpxx:y_proj>
+      <gpxx:x_proj>-77.88795</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:24:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664975" lon="-77.887843">
+    <ele>340.64975</ele>
+    <time>2025-11-12T17:27:02Z</time>
+    <name>S4684</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664975</gpxx:lat>
+      <gpxx:lon>-77.887843</gpxx:lon>
+      <gpxx:y_proj>40.664975</gpxx:y_proj>
+      <gpxx:x_proj>-77.887843</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:27:02</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664952" lon="-77.887924">
+    <ele>339.966827</ele>
+    <time>2025-11-12T17:28:10Z</time>
+    <name>S4687</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664952</gpxx:lat>
+      <gpxx:lon>-77.887924</gpxx:lon>
+      <gpxx:y_proj>40.664952</gpxx:y_proj>
+      <gpxx:x_proj>-77.887924</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:28:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664927" lon="-77.887821">
+    <ele>343.141602</ele>
+    <time>2025-11-12T17:29:28Z</time>
+    <name>S4686</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664927</gpxx:lat>
+      <gpxx:lon>-77.887821</gpxx:lon>
+      <gpxx:y_proj>40.664927</gpxx:y_proj>
+      <gpxx:x_proj>-77.887821</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:29:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664913" lon="-77.887803">
+    <ele>342.595093</ele>
+    <time>2025-11-12T17:34:15Z</time>
+    <name>S4685</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664913</gpxx:lat>
+      <gpxx:lon>-77.887803</gpxx:lon>
+      <gpxx:y_proj>40.664913</gpxx:y_proj>
+      <gpxx:x_proj>-77.887803</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:34:15</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664839" lon="-77.887835">
+    <ele>340.1474</ele>
+    <time>2025-11-12T17:35:04Z</time>
+    <name>S4694</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664839</gpxx:lat>
+      <gpxx:lon>-77.887835</gpxx:lon>
+      <gpxx:y_proj>40.664839</gpxx:y_proj>
+      <gpxx:x_proj>-77.887835</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 12:35:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665277" lon="-77.888071">
+    <ele>349.844391</ele>
+    <time>2025-11-12T18:55:42Z</time>
+    <name>S4662</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665277</gpxx:lat>
+      <gpxx:lon>-77.888071</gpxx:lon>
+      <gpxx:y_proj>40.665277</gpxx:y_proj>
+      <gpxx:x_proj>-77.888071</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 13:55:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665373" lon="-77.887954">
+    <ele>349.974823</ele>
+    <time>2025-11-12T18:57:30Z</time>
+    <name>026</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665373</gpxx:lat>
+      <gpxx:lon>-77.887954</gpxx:lon>
+      <gpxx:y_proj>40.665373</gpxx:y_proj>
+      <gpxx:x_proj>-77.887954</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 13:57:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665476" lon="-77.888015">
+    <ele>347.810516</ele>
+    <time>2025-11-12T18:59:58Z</time>
+    <name>4680</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665476</gpxx:lat>
+      <gpxx:lon>-77.888015</gpxx:lon>
+      <gpxx:y_proj>40.665476</gpxx:y_proj>
+      <gpxx:x_proj>-77.888015</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 13:59:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665489" lon="-77.888086">
+    <ele>344.734467</ele>
+    <time>2025-11-12T19:02:51Z</time>
+    <name>S4679</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665489</gpxx:lat>
+      <gpxx:lon>-77.888086</gpxx:lon>
+      <gpxx:y_proj>40.665489</gpxx:y_proj>
+      <gpxx:x_proj>-77.888086</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 14:02:51</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665379" lon="-77.887951">
+    <ele>344.061737</ele>
+    <time>2025-11-12T19:06:35Z</time>
+    <name>S4664</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665379</gpxx:lat>
+      <gpxx:lon>-77.887951</gpxx:lon>
+      <gpxx:y_proj>40.665379</gpxx:y_proj>
+      <gpxx:x_proj>-77.887951</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 14:06:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665287" lon="-77.887923">
+    <ele>339.091003</ele>
+    <time>2025-11-12T19:16:19Z</time>
+    <name>S4665</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665287</gpxx:lat>
+      <gpxx:lon>-77.887923</gpxx:lon>
+      <gpxx:y_proj>40.665287</gpxx:y_proj>
+      <gpxx:x_proj>-77.887923</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 14:16:19</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665244" lon="-77.887895">
+    <ele>339.649658</ele>
+    <time>2025-11-12T19:19:51Z</time>
+    <name>S4662</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665244</gpxx:lat>
+      <gpxx:lon>-77.887895</gpxx:lon>
+      <gpxx:y_proj>40.665244</gpxx:y_proj>
+      <gpxx:x_proj>-77.887895</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 14:19:51</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665201" lon="-77.887884">
+    <ele>337.859131</ele>
+    <time>2025-11-12T19:29:54Z</time>
+    <name>S4661</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665201</gpxx:lat>
+      <gpxx:lon>-77.887884</gpxx:lon>
+      <gpxx:y_proj>40.665201</gpxx:y_proj>
+      <gpxx:x_proj>-77.887884</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 14:29:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665148" lon="-77.887851">
+    <ele>335.47049</ele>
+    <time>2025-11-12T19:32:30Z</time>
+    <name>025</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665148</gpxx:lat>
+      <gpxx:lon>-77.887851</gpxx:lon>
+      <gpxx:y_proj>40.665148</gpxx:y_proj>
+      <gpxx:x_proj>-77.887851</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 14:32:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665106" lon="-77.887827">
+    <ele>333.355377</ele>
+    <time>2025-11-12T19:42:23Z</time>
+    <name>S4700</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Navaid, V</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665106</gpxx:lat>
+      <gpxx:lon>-77.887827</gpxx:lon>
+      <gpxx:y_proj>40.665106</gpxx:y_proj>
+      <gpxx:x_proj>-77.887827</gpxx:x_proj>
+      <gpxx:ltime>2025/11/12 14:42:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>

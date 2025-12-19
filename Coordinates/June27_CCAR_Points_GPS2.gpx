@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="40.662421999999999" minlon="-77.892238000000006" maxlat="40.663697999999997" maxlon="-77.891473000000005" />
+  </metadata>
+  <wpt lat="40.662509" lon="-77.891666">
+    <ele>345.639923</ele>
+    <time>2025-06-27T13:57:16Z</time>
+    <name>1607</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662509</gpxx:lat>
+      <gpxx:lon>-77.891666</gpxx:lon>
+      <gpxx:y_proj>40.662509</gpxx:y_proj>
+      <gpxx:x_proj>-77.891666</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 09:57:16</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662532" lon="-77.891663">
+    <ele>340.466919</ele>
+    <time>2025-06-27T14:06:47Z</time>
+    <name>SNT1</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662532</gpxx:lat>
+      <gpxx:lon>-77.891663</gpxx:lon>
+      <gpxx:y_proj>40.662532</gpxx:y_proj>
+      <gpxx:x_proj>-77.891663</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:06:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662543" lon="-77.891742">
+    <ele>340.004608</ele>
+    <time>2025-06-27T14:09:23Z</time>
+    <name>SNT2</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662543</gpxx:lat>
+      <gpxx:lon>-77.891742</gpxx:lon>
+      <gpxx:y_proj>40.662543</gpxx:y_proj>
+      <gpxx:x_proj>-77.891742</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:09:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662495" lon="-77.891842">
+    <ele>336.804443</ele>
+    <time>2025-06-27T14:15:27Z</time>
+    <name>S348</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662495</gpxx:lat>
+      <gpxx:lon>-77.891842</gpxx:lon>
+      <gpxx:y_proj>40.662495</gpxx:y_proj>
+      <gpxx:x_proj>-77.891842</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:15:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662501" lon="-77.891905">
+    <ele>335.196442</ele>
+    <time>2025-06-27T14:16:53Z</time>
+    <name>S712</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662501</gpxx:lat>
+      <gpxx:lon>-77.891905</gpxx:lon>
+      <gpxx:y_proj>40.662501</gpxx:y_proj>
+      <gpxx:x_proj>-77.891905</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:16:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662422" lon="-77.89203">
+    <ele>333.854156</ele>
+    <time>2025-06-27T14:19:26Z</time>
+    <name>SNT3</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662422</gpxx:lat>
+      <gpxx:lon>-77.89203</gpxx:lon>
+      <gpxx:y_proj>40.662422</gpxx:y_proj>
+      <gpxx:x_proj>-77.89203</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:19:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662492" lon="-77.892236">
+    <ele>331.121399</ele>
+    <time>2025-06-27T14:21:56Z</time>
+    <name>S779</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662492</gpxx:lat>
+      <gpxx:lon>-77.892236</gpxx:lon>
+      <gpxx:y_proj>40.662492</gpxx:y_proj>
+      <gpxx:x_proj>-77.892236</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:21:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662441" lon="-77.892216">
+    <ele>330.638672</ele>
+    <time>2025-06-27T14:24:30Z</time>
+    <name>SNT4</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662441</gpxx:lat>
+      <gpxx:lon>-77.892216</gpxx:lon>
+      <gpxx:y_proj>40.662441</gpxx:y_proj>
+      <gpxx:x_proj>-77.892216</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:24:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662507" lon="-77.892238">
+    <ele>328.083984</ele>
+    <time>2025-06-27T14:33:59Z</time>
+    <name>S794</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662507</gpxx:lat>
+      <gpxx:lon>-77.892238</gpxx:lon>
+      <gpxx:y_proj>40.662507</gpxx:y_proj>
+      <gpxx:x_proj>-77.892238</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:33:59</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662783" lon="-77.891983">
+    <ele>329.445801</ele>
+    <time>2025-06-27T14:45:23Z</time>
+    <name>S312</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662783</gpxx:lat>
+      <gpxx:lon>-77.891983</gpxx:lon>
+      <gpxx:y_proj>40.662783</gpxx:y_proj>
+      <gpxx:x_proj>-77.891983</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:45:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662844" lon="-77.891927">
+    <ele>329.045715</ele>
+    <time>2025-06-27T14:47:38Z</time>
+    <name>S322</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662844</gpxx:lat>
+      <gpxx:lon>-77.891927</gpxx:lon>
+      <gpxx:y_proj>40.662844</gpxx:y_proj>
+      <gpxx:x_proj>-77.891927</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:47:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662775" lon="-77.891867">
+    <ele>331.496857</ele>
+    <time>2025-06-27T14:50:37Z</time>
+    <name>S324</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662775</gpxx:lat>
+      <gpxx:lon>-77.891867</gpxx:lon>
+      <gpxx:y_proj>40.662775</gpxx:y_proj>
+      <gpxx:x_proj>-77.891867</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:50:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662748" lon="-77.891735">
+    <ele>333.26004</ele>
+    <time>2025-06-27T14:52:23Z</time>
+    <name>S448</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662748</gpxx:lat>
+      <gpxx:lon>-77.891735</gpxx:lon>
+      <gpxx:y_proj>40.662748</gpxx:y_proj>
+      <gpxx:x_proj>-77.891735</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:52:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66272" lon="-77.891665">
+    <ele>333.052429</ele>
+    <time>2025-06-27T14:54:34Z</time>
+    <name>SNT6</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66272</gpxx:lat>
+      <gpxx:lon>-77.891665</gpxx:lon>
+      <gpxx:y_proj>40.66272</gpxx:y_proj>
+      <gpxx:x_proj>-77.891665</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:54:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662771" lon="-77.891653">
+    <ele>334.89032</ele>
+    <time>2025-06-27T14:55:18Z</time>
+    <name>S337</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662771</gpxx:lat>
+      <gpxx:lon>-77.891653</gpxx:lon>
+      <gpxx:y_proj>40.662771</gpxx:y_proj>
+      <gpxx:x_proj>-77.891653</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:55:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662658" lon="-77.891643">
+    <ele>335.340424</ele>
+    <time>2025-06-27T14:58:46Z</time>
+    <name>NT7</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662658</gpxx:lat>
+      <gpxx:lon>-77.891643</gpxx:lon>
+      <gpxx:y_proj>40.662658</gpxx:y_proj>
+      <gpxx:x_proj>-77.891643</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:58:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66262" lon="-77.89166">
+    <ele>335.459808</ele>
+    <time>2025-06-27T15:00:02Z</time>
+    <name>SNT8</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66262</gpxx:lat>
+      <gpxx:lon>-77.89166</gpxx:lon>
+      <gpxx:y_proj>40.66262</gpxx:y_proj>
+      <gpxx:x_proj>-77.89166</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:00:02</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662573" lon="-77.891875">
+    <ele>331.608917</ele>
+    <time>2025-06-27T15:02:30Z</time>
+    <name>S741</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662573</gpxx:lat>
+      <gpxx:lon>-77.891875</gpxx:lon>
+      <gpxx:y_proj>40.662573</gpxx:y_proj>
+      <gpxx:x_proj>-77.891875</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:02:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662589" lon="-77.891852">
+    <ele>332.149963</ele>
+    <time>2025-06-27T15:03:12Z</time>
+    <name>SNT9</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662589</gpxx:lat>
+      <gpxx:lon>-77.891852</gpxx:lon>
+      <gpxx:y_proj>40.662589</gpxx:y_proj>
+      <gpxx:x_proj>-77.891852</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:03:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662539" lon="-77.891827">
+    <ele>331.561829</ele>
+    <time>2025-06-27T15:05:55Z</time>
+    <name>NT8</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662539</gpxx:lat>
+      <gpxx:lon>-77.891827</gpxx:lon>
+      <gpxx:y_proj>40.662539</gpxx:y_proj>
+      <gpxx:x_proj>-77.891827</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:05:55</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662476" lon="-77.89196">
+    <ele>330.560333</ele>
+    <time>2025-06-27T15:08:57Z</time>
+    <name>1616</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662476</gpxx:lat>
+      <gpxx:lon>-77.89196</gpxx:lon>
+      <gpxx:y_proj>40.662476</gpxx:y_proj>
+      <gpxx:x_proj>-77.89196</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:08:57</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662693" lon="-77.891526">
+    <ele>334.740143</ele>
+    <time>2025-06-27T15:14:18Z</time>
+    <name>1605</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662693</gpxx:lat>
+      <gpxx:lon>-77.891526</gpxx:lon>
+      <gpxx:y_proj>40.662693</gpxx:y_proj>
+      <gpxx:x_proj>-77.891526</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:14:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.6627" lon="-77.891473">
+    <ele>334.910126</ele>
+    <time>2025-06-27T15:15:09Z</time>
+    <name>1604</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.6627</gpxx:lat>
+      <gpxx:lon>-77.891473</gpxx:lon>
+      <gpxx:y_proj>40.6627</gpxx:y_proj>
+      <gpxx:x_proj>-77.891473</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:15:09</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662763" lon="-77.891643">
+    <ele>332.030365</ele>
+    <time>2025-06-27T15:17:24Z</time>
+    <name>SNT11</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662763</gpxx:lat>
+      <gpxx:lon>-77.891643</gpxx:lon>
+      <gpxx:y_proj>40.662763</gpxx:y_proj>
+      <gpxx:x_proj>-77.891643</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:17:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662824" lon="-77.891606">
+    <ele>332.202454</ele>
+    <time>2025-06-27T15:18:59Z</time>
+    <name>1634</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662824</gpxx:lat>
+      <gpxx:lon>-77.891606</gpxx:lon>
+      <gpxx:y_proj>40.662824</gpxx:y_proj>
+      <gpxx:x_proj>-77.891606</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:18:59</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662822" lon="-77.891635">
+    <ele>331.971283</ele>
+    <time>2025-06-27T15:19:24Z</time>
+    <name>S437</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662822</gpxx:lat>
+      <gpxx:lon>-77.891635</gpxx:lon>
+      <gpxx:y_proj>40.662822</gpxx:y_proj>
+      <gpxx:x_proj>-77.891635</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:19:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662892" lon="-77.891701">
+    <ele>329.756958</ele>
+    <time>2025-06-27T15:22:48Z</time>
+    <name>470</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662892</gpxx:lat>
+      <gpxx:lon>-77.891701</gpxx:lon>
+      <gpxx:y_proj>40.662892</gpxx:y_proj>
+      <gpxx:x_proj>-77.891701</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:22:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662956" lon="-77.891794">
+    <ele>326.460236</ele>
+    <time>2025-06-27T15:34:58Z</time>
+    <name>1664</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662956</gpxx:lat>
+      <gpxx:lon>-77.891794</gpxx:lon>
+      <gpxx:y_proj>40.662956</gpxx:y_proj>
+      <gpxx:x_proj>-77.891794</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:34:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66303" lon="-77.89182">
+    <ele>325.256592</ele>
+    <time>2025-06-27T15:38:11Z</time>
+    <name>1663</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66303</gpxx:lat>
+      <gpxx:lon>-77.89182</gpxx:lon>
+      <gpxx:y_proj>40.66303</gpxx:y_proj>
+      <gpxx:x_proj>-77.89182</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:38:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663219" lon="-77.891797">
+    <ele>323.798615</ele>
+    <time>2025-06-27T15:42:31Z</time>
+    <name>1708</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663219</gpxx:lat>
+      <gpxx:lon>-77.891797</gpxx:lon>
+      <gpxx:y_proj>40.663219</gpxx:y_proj>
+      <gpxx:x_proj>-77.891797</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:42:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663363" lon="-77.891986">
+    <ele>318.375153</ele>
+    <time>2025-06-27T15:50:51Z</time>
+    <name>S293</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663363</gpxx:lat>
+      <gpxx:lon>-77.891986</gpxx:lon>
+      <gpxx:y_proj>40.663363</gpxx:y_proj>
+      <gpxx:x_proj>-77.891986</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:50:51</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663442" lon="-77.891984">
+    <ele>317.540039</ele>
+    <time>2025-06-27T15:52:19Z</time>
+    <name>S291</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663442</gpxx:lat>
+      <gpxx:lon>-77.891984</gpxx:lon>
+      <gpxx:y_proj>40.663442</gpxx:y_proj>
+      <gpxx:x_proj>-77.891984</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:52:19</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663614" lon="-77.891886">
+    <ele>318.022919</ele>
+    <time>2025-06-27T16:04:22Z</time>
+    <name>S69</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663614</gpxx:lat>
+      <gpxx:lon>-77.891886</gpxx:lon>
+      <gpxx:y_proj>40.663614</gpxx:y_proj>
+      <gpxx:x_proj>-77.891886</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:04:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663623" lon="-77.891913">
+    <ele>316.749512</ele>
+    <time>2025-06-27T16:05:50Z</time>
+    <name>1782</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663623</gpxx:lat>
+      <gpxx:lon>-77.891913</gpxx:lon>
+      <gpxx:y_proj>40.663623</gpxx:y_proj>
+      <gpxx:x_proj>-77.891913</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:05:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663646" lon="-77.891968">
+    <ele>317.073029</ele>
+    <time>2025-06-27T16:07:18Z</time>
+    <name>1746</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663646</gpxx:lat>
+      <gpxx:lon>-77.891968</gpxx:lon>
+      <gpxx:y_proj>40.663646</gpxx:y_proj>
+      <gpxx:x_proj>-77.891968</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:07:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663661" lon="-77.892028">
+    <ele>315.107147</ele>
+    <time>2025-06-27T16:08:45Z</time>
+    <name>S62</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663661</gpxx:lat>
+      <gpxx:lon>-77.892028</gpxx:lon>
+      <gpxx:y_proj>40.663661</gpxx:y_proj>
+      <gpxx:x_proj>-77.892028</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:08:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663698" lon="-77.892069">
+    <ele>314.010162</ele>
+    <time>2025-06-27T16:09:44Z</time>
+    <name>1780</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Small Game</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663698</gpxx:lat>
+      <gpxx:lon>-77.892069</gpxx:lon>
+      <gpxx:y_proj>40.663698</gpxx:y_proj>
+      <gpxx:x_proj>-77.892069</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:09:44</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>

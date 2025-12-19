@@ -1,0 +1,861 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="40.666024000000000" minlon="-77.885463000000001" maxlat="40.666707000000002" maxlon="-77.884660999999994" />
+  </metadata>
+  <wpt lat="40.666707" lon="-77.884743">
+    <ele>353.738525</ele>
+    <time>2025-06-11T14:07:45Z</time>
+    <name>743</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666707</gpxx:lat>
+      <gpxx:lon>-77.884743</gpxx:lon>
+      <gpxx:y_proj>40.666707</gpxx:y_proj>
+      <gpxx:x_proj>-77.884743</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:07:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666707" lon="-77.884977">
+    <ele>353.156555</ele>
+    <time>2025-06-11T14:12:36Z</time>
+    <name>1998</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666707</gpxx:lat>
+      <gpxx:lon>-77.884977</gpxx:lon>
+      <gpxx:y_proj>40.666707</gpxx:y_proj>
+      <gpxx:x_proj>-77.884977</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:12:36</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666679" lon="-77.884753">
+    <ele>352.983765</ele>
+    <time>2025-06-11T14:17:14Z</time>
+    <name>745</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666679</gpxx:lat>
+      <gpxx:lon>-77.884753</gpxx:lon>
+      <gpxx:y_proj>40.666679</gpxx:y_proj>
+      <gpxx:x_proj>-77.884753</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:17:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66661" lon="-77.884843">
+    <ele>352.614899</ele>
+    <time>2025-06-11T14:18:20Z</time>
+    <name>751</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66661</gpxx:lat>
+      <gpxx:lon>-77.884843</gpxx:lon>
+      <gpxx:y_proj>40.66661</gpxx:y_proj>
+      <gpxx:x_proj>-77.884843</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:18:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666585" lon="-77.884816">
+    <ele>352.183899</ele>
+    <time>2025-06-11T14:19:13Z</time>
+    <name>750</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666585</gpxx:lat>
+      <gpxx:lon>-77.884816</gpxx:lon>
+      <gpxx:y_proj>40.666585</gpxx:y_proj>
+      <gpxx:x_proj>-77.884816</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:19:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666603" lon="-77.884936">
+    <ele>353.042816</ele>
+    <time>2025-06-11T14:20:55Z</time>
+    <name>749</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666603</gpxx:lat>
+      <gpxx:lon>-77.884936</gpxx:lon>
+      <gpxx:y_proj>40.666603</gpxx:y_proj>
+      <gpxx:x_proj>-77.884936</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:20:55</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666617" lon="-77.884661">
+    <ele>355.075378</ele>
+    <time>2025-06-11T14:23:43Z</time>
+    <name>752</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666617</gpxx:lat>
+      <gpxx:lon>-77.884661</gpxx:lon>
+      <gpxx:y_proj>40.666617</gpxx:y_proj>
+      <gpxx:x_proj>-77.884661</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:23:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666646" lon="-77.884868">
+    <ele>354.384491</ele>
+    <time>2025-06-11T14:24:17Z</time>
+    <name>746</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666646</gpxx:lat>
+      <gpxx:lon>-77.884868</gpxx:lon>
+      <gpxx:y_proj>40.666646</gpxx:y_proj>
+      <gpxx:x_proj>-77.884868</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:24:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666483" lon="-77.884911">
+    <ele>354.660706</ele>
+    <time>2025-06-11T14:27:48Z</time>
+    <name>771</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666483</gpxx:lat>
+      <gpxx:lon>-77.884911</gpxx:lon>
+      <gpxx:y_proj>40.666483</gpxx:y_proj>
+      <gpxx:x_proj>-77.884911</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:27:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666521" lon="-77.884941">
+    <ele>354.098877</ele>
+    <time>2025-06-11T14:31:35Z</time>
+    <name>772</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666521</gpxx:lat>
+      <gpxx:lon>-77.884941</gpxx:lon>
+      <gpxx:y_proj>40.666521</gpxx:y_proj>
+      <gpxx:x_proj>-77.884941</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:31:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666505" lon="-77.884881">
+    <ele>354.562164</ele>
+    <time>2025-06-11T14:32:04Z</time>
+    <name>773</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666505</gpxx:lat>
+      <gpxx:lon>-77.884881</gpxx:lon>
+      <gpxx:y_proj>40.666505</gpxx:y_proj>
+      <gpxx:x_proj>-77.884881</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:32:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66646" lon="-77.885064">
+    <ele>356.431152</ele>
+    <time>2025-06-11T14:37:34Z</time>
+    <name>774</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66646</gpxx:lat>
+      <gpxx:lon>-77.885064</gpxx:lon>
+      <gpxx:y_proj>40.66646</gpxx:y_proj>
+      <gpxx:x_proj>-77.885064</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:37:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666447" lon="-77.885074">
+    <ele>355.969116</ele>
+    <time>2025-06-11T14:39:39Z</time>
+    <name>775</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666447</gpxx:lat>
+      <gpxx:lon>-77.885074</gpxx:lon>
+      <gpxx:y_proj>40.666447</gpxx:y_proj>
+      <gpxx:x_proj>-77.885074</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:39:39</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66637" lon="-77.885131">
+    <ele>355.401154</ele>
+    <time>2025-06-11T14:44:12Z</time>
+    <name>894</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66637</gpxx:lat>
+      <gpxx:lon>-77.885131</gpxx:lon>
+      <gpxx:y_proj>40.66637</gpxx:y_proj>
+      <gpxx:x_proj>-77.885131</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:44:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666369" lon="-77.885143">
+    <ele>354.241669</ele>
+    <time>2025-06-11T14:44:31Z</time>
+    <name>895</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666369</gpxx:lat>
+      <gpxx:lon>-77.885143</gpxx:lon>
+      <gpxx:y_proj>40.666369</gpxx:y_proj>
+      <gpxx:x_proj>-77.885143</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:44:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666446" lon="-77.884997">
+    <ele>356.13504</ele>
+    <time>2025-06-11T14:47:13Z</time>
+    <name>897</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666446</gpxx:lat>
+      <gpxx:lon>-77.884997</gpxx:lon>
+      <gpxx:y_proj>40.666446</gpxx:y_proj>
+      <gpxx:x_proj>-77.884997</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:47:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666291" lon="-77.884964">
+    <ele>356.499084</ele>
+    <time>2025-06-11T14:49:00Z</time>
+    <name>902</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666291</gpxx:lat>
+      <gpxx:lon>-77.884964</gpxx:lon>
+      <gpxx:y_proj>40.666291</gpxx:y_proj>
+      <gpxx:x_proj>-77.884964</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:49:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666329" lon="-77.885132">
+    <ele>355.943726</ele>
+    <time>2025-06-11T14:50:13Z</time>
+    <name>899</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666329</gpxx:lat>
+      <gpxx:lon>-77.885132</gpxx:lon>
+      <gpxx:y_proj>40.666329</gpxx:y_proj>
+      <gpxx:x_proj>-77.885132</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:50:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666333" lon="-77.885023">
+    <ele>354.906433</ele>
+    <time>2025-06-11T14:51:04Z</time>
+    <name>901</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666333</gpxx:lat>
+      <gpxx:lon>-77.885023</gpxx:lon>
+      <gpxx:y_proj>40.666333</gpxx:y_proj>
+      <gpxx:x_proj>-77.885023</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:51:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666388" lon="-77.885104">
+    <ele>355.092712</ele>
+    <time>2025-06-11T14:51:58Z</time>
+    <name>900</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666388</gpxx:lat>
+      <gpxx:lon>-77.885104</gpxx:lon>
+      <gpxx:y_proj>40.666388</gpxx:y_proj>
+      <gpxx:x_proj>-77.885104</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:51:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66642" lon="-77.884922">
+    <ele>353.649872</ele>
+    <time>2025-06-11T14:54:59Z</time>
+    <name>939</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66642</gpxx:lat>
+      <gpxx:lon>-77.884922</gpxx:lon>
+      <gpxx:y_proj>40.66642</gpxx:y_proj>
+      <gpxx:x_proj>-77.884922</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:54:59</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66628" lon="-77.884903">
+    <ele>354.483612</ele>
+    <time>2025-06-11T14:57:15Z</time>
+    <name>905</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66628</gpxx:lat>
+      <gpxx:lon>-77.884903</gpxx:lon>
+      <gpxx:y_proj>40.66628</gpxx:y_proj>
+      <gpxx:x_proj>-77.884903</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:57:15</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666302" lon="-77.88486">
+    <ele>354.153717</ele>
+    <time>2025-06-11T14:57:55Z</time>
+    <name>904</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666302</gpxx:lat>
+      <gpxx:lon>-77.88486</gpxx:lon>
+      <gpxx:y_proj>40.666302</gpxx:y_proj>
+      <gpxx:x_proj>-77.88486</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 10:57:55</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666282" lon="-77.88493">
+    <ele>354.974854</ele>
+    <time>2025-06-11T15:03:28Z</time>
+    <name>880</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666282</gpxx:lat>
+      <gpxx:lon>-77.88493</gpxx:lon>
+      <gpxx:y_proj>40.666282</gpxx:y_proj>
+      <gpxx:x_proj>-77.88493</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 11:03:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666324" lon="-77.884876">
+    <ele>353.749359</ele>
+    <time>2025-06-11T15:04:14Z</time>
+    <name>906</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666324</gpxx:lat>
+      <gpxx:lon>-77.884876</gpxx:lon>
+      <gpxx:y_proj>40.666324</gpxx:y_proj>
+      <gpxx:x_proj>-77.884876</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 11:04:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666265" lon="-77.884984">
+    <ele>353.046265</ele>
+    <time>2025-06-11T15:05:13Z</time>
+    <name>879</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666265</gpxx:lat>
+      <gpxx:lon>-77.884984</gpxx:lon>
+      <gpxx:y_proj>40.666265</gpxx:y_proj>
+      <gpxx:x_proj>-77.884984</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 11:05:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666243" lon="-77.884989">
+    <ele>353.211426</ele>
+    <time>2025-06-11T15:08:14Z</time>
+    <name>878</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666243</gpxx:lat>
+      <gpxx:lon>-77.884989</gpxx:lon>
+      <gpxx:y_proj>40.666243</gpxx:y_proj>
+      <gpxx:x_proj>-77.884989</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 11:08:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666316" lon="-77.885006">
+    <ele>354.731873</ele>
+    <time>2025-06-11T15:09:26Z</time>
+    <name>881</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666316</gpxx:lat>
+      <gpxx:lon>-77.885006</gpxx:lon>
+      <gpxx:y_proj>40.666316</gpxx:y_proj>
+      <gpxx:x_proj>-77.885006</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 11:09:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66625" lon="-77.884989">
+    <ele>353.94046</ele>
+    <time>2025-06-11T15:10:22Z</time>
+    <name>877</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66625</gpxx:lat>
+      <gpxx:lon>-77.884989</gpxx:lon>
+      <gpxx:y_proj>40.66625</gpxx:y_proj>
+      <gpxx:x_proj>-77.884989</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 11:10:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666235" lon="-77.885071">
+    <ele>353.715881</ele>
+    <time>2025-06-11T15:11:38Z</time>
+    <name>874</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666235</gpxx:lat>
+      <gpxx:lon>-77.885071</gpxx:lon>
+      <gpxx:y_proj>40.666235</gpxx:y_proj>
+      <gpxx:x_proj>-77.885071</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 11:11:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666503" lon="-77.885">
+    <ele>354.052765</ele>
+    <time>2025-06-11T15:16:50Z</time>
+    <name>892</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666503</gpxx:lat>
+      <gpxx:lon>-77.885</gpxx:lon>
+      <gpxx:y_proj>40.666503</gpxx:y_proj>
+      <gpxx:x_proj>-77.885</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 11:16:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666597" lon="-77.885209">
+    <ele>344.846161</ele>
+    <time>2025-06-11T16:58:15Z</time>
+    <name>717</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666597</gpxx:lat>
+      <gpxx:lon>-77.885209</gpxx:lon>
+      <gpxx:y_proj>40.666597</gpxx:y_proj>
+      <gpxx:x_proj>-77.885209</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 12:58:15</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666616" lon="-77.885267">
+    <ele>344.916473</ele>
+    <time>2025-06-11T17:00:48Z</time>
+    <name>708</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666616</gpxx:lat>
+      <gpxx:lon>-77.885267</gpxx:lon>
+      <gpxx:y_proj>40.666616</gpxx:y_proj>
+      <gpxx:x_proj>-77.885267</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:00:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666472" lon="-77.885354">
+    <ele>343.119049</ele>
+    <time>2025-06-11T17:05:06Z</time>
+    <name>787</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666472</gpxx:lat>
+      <gpxx:lon>-77.885354</gpxx:lon>
+      <gpxx:y_proj>40.666472</gpxx:y_proj>
+      <gpxx:x_proj>-77.885354</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:05:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666422" lon="-77.885339">
+    <ele>344.400848</ele>
+    <time>2025-06-11T17:05:44Z</time>
+    <name>788</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666422</gpxx:lat>
+      <gpxx:lon>-77.885339</gpxx:lon>
+      <gpxx:y_proj>40.666422</gpxx:y_proj>
+      <gpxx:x_proj>-77.885339</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:05:44</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666447" lon="-77.885293">
+    <ele>343.520538</ele>
+    <time>2025-06-11T17:07:14Z</time>
+    <name>786</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666447</gpxx:lat>
+      <gpxx:lon>-77.885293</gpxx:lon>
+      <gpxx:y_proj>40.666447</gpxx:y_proj>
+      <gpxx:x_proj>-77.885293</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:07:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666453" lon="-77.885115">
+    <ele>346.282959</ele>
+    <time>2025-06-11T17:12:13Z</time>
+    <name>891</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666453</gpxx:lat>
+      <gpxx:lon>-77.885115</gpxx:lon>
+      <gpxx:y_proj>40.666453</gpxx:y_proj>
+      <gpxx:x_proj>-77.885115</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:12:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666268" lon="-77.88537">
+    <ele>343.824036</ele>
+    <time>2025-06-11T17:18:57Z</time>
+    <name>871</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666268</gpxx:lat>
+      <gpxx:lon>-77.88537</gpxx:lon>
+      <gpxx:y_proj>40.666268</gpxx:y_proj>
+      <gpxx:x_proj>-77.88537</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:18:57</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666253" lon="-77.885379">
+    <ele>345.695862</ele>
+    <time>2025-06-11T17:20:29Z</time>
+    <name>793</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666253</gpxx:lat>
+      <gpxx:lon>-77.885379</gpxx:lon>
+      <gpxx:y_proj>40.666253</gpxx:y_proj>
+      <gpxx:x_proj>-77.885379</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:20:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66622" lon="-77.88543">
+    <ele>345.402985</ele>
+    <time>2025-06-11T17:21:21Z</time>
+    <name>796</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66622</gpxx:lat>
+      <gpxx:lon>-77.88543</gpxx:lon>
+      <gpxx:y_proj>40.66622</gpxx:y_proj>
+      <gpxx:x_proj>-77.88543</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:21:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666194" lon="-77.885463">
+    <ele>345.394989</ele>
+    <time>2025-06-11T17:23:01Z</time>
+    <name>797</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666194</gpxx:lat>
+      <gpxx:lon>-77.885463</gpxx:lon>
+      <gpxx:y_proj>40.666194</gpxx:y_proj>
+      <gpxx:x_proj>-77.885463</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:23:01</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666282" lon="-77.885455">
+    <ele>344.95816</ele>
+    <time>2025-06-11T17:26:17Z</time>
+    <name>798</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666282</gpxx:lat>
+      <gpxx:lon>-77.885455</gpxx:lon>
+      <gpxx:y_proj>40.666282</gpxx:y_proj>
+      <gpxx:x_proj>-77.885455</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:26:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666213" lon="-77.885425">
+    <ele>343.899567</ele>
+    <time>2025-06-11T17:27:21Z</time>
+    <name>799</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666213</gpxx:lat>
+      <gpxx:lon>-77.885425</gpxx:lon>
+      <gpxx:y_proj>40.666213</gpxx:y_proj>
+      <gpxx:x_proj>-77.885425</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:27:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666138" lon="-77.885387">
+    <ele>344.283661</ele>
+    <time>2025-06-11T17:29:05Z</time>
+    <name>800</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666138</gpxx:lat>
+      <gpxx:lon>-77.885387</gpxx:lon>
+      <gpxx:y_proj>40.666138</gpxx:y_proj>
+      <gpxx:x_proj>-77.885387</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:29:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666237" lon="-77.885347">
+    <ele>348.770813</ele>
+    <time>2025-06-11T17:30:41Z</time>
+    <name>870</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666237</gpxx:lat>
+      <gpxx:lon>-77.885347</gpxx:lon>
+      <gpxx:y_proj>40.666237</gpxx:y_proj>
+      <gpxx:x_proj>-77.885347</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:30:41</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666153" lon="-77.885303">
+    <ele>344.030609</ele>
+    <time>2025-06-11T17:32:56Z</time>
+    <name>801</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666153</gpxx:lat>
+      <gpxx:lon>-77.885303</gpxx:lon>
+      <gpxx:y_proj>40.666153</gpxx:y_proj>
+      <gpxx:x_proj>-77.885303</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:32:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666082" lon="-77.885292">
+    <ele>343.086792</ele>
+    <time>2025-06-11T17:35:41Z</time>
+    <name>802</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666082</gpxx:lat>
+      <gpxx:lon>-77.885292</gpxx:lon>
+      <gpxx:y_proj>40.666082</gpxx:y_proj>
+      <gpxx:x_proj>-77.885292</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:35:41</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666073" lon="-77.885308">
+    <ele>342.731903</ele>
+    <time>2025-06-11T17:37:52Z</time>
+    <name>804</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666073</gpxx:lat>
+      <gpxx:lon>-77.885308</gpxx:lon>
+      <gpxx:y_proj>40.666073</gpxx:y_proj>
+      <gpxx:x_proj>-77.885308</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:37:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666122" lon="-77.88532">
+    <ele>342.752747</ele>
+    <time>2025-06-11T17:38:56Z</time>
+    <name>803</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666122</gpxx:lat>
+      <gpxx:lon>-77.88532</gpxx:lon>
+      <gpxx:y_proj>40.666122</gpxx:y_proj>
+      <gpxx:x_proj>-77.88532</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:38:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666091" lon="-77.885295">
+    <ele>341.801514</ele>
+    <time>2025-06-11T17:40:04Z</time>
+    <name>805</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666091</gpxx:lat>
+      <gpxx:lon>-77.885295</gpxx:lon>
+      <gpxx:y_proj>40.666091</gpxx:y_proj>
+      <gpxx:x_proj>-77.885295</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:40:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666124" lon="-77.885304">
+    <ele>341.852325</ele>
+    <time>2025-06-11T17:40:46Z</time>
+    <name>806</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666124</gpxx:lat>
+      <gpxx:lon>-77.885304</gpxx:lon>
+      <gpxx:y_proj>40.666124</gpxx:y_proj>
+      <gpxx:x_proj>-77.885304</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:40:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666082" lon="-77.885246">
+    <ele>343.685944</ele>
+    <time>2025-06-11T17:43:01Z</time>
+    <name>863</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666082</gpxx:lat>
+      <gpxx:lon>-77.885246</gpxx:lon>
+      <gpxx:y_proj>40.666082</gpxx:y_proj>
+      <gpxx:x_proj>-77.885246</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:43:01</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66614" lon="-77.885172">
+    <ele>343.693268</ele>
+    <time>2025-06-11T17:47:34Z</time>
+    <name>860</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66614</gpxx:lat>
+      <gpxx:lon>-77.885172</gpxx:lon>
+      <gpxx:y_proj>40.66614</gpxx:y_proj>
+      <gpxx:x_proj>-77.885172</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:47:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666075" lon="-77.885104">
+    <ele>343.026367</ele>
+    <time>2025-06-11T17:54:16Z</time>
+    <name>808</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666075</gpxx:lat>
+      <gpxx:lon>-77.885104</gpxx:lon>
+      <gpxx:y_proj>40.666075</gpxx:y_proj>
+      <gpxx:x_proj>-77.885104</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:54:16</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66612" lon="-77.885096">
+    <ele>343.756287</ele>
+    <time>2025-06-11T17:55:54Z</time>
+    <name>807</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66612</gpxx:lat>
+      <gpxx:lon>-77.885096</gpxx:lon>
+      <gpxx:y_proj>40.66612</gpxx:y_proj>
+      <gpxx:x_proj>-77.885096</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:55:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666024" lon="-77.885052">
+    <ele>342.694855</ele>
+    <time>2025-06-11T17:56:35Z</time>
+    <name>809</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666024</gpxx:lat>
+      <gpxx:lon>-77.885052</gpxx:lon>
+      <gpxx:y_proj>40.666024</gpxx:y_proj>
+      <gpxx:x_proj>-77.885052</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 13:56:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666158" lon="-77.884888">
+    <ele>344.069885</ele>
+    <time>2025-06-11T18:01:10Z</time>
+    <name>856</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666158</gpxx:lat>
+      <gpxx:lon>-77.884888</gpxx:lon>
+      <gpxx:y_proj>40.666158</gpxx:y_proj>
+      <gpxx:x_proj>-77.884888</gpxx:x_proj>
+      <gpxx:ltime>2025/06/11 14:01:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>

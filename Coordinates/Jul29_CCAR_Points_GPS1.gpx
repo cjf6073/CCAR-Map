@@ -1,0 +1,1011 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="40.663732000000003" minlon="-77.891430000000000" maxlat="40.664799000000002" maxlon="-77.889897000000005" />
+  </metadata>
+  <wpt lat="40.663929" lon="-77.889911">
+    <ele>351.190979</ele>
+    <time>2025-07-29T14:08:26Z</time>
+    <name>2022</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663929</gpxx:lat>
+      <gpxx:lon>-77.889911</gpxx:lon>
+      <gpxx:y_proj>40.663929</gpxx:y_proj>
+      <gpxx:x_proj>-77.889911</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:08:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663943" lon="-77.889941">
+    <ele>350.511353</ele>
+    <time>2025-07-29T14:09:58Z</time>
+    <name>958</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663943</gpxx:lat>
+      <gpxx:lon>-77.889941</gpxx:lon>
+      <gpxx:y_proj>40.663943</gpxx:y_proj>
+      <gpxx:x_proj>-77.889941</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:09:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66397" lon="-77.88994">
+    <ele>349.587952</ele>
+    <time>2025-07-29T14:12:14Z</time>
+    <name>S2005</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66397</gpxx:lat>
+      <gpxx:lon>-77.88994</gpxx:lon>
+      <gpxx:y_proj>40.66397</gpxx:y_proj>
+      <gpxx:x_proj>-77.88994</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:12:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663871" lon="-77.889968">
+    <ele>350.475983</ele>
+    <time>2025-07-29T14:14:21Z</time>
+    <name>959</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663871</gpxx:lat>
+      <gpxx:lon>-77.889968</gpxx:lon>
+      <gpxx:y_proj>40.663871</gpxx:y_proj>
+      <gpxx:x_proj>-77.889968</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:14:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663749" lon="-77.889955">
+    <ele>350.365509</ele>
+    <time>2025-07-29T14:16:52Z</time>
+    <name>2035</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663749</gpxx:lat>
+      <gpxx:lon>-77.889955</gpxx:lon>
+      <gpxx:y_proj>40.663749</gpxx:y_proj>
+      <gpxx:x_proj>-77.889955</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:16:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663843" lon="-77.890019">
+    <ele>350.898071</ele>
+    <time>2025-07-29T14:18:23Z</time>
+    <name>960</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663843</gpxx:lat>
+      <gpxx:lon>-77.890019</gpxx:lon>
+      <gpxx:y_proj>40.663843</gpxx:y_proj>
+      <gpxx:x_proj>-77.890019</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:18:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66389" lon="-77.890076">
+    <ele>349.106628</ele>
+    <time>2025-07-29T14:20:07Z</time>
+    <name>SNT46</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66389</gpxx:lat>
+      <gpxx:lon>-77.890076</gpxx:lon>
+      <gpxx:y_proj>40.66389</gpxx:y_proj>
+      <gpxx:x_proj>-77.890076</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:20:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663913" lon="-77.890093">
+    <ele>349.522705</ele>
+    <time>2025-07-29T14:21:40Z</time>
+    <name>993</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663913</gpxx:lat>
+      <gpxx:lon>-77.890093</gpxx:lon>
+      <gpxx:y_proj>40.663913</gpxx:y_proj>
+      <gpxx:x_proj>-77.890093</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:21:40</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663959" lon="-77.89025">
+    <ele>347.265869</ele>
+    <time>2025-07-29T14:26:35Z</time>
+    <name>SNT48</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663959</gpxx:lat>
+      <gpxx:lon>-77.89025</gpxx:lon>
+      <gpxx:y_proj>40.663959</gpxx:y_proj>
+      <gpxx:x_proj>-77.89025</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:26:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663934" lon="-77.890282">
+    <ele>346.673065</ele>
+    <time>2025-07-29T14:28:52Z</time>
+    <name>994</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663934</gpxx:lat>
+      <gpxx:lon>-77.890282</gpxx:lon>
+      <gpxx:y_proj>40.663934</gpxx:y_proj>
+      <gpxx:x_proj>-77.890282</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:28:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663993" lon="-77.890388">
+    <ele>343.504181</ele>
+    <time>2025-07-29T14:31:54Z</time>
+    <name>1008</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663993</gpxx:lat>
+      <gpxx:lon>-77.890388</gpxx:lon>
+      <gpxx:y_proj>40.663993</gpxx:y_proj>
+      <gpxx:x_proj>-77.890388</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:31:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663995" lon="-77.890382">
+    <ele>341.441254</ele>
+    <time>2025-07-29T14:35:40Z</time>
+    <name>S2551</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663995</gpxx:lat>
+      <gpxx:lon>-77.890382</gpxx:lon>
+      <gpxx:y_proj>40.663995</gpxx:y_proj>
+      <gpxx:x_proj>-77.890382</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:35:40</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664032" lon="-77.890463">
+    <ele>341.854858</ele>
+    <time>2025-07-29T14:38:26Z</time>
+    <name>SNT49</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664032</gpxx:lat>
+      <gpxx:lon>-77.890463</gpxx:lon>
+      <gpxx:y_proj>40.664032</gpxx:y_proj>
+      <gpxx:x_proj>-77.890463</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:38:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664125" lon="-77.890429">
+    <ele>340.733307</ele>
+    <time>2025-07-29T14:40:06Z</time>
+    <name>1010</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664125</gpxx:lat>
+      <gpxx:lon>-77.890429</gpxx:lon>
+      <gpxx:y_proj>40.664125</gpxx:y_proj>
+      <gpxx:x_proj>-77.890429</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:40:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.6641" lon="-77.890279">
+    <ele>343.234802</ele>
+    <time>2025-07-29T14:43:50Z</time>
+    <name>1011</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.6641</gpxx:lat>
+      <gpxx:lon>-77.890279</gpxx:lon>
+      <gpxx:y_proj>40.6641</gpxx:y_proj>
+      <gpxx:x_proj>-77.890279</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:43:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664128" lon="-77.890377">
+    <ele>340.356323</ele>
+    <time>2025-07-29T14:45:02Z</time>
+    <name>S2588</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664128</gpxx:lat>
+      <gpxx:lon>-77.890377</gpxx:lon>
+      <gpxx:y_proj>40.664128</gpxx:y_proj>
+      <gpxx:x_proj>-77.890377</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:45:02</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664082" lon="-77.890392">
+    <ele>342.787048</ele>
+    <time>2025-07-29T14:50:13Z</time>
+    <name>S2506</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664082</gpxx:lat>
+      <gpxx:lon>-77.890392</gpxx:lon>
+      <gpxx:y_proj>40.664082</gpxx:y_proj>
+      <gpxx:x_proj>-77.890392</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:50:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664051" lon="-77.890263">
+    <ele>342.547455</ele>
+    <time>2025-07-29T14:53:05Z</time>
+    <name>SNT52</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664051</gpxx:lat>
+      <gpxx:lon>-77.890263</gpxx:lon>
+      <gpxx:y_proj>40.664051</gpxx:y_proj>
+      <gpxx:x_proj>-77.890263</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:53:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66416" lon="-77.890242">
+    <ele>342.448151</ele>
+    <time>2025-07-29T14:57:12Z</time>
+    <name>2537</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66416</gpxx:lat>
+      <gpxx:lon>-77.890242</gpxx:lon>
+      <gpxx:y_proj>40.66416</gpxx:y_proj>
+      <gpxx:x_proj>-77.890242</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 10:57:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664169" lon="-77.890493">
+    <ele>337.724518</ele>
+    <time>2025-07-29T15:02:06Z</time>
+    <name>1036</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664169</gpxx:lat>
+      <gpxx:lon>-77.890493</gpxx:lon>
+      <gpxx:y_proj>40.664169</gpxx:y_proj>
+      <gpxx:x_proj>-77.890493</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:02:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664209" lon="-77.890465">
+    <ele>336.950165</ele>
+    <time>2025-07-29T15:03:04Z</time>
+    <name>1037</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664209</gpxx:lat>
+      <gpxx:lon>-77.890465</gpxx:lon>
+      <gpxx:y_proj>40.664209</gpxx:y_proj>
+      <gpxx:x_proj>-77.890465</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:03:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664255" lon="-77.890525">
+    <ele>337.032227</ele>
+    <time>2025-07-29T15:05:11Z</time>
+    <name>S2850</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664255</gpxx:lat>
+      <gpxx:lon>-77.890525</gpxx:lon>
+      <gpxx:y_proj>40.664255</gpxx:y_proj>
+      <gpxx:x_proj>-77.890525</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:05:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664266" lon="-77.890512">
+    <ele>336.00415</ele>
+    <time>2025-07-29T15:06:14Z</time>
+    <name>1052</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664266</gpxx:lat>
+      <gpxx:lon>-77.890512</gpxx:lon>
+      <gpxx:y_proj>40.664266</gpxx:y_proj>
+      <gpxx:x_proj>-77.890512</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:06:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664257" lon="-77.890655">
+    <ele>334.984253</ele>
+    <time>2025-07-29T15:07:14Z</time>
+    <name>S2891</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664257</gpxx:lat>
+      <gpxx:lon>-77.890655</gpxx:lon>
+      <gpxx:y_proj>40.664257</gpxx:y_proj>
+      <gpxx:x_proj>-77.890655</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:07:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664266" lon="-77.890608">
+    <ele>333.440216</ele>
+    <time>2025-07-29T15:09:22Z</time>
+    <name>2579</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664266</gpxx:lat>
+      <gpxx:lon>-77.890608</gpxx:lon>
+      <gpxx:y_proj>40.664266</gpxx:y_proj>
+      <gpxx:x_proj>-77.890608</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:09:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664265" lon="-77.890759">
+    <ele>332.04068</ele>
+    <time>2025-07-29T15:12:24Z</time>
+    <name>2810</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664265</gpxx:lat>
+      <gpxx:lon>-77.890759</gpxx:lon>
+      <gpxx:y_proj>40.664265</gpxx:y_proj>
+      <gpxx:x_proj>-77.890759</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:12:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664228" lon="-77.890737">
+    <ele>332.144287</ele>
+    <time>2025-07-29T15:13:31Z</time>
+    <name>S2532</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664228</gpxx:lat>
+      <gpxx:lon>-77.890737</gpxx:lon>
+      <gpxx:y_proj>40.664228</gpxx:y_proj>
+      <gpxx:x_proj>-77.890737</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:13:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664245" lon="-77.890706">
+    <ele>334.046692</ele>
+    <time>2025-07-29T15:15:10Z</time>
+    <name>1050</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664245</gpxx:lat>
+      <gpxx:lon>-77.890706</gpxx:lon>
+      <gpxx:y_proj>40.664245</gpxx:y_proj>
+      <gpxx:x_proj>-77.890706</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:15:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664309" lon="-77.890855">
+    <ele>331.174622</ele>
+    <time>2025-07-29T15:18:35Z</time>
+    <name>2587</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664309</gpxx:lat>
+      <gpxx:lon>-77.890855</gpxx:lon>
+      <gpxx:y_proj>40.664309</gpxx:y_proj>
+      <gpxx:x_proj>-77.890855</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:18:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664359" lon="-77.890813">
+    <ele>330.38324</ele>
+    <time>2025-07-29T15:20:11Z</time>
+    <name>2600</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664359</gpxx:lat>
+      <gpxx:lon>-77.890813</gpxx:lon>
+      <gpxx:y_proj>40.664359</gpxx:y_proj>
+      <gpxx:x_proj>-77.890813</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:20:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664383" lon="-77.890854">
+    <ele>329.588257</ele>
+    <time>2025-07-29T15:22:10Z</time>
+    <name>2535</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664383</gpxx:lat>
+      <gpxx:lon>-77.890854</gpxx:lon>
+      <gpxx:y_proj>40.664383</gpxx:y_proj>
+      <gpxx:x_proj>-77.890854</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:22:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664391" lon="-77.890882">
+    <ele>329.973083</ele>
+    <time>2025-07-29T15:24:05Z</time>
+    <name>1096</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664391</gpxx:lat>
+      <gpxx:lon>-77.890882</gpxx:lon>
+      <gpxx:y_proj>40.664391</gpxx:y_proj>
+      <gpxx:x_proj>-77.890882</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:24:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664358" lon="-77.890935">
+    <ele>329.263123</ele>
+    <time>2025-07-29T15:25:06Z</time>
+    <name>1095</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664358</gpxx:lat>
+      <gpxx:lon>-77.890935</gpxx:lon>
+      <gpxx:y_proj>40.664358</gpxx:y_proj>
+      <gpxx:x_proj>-77.890935</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:25:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66442" lon="-77.890918">
+    <ele>328.455475</ele>
+    <time>2025-07-29T15:27:28Z</time>
+    <name>SNT54</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66442</gpxx:lat>
+      <gpxx:lon>-77.890918</gpxx:lon>
+      <gpxx:y_proj>40.66442</gpxx:y_proj>
+      <gpxx:x_proj>-77.890918</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:27:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664395" lon="-77.891068">
+    <ele>325.519684</ele>
+    <time>2025-07-29T15:29:35Z</time>
+    <name>1124</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664395</gpxx:lat>
+      <gpxx:lon>-77.891068</gpxx:lon>
+      <gpxx:y_proj>40.664395</gpxx:y_proj>
+      <gpxx:x_proj>-77.891068</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:29:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664401" lon="-77.891016">
+    <ele>325.264343</ele>
+    <time>2025-07-29T15:34:05Z</time>
+    <name>1121</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664401</gpxx:lat>
+      <gpxx:lon>-77.891016</gpxx:lon>
+      <gpxx:y_proj>40.664401</gpxx:y_proj>
+      <gpxx:x_proj>-77.891016</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:34:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664483" lon="-77.891084">
+    <ele>325.445862</ele>
+    <time>2025-07-29T15:37:05Z</time>
+    <name>S2897</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664483</gpxx:lat>
+      <gpxx:lon>-77.891084</gpxx:lon>
+      <gpxx:y_proj>40.664483</gpxx:y_proj>
+      <gpxx:x_proj>-77.891084</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:37:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664476" lon="-77.891125">
+    <ele>325.514221</ele>
+    <time>2025-07-29T15:38:32Z</time>
+    <name>1122</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664476</gpxx:lat>
+      <gpxx:lon>-77.891125</gpxx:lon>
+      <gpxx:y_proj>40.664476</gpxx:y_proj>
+      <gpxx:x_proj>-77.891125</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:38:32</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664467" lon="-77.890998">
+    <ele>324.916382</ele>
+    <time>2025-07-29T15:39:32Z</time>
+    <name>S2802</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664467</gpxx:lat>
+      <gpxx:lon>-77.890998</gpxx:lon>
+      <gpxx:y_proj>40.664467</gpxx:y_proj>
+      <gpxx:x_proj>-77.890998</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:39:32</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664589" lon="-77.890893">
+    <ele>326.998474</ele>
+    <time>2025-07-29T15:41:43Z</time>
+    <name>1191</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664589</gpxx:lat>
+      <gpxx:lon>-77.890893</gpxx:lon>
+      <gpxx:y_proj>40.664589</gpxx:y_proj>
+      <gpxx:x_proj>-77.890893</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:41:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664612" lon="-77.890862">
+    <ele>328.240662</ele>
+    <time>2025-07-29T15:45:12Z</time>
+    <name>NT29</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664612</gpxx:lat>
+      <gpxx:lon>-77.890862</gpxx:lon>
+      <gpxx:y_proj>40.664612</gpxx:y_proj>
+      <gpxx:x_proj>-77.890862</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:45:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664469" lon="-77.89067">
+    <ele>329.880096</ele>
+    <time>2025-07-29T15:49:54Z</time>
+    <name>2898</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664469</gpxx:lat>
+      <gpxx:lon>-77.89067</gpxx:lon>
+      <gpxx:y_proj>40.664469</gpxx:y_proj>
+      <gpxx:x_proj>-77.89067</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:49:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664489" lon="-77.890776">
+    <ele>328.006012</ele>
+    <time>2025-07-29T15:52:09Z</time>
+    <name>1127</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664489</gpxx:lat>
+      <gpxx:lon>-77.890776</gpxx:lon>
+      <gpxx:y_proj>40.664489</gpxx:y_proj>
+      <gpxx:x_proj>-77.890776</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 11:52:09</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664528" lon="-77.891136">
+    <ele>324.740204</ele>
+    <time>2025-07-29T16:07:11Z</time>
+    <name>S2632</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664528</gpxx:lat>
+      <gpxx:lon>-77.891136</gpxx:lon>
+      <gpxx:y_proj>40.664528</gpxx:y_proj>
+      <gpxx:x_proj>-77.891136</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:07:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664616" lon="-77.891193">
+    <ele>322.652283</ele>
+    <time>2025-07-29T16:10:20Z</time>
+    <name>S2629</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664616</gpxx:lat>
+      <gpxx:lon>-77.891193</gpxx:lon>
+      <gpxx:y_proj>40.664616</gpxx:y_proj>
+      <gpxx:x_proj>-77.891193</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:10:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664585" lon="-77.891202">
+    <ele>322.636658</ele>
+    <time>2025-07-29T16:12:25Z</time>
+    <name>1198</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664585</gpxx:lat>
+      <gpxx:lon>-77.891202</gpxx:lon>
+      <gpxx:y_proj>40.664585</gpxx:y_proj>
+      <gpxx:x_proj>-77.891202</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:12:25</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664543" lon="-77.891301">
+    <ele>322.161316</ele>
+    <time>2025-07-29T16:13:19Z</time>
+    <name>2676</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664543</gpxx:lat>
+      <gpxx:lon>-77.891301</gpxx:lon>
+      <gpxx:y_proj>40.664543</gpxx:y_proj>
+      <gpxx:x_proj>-77.891301</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:13:19</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664609" lon="-77.891284">
+    <ele>321.799072</ele>
+    <time>2025-07-29T16:14:06Z</time>
+    <name>SNT56</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664609</gpxx:lat>
+      <gpxx:lon>-77.891284</gpxx:lon>
+      <gpxx:y_proj>40.664609</gpxx:y_proj>
+      <gpxx:x_proj>-77.891284</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:14:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664624" lon="-77.891316">
+    <ele>321.82074</ele>
+    <time>2025-07-29T16:16:23Z</time>
+    <name>2659</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664624</gpxx:lat>
+      <gpxx:lon>-77.891316</gpxx:lon>
+      <gpxx:y_proj>40.664624</gpxx:y_proj>
+      <gpxx:x_proj>-77.891316</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:16:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664611" lon="-77.891298">
+    <ele>322.246307</ele>
+    <time>2025-07-29T16:16:47Z</time>
+    <name>1197</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664611</gpxx:lat>
+      <gpxx:lon>-77.891298</gpxx:lon>
+      <gpxx:y_proj>40.664611</gpxx:y_proj>
+      <gpxx:x_proj>-77.891298</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:16:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664693" lon="-77.89143">
+    <ele>322.298767</ele>
+    <time>2025-07-29T16:18:53Z</time>
+    <name>1196</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664693</gpxx:lat>
+      <gpxx:lon>-77.89143</gpxx:lon>
+      <gpxx:y_proj>40.664693</gpxx:y_proj>
+      <gpxx:x_proj>-77.89143</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:18:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664729" lon="-77.891042">
+    <ele>327.060974</ele>
+    <time>2025-07-29T16:20:08Z</time>
+    <name>S2612</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664729</gpxx:lat>
+      <gpxx:lon>-77.891042</gpxx:lon>
+      <gpxx:y_proj>40.664729</gpxx:y_proj>
+      <gpxx:x_proj>-77.891042</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:20:08</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664799" lon="-77.891226">
+    <ele>325.864319</ele>
+    <time>2025-07-29T16:25:42Z</time>
+    <name>4794</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664799</gpxx:lat>
+      <gpxx:lon>-77.891226</gpxx:lon>
+      <gpxx:y_proj>40.664799</gpxx:y_proj>
+      <gpxx:x_proj>-77.891226</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:25:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664788" lon="-77.891265">
+    <ele>326.463928</ele>
+    <time>2025-07-29T16:26:54Z</time>
+    <name>1187</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664788</gpxx:lat>
+      <gpxx:lon>-77.891265</gpxx:lon>
+      <gpxx:y_proj>40.664788</gpxx:y_proj>
+      <gpxx:x_proj>-77.891265</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:26:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664781" lon="-77.891196">
+    <ele>325.83786</ele>
+    <time>2025-07-29T16:27:42Z</time>
+    <name>S918</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664781</gpxx:lat>
+      <gpxx:lon>-77.891196</gpxx:lon>
+      <gpxx:y_proj>40.664781</gpxx:y_proj>
+      <gpxx:x_proj>-77.891196</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 12:27:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663732" lon="-77.889897">
+    <ele>354.954803</ele>
+    <time>2025-07-29T18:08:55Z</time>
+    <name>SNT57</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663732</gpxx:lat>
+      <gpxx:lon>-77.889897</gpxx:lon>
+      <gpxx:y_proj>40.663732</gpxx:y_proj>
+      <gpxx:x_proj>-77.889897</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:08:55</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663773" lon="-77.890112">
+    <ele>355.891724</ele>
+    <time>2025-07-29T18:10:29Z</time>
+    <name>962</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663773</gpxx:lat>
+      <gpxx:lon>-77.890112</gpxx:lon>
+      <gpxx:y_proj>40.663773</gpxx:y_proj>
+      <gpxx:x_proj>-77.890112</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:10:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663841" lon="-77.890096">
+    <ele>354.214539</ele>
+    <time>2025-07-29T18:11:41Z</time>
+    <name>2043</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663841</gpxx:lat>
+      <gpxx:lon>-77.890096</gpxx:lon>
+      <gpxx:y_proj>40.663841</gpxx:y_proj>
+      <gpxx:x_proj>-77.890096</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:11:41</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663934" lon="-77.890361">
+    <ele>348.559814</ele>
+    <time>2025-07-29T18:21:13Z</time>
+    <name>2574</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663934</gpxx:lat>
+      <gpxx:lon>-77.890361</gpxx:lon>
+      <gpxx:y_proj>40.663934</gpxx:y_proj>
+      <gpxx:x_proj>-77.890361</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:21:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664016" lon="-77.890543">
+    <ele>346.922394</ele>
+    <time>2025-07-29T18:24:10Z</time>
+    <name>1007</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664016</gpxx:lat>
+      <gpxx:lon>-77.890543</gpxx:lon>
+      <gpxx:y_proj>40.664016</gpxx:y_proj>
+      <gpxx:x_proj>-77.890543</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:24:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663978" lon="-77.890577">
+    <ele>347.312347</ele>
+    <time>2025-07-29T18:24:45Z</time>
+    <name>1006</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663978</gpxx:lat>
+      <gpxx:lon>-77.890577</gpxx:lon>
+      <gpxx:y_proj>40.663978</gpxx:y_proj>
+      <gpxx:x_proj>-77.890577</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:24:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664038" lon="-77.890493">
+    <ele>345.590637</ele>
+    <time>2025-07-29T18:28:04Z</time>
+    <name>1038</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664038</gpxx:lat>
+      <gpxx:lon>-77.890493</gpxx:lon>
+      <gpxx:y_proj>40.664038</gpxx:y_proj>
+      <gpxx:x_proj>-77.890493</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:28:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663967" lon="-77.890568">
+    <ele>346.172272</ele>
+    <time>2025-07-29T18:29:49Z</time>
+    <name>1005</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663967</gpxx:lat>
+      <gpxx:lon>-77.890568</gpxx:lon>
+      <gpxx:y_proj>40.663967</gpxx:y_proj>
+      <gpxx:x_proj>-77.890568</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:29:49</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664002" lon="-77.890629">
+    <ele>346.301819</ele>
+    <time>2025-07-29T18:32:49Z</time>
+    <name>SNT59</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664002</gpxx:lat>
+      <gpxx:lon>-77.890629</gpxx:lon>
+      <gpxx:y_proj>40.664002</gpxx:y_proj>
+      <gpxx:x_proj>-77.890629</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:32:49</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664073" lon="-77.890593">
+    <ele>344.189087</ele>
+    <time>2025-07-29T18:37:00Z</time>
+    <name>SNT60</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664073</gpxx:lat>
+      <gpxx:lon>-77.890593</gpxx:lon>
+      <gpxx:y_proj>40.664073</gpxx:y_proj>
+      <gpxx:x_proj>-77.890593</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:37:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664085" lon="-77.890814">
+    <ele>343.198242</ele>
+    <time>2025-07-29T18:40:56Z</time>
+    <name>SNT61</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664085</gpxx:lat>
+      <gpxx:lon>-77.890814</gpxx:lon>
+      <gpxx:y_proj>40.664085</gpxx:y_proj>
+      <gpxx:x_proj>-77.890814</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:40:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664116" lon="-77.890783">
+    <ele>342.882874</ele>
+    <time>2025-07-29T18:46:38Z</time>
+    <name>1049</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skull and</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664116</gpxx:lat>
+      <gpxx:lon>-77.890783</gpxx:lon>
+      <gpxx:y_proj>40.664116</gpxx:y_proj>
+      <gpxx:x_proj>-77.890783</gpxx:x_proj>
+      <gpxx:ltime>2025/07/29 14:46:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>

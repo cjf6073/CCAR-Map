@@ -1,0 +1,951 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="40.662379999999999" minlon="-77.892204000000007" maxlat="40.664234999999998" maxlon="-77.891333000000003" />
+  </metadata>
+  <wpt lat="40.66246" lon="-77.891758">
+    <ele>341.880707</ele>
+    <time>2025-06-27T13:57:25Z</time>
+    <name>1610</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66246</gpxx:lat>
+      <gpxx:lon>-77.891758</gpxx:lon>
+      <gpxx:y_proj>40.66246</gpxx:y_proj>
+      <gpxx:x_proj>-77.891758</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 09:57:25</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662464" lon="-77.891779">
+    <ele>341.095428</ele>
+    <time>2025-06-27T13:58:22Z</time>
+    <name>1611</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662464</gpxx:lat>
+      <gpxx:lon>-77.891779</gpxx:lon>
+      <gpxx:y_proj>40.662464</gpxx:y_proj>
+      <gpxx:x_proj>-77.891779</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 09:58:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66238" lon="-77.891862">
+    <ele>340.148346</ele>
+    <time>2025-06-27T13:59:31Z</time>
+    <name>1612</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66238</gpxx:lat>
+      <gpxx:lon>-77.891862</gpxx:lon>
+      <gpxx:y_proj>40.66238</gpxx:y_proj>
+      <gpxx:x_proj>-77.891862</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 09:59:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662383" lon="-77.891928">
+    <ele>337.106842</ele>
+    <time>2025-06-27T14:03:21Z</time>
+    <name>NT7</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662383</gpxx:lat>
+      <gpxx:lon>-77.891928</gpxx:lon>
+      <gpxx:y_proj>40.662383</gpxx:y_proj>
+      <gpxx:x_proj>-77.891928</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:03:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662469" lon="-77.89204">
+    <ele>334.035919</ele>
+    <time>2025-06-27T14:15:08Z</time>
+    <name>S725</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662469</gpxx:lat>
+      <gpxx:lon>-77.89204</gpxx:lon>
+      <gpxx:y_proj>40.662469</gpxx:y_proj>
+      <gpxx:x_proj>-77.89204</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:15:08</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662504" lon="-77.892156">
+    <ele>330.637939</ele>
+    <time>2025-06-27T14:20:13Z</time>
+    <name>S789</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662504</gpxx:lat>
+      <gpxx:lon>-77.892156</gpxx:lon>
+      <gpxx:y_proj>40.662504</gpxx:y_proj>
+      <gpxx:x_proj>-77.892156</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:20:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662576" lon="-77.892118">
+    <ele>330.607727</ele>
+    <time>2025-06-27T14:22:52Z</time>
+    <name>S370</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662576</gpxx:lat>
+      <gpxx:lon>-77.892118</gpxx:lon>
+      <gpxx:y_proj>40.662576</gpxx:y_proj>
+      <gpxx:x_proj>-77.892118</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:22:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662692" lon="-77.89202">
+    <ele>331.299225</ele>
+    <time>2025-06-27T14:26:24Z</time>
+    <name>S371</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662692</gpxx:lat>
+      <gpxx:lon>-77.89202</gpxx:lon>
+      <gpxx:y_proj>40.662692</gpxx:y_proj>
+      <gpxx:x_proj>-77.89202</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:26:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662695" lon="-77.892129">
+    <ele>330.247498</ele>
+    <time>2025-06-27T14:36:33Z</time>
+    <name>NT5</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662695</gpxx:lat>
+      <gpxx:lon>-77.892129</gpxx:lon>
+      <gpxx:y_proj>40.662695</gpxx:y_proj>
+      <gpxx:x_proj>-77.892129</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:36:33</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662742" lon="-77.892106">
+    <ele>329.504272</ele>
+    <time>2025-06-27T14:38:54Z</time>
+    <name>NT6</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662742</gpxx:lat>
+      <gpxx:lon>-77.892106</gpxx:lon>
+      <gpxx:y_proj>40.662742</gpxx:y_proj>
+      <gpxx:x_proj>-77.892106</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:38:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662832" lon="-77.891777">
+    <ele>332.273468</ele>
+    <time>2025-06-27T14:49:14Z</time>
+    <name>1665</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662832</gpxx:lat>
+      <gpxx:lon>-77.891777</gpxx:lon>
+      <gpxx:y_proj>40.662832</gpxx:y_proj>
+      <gpxx:x_proj>-77.891777</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:49:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662773" lon="-77.891684">
+    <ele>333.604248</ele>
+    <time>2025-06-27T14:50:26Z</time>
+    <name>1633</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662773</gpxx:lat>
+      <gpxx:lon>-77.891684</gpxx:lon>
+      <gpxx:y_proj>40.662773</gpxx:y_proj>
+      <gpxx:x_proj>-77.891684</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:50:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662729" lon="-77.891708">
+    <ele>333.748749</ele>
+    <time>2025-06-27T14:51:54Z</time>
+    <name>S327</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662729</gpxx:lat>
+      <gpxx:lon>-77.891708</gpxx:lon>
+      <gpxx:y_proj>40.662729</gpxx:y_proj>
+      <gpxx:x_proj>-77.891708</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:51:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662706" lon="-77.891706">
+    <ele>333.85495</ele>
+    <time>2025-06-27T14:52:52Z</time>
+    <name>SNT5</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662706</gpxx:lat>
+      <gpxx:lon>-77.891706</gpxx:lon>
+      <gpxx:y_proj>40.662706</gpxx:y_proj>
+      <gpxx:x_proj>-77.891706</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:52:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662657" lon="-77.891741">
+    <ele>333.053375</ele>
+    <time>2025-06-27T14:54:19Z</time>
+    <name>1632</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662657</gpxx:lat>
+      <gpxx:lon>-77.891741</gpxx:lon>
+      <gpxx:y_proj>40.662657</gpxx:y_proj>
+      <gpxx:x_proj>-77.891741</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:54:19</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662636" lon="-77.891736">
+    <ele>332.719788</ele>
+    <time>2025-06-27T14:55:08Z</time>
+    <name>1631</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662636</gpxx:lat>
+      <gpxx:lon>-77.891736</gpxx:lon>
+      <gpxx:y_proj>40.662636</gpxx:y_proj>
+      <gpxx:x_proj>-77.891736</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:55:08</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662584" lon="-77.891731">
+    <ele>332.726837</ele>
+    <time>2025-06-27T14:56:26Z</time>
+    <name>1608</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662584</gpxx:lat>
+      <gpxx:lon>-77.891731</gpxx:lon>
+      <gpxx:y_proj>40.662584</gpxx:y_proj>
+      <gpxx:x_proj>-77.891731</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:56:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66256" lon="-77.891734">
+    <ele>332.823151</ele>
+    <time>2025-06-27T14:57:02Z</time>
+    <name>SNT7</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66256</gpxx:lat>
+      <gpxx:lon>-77.891734</gpxx:lon>
+      <gpxx:y_proj>40.66256</gpxx:y_proj>
+      <gpxx:x_proj>-77.891734</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:57:02</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66263" lon="-77.891842">
+    <ele>331.354156</ele>
+    <time>2025-06-27T14:58:56Z</time>
+    <name>1630</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66263</gpxx:lat>
+      <gpxx:lon>-77.891842</gpxx:lon>
+      <gpxx:y_proj>40.66263</gpxx:y_proj>
+      <gpxx:x_proj>-77.891842</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 10:58:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662674" lon="-77.891826">
+    <ele>331.42804</ele>
+    <time>2025-06-27T15:00:07Z</time>
+    <name>1669</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662674</gpxx:lat>
+      <gpxx:lon>-77.891826</gpxx:lon>
+      <gpxx:y_proj>40.662674</gpxx:y_proj>
+      <gpxx:x_proj>-77.891826</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:00:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662653" lon="-77.891863">
+    <ele>330.942566</ele>
+    <time>2025-06-27T15:01:23Z</time>
+    <name>1670</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662653</gpxx:lat>
+      <gpxx:lon>-77.891863</gpxx:lon>
+      <gpxx:y_proj>40.662653</gpxx:y_proj>
+      <gpxx:x_proj>-77.891863</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:01:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662597" lon="-77.891913">
+    <ele>330.693115</ele>
+    <time>2025-06-27T15:03:43Z</time>
+    <name>S385</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662597</gpxx:lat>
+      <gpxx:lon>-77.891913</gpxx:lon>
+      <gpxx:y_proj>40.662597</gpxx:y_proj>
+      <gpxx:x_proj>-77.891913</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:03:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662513" lon="-77.891893">
+    <ele>329.375916</ele>
+    <time>2025-06-27T15:08:21Z</time>
+    <name>1629</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662513</gpxx:lat>
+      <gpxx:lon>-77.891893</gpxx:lon>
+      <gpxx:y_proj>40.662513</gpxx:y_proj>
+      <gpxx:x_proj>-77.891893</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:08:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662574" lon="-77.891589">
+    <ele>332.217651</ele>
+    <time>2025-06-27T15:12:22Z</time>
+    <name>SNT10</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662574</gpxx:lat>
+      <gpxx:lon>-77.891589</gpxx:lon>
+      <gpxx:y_proj>40.662574</gpxx:y_proj>
+      <gpxx:x_proj>-77.891589</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:12:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662622" lon="-77.891492">
+    <ele>333.583862</ele>
+    <time>2025-06-27T15:14:31Z</time>
+    <name>1606</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662622</gpxx:lat>
+      <gpxx:lon>-77.891492</gpxx:lon>
+      <gpxx:y_proj>40.662622</gpxx:y_proj>
+      <gpxx:x_proj>-77.891492</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:14:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662762" lon="-77.891437">
+    <ele>333.84671</ele>
+    <time>2025-06-27T15:16:55Z</time>
+    <name>1603</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662762</gpxx:lat>
+      <gpxx:lon>-77.891437</gpxx:lon>
+      <gpxx:y_proj>40.662762</gpxx:y_proj>
+      <gpxx:x_proj>-77.891437</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:16:55</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662763" lon="-77.891342">
+    <ele>333.741089</ele>
+    <time>2025-06-27T15:18:15Z</time>
+    <name>1602</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662763</gpxx:lat>
+      <gpxx:lon>-77.891342</gpxx:lon>
+      <gpxx:y_proj>40.662763</gpxx:y_proj>
+      <gpxx:x_proj>-77.891342</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:18:15</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662814" lon="-77.891367">
+    <ele>333.302002</ele>
+    <time>2025-06-27T15:19:15Z</time>
+    <name>436</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662814</gpxx:lat>
+      <gpxx:lon>-77.891367</gpxx:lon>
+      <gpxx:y_proj>40.662814</gpxx:y_proj>
+      <gpxx:x_proj>-77.891367</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:19:15</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662806" lon="-77.891351">
+    <ele>333.151398</ele>
+    <time>2025-06-27T15:19:54Z</time>
+    <name>1600</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662806</gpxx:lat>
+      <gpxx:lon>-77.891351</gpxx:lon>
+      <gpxx:y_proj>40.662806</gpxx:y_proj>
+      <gpxx:x_proj>-77.891351</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:19:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662839" lon="-77.891333">
+    <ele>333.371399</ele>
+    <time>2025-06-27T15:20:26Z</time>
+    <name>S428</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662839</gpxx:lat>
+      <gpxx:lon>-77.891333</gpxx:lon>
+      <gpxx:y_proj>40.662839</gpxx:y_proj>
+      <gpxx:x_proj>-77.891333</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:20:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662832" lon="-77.891377">
+    <ele>332.696411</ele>
+    <time>2025-06-27T15:21:42Z</time>
+    <name>1601</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662832</gpxx:lat>
+      <gpxx:lon>-77.891377</gpxx:lon>
+      <gpxx:y_proj>40.662832</gpxx:y_proj>
+      <gpxx:x_proj>-77.891377</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:21:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662858" lon="-77.891384">
+    <ele>332.875946</ele>
+    <time>2025-06-27T15:22:34Z</time>
+    <name>SNT12</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662858</gpxx:lat>
+      <gpxx:lon>-77.891384</gpxx:lon>
+      <gpxx:y_proj>40.662858</gpxx:y_proj>
+      <gpxx:x_proj>-77.891384</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:22:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662864" lon="-77.891408">
+    <ele>332.635559</ele>
+    <time>2025-06-27T15:23:42Z</time>
+    <name>1635</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662864</gpxx:lat>
+      <gpxx:lon>-77.891408</gpxx:lon>
+      <gpxx:y_proj>40.662864</gpxx:y_proj>
+      <gpxx:x_proj>-77.891408</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:23:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662828" lon="-77.891533">
+    <ele>331.199951</ele>
+    <time>2025-06-27T15:26:06Z</time>
+    <name>S440</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662828</gpxx:lat>
+      <gpxx:lon>-77.891533</gpxx:lon>
+      <gpxx:y_proj>40.662828</gpxx:y_proj>
+      <gpxx:x_proj>-77.891533</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:26:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662922" lon="-77.891361">
+    <ele>331.694855</ele>
+    <time>2025-06-27T15:29:09Z</time>
+    <name>1636</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662922</gpxx:lat>
+      <gpxx:lon>-77.891361</gpxx:lon>
+      <gpxx:y_proj>40.662922</gpxx:y_proj>
+      <gpxx:x_proj>-77.891361</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:29:09</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662908" lon="-77.891371">
+    <ele>331.256989</ele>
+    <time>2025-06-27T15:30:24Z</time>
+    <name>1637</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662908</gpxx:lat>
+      <gpxx:lon>-77.891371</gpxx:lon>
+      <gpxx:y_proj>40.662908</gpxx:y_proj>
+      <gpxx:x_proj>-77.891371</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:30:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662925" lon="-77.891389">
+    <ele>330.685211</ele>
+    <time>2025-06-27T15:30:58Z</time>
+    <name>1638</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662925</gpxx:lat>
+      <gpxx:lon>-77.891389</gpxx:lon>
+      <gpxx:y_proj>40.662925</gpxx:y_proj>
+      <gpxx:x_proj>-77.891389</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:30:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.662942" lon="-77.89144">
+    <ele>330.314941</ele>
+    <time>2025-06-27T15:31:56Z</time>
+    <name>SNT13</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.662942</gpxx:lat>
+      <gpxx:lon>-77.89144</gpxx:lon>
+      <gpxx:y_proj>40.662942</gpxx:y_proj>
+      <gpxx:x_proj>-77.89144</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:31:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663" lon="-77.891463">
+    <ele>328.270264</ele>
+    <time>2025-06-27T15:32:46Z</time>
+    <name>1640</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663</gpxx:lat>
+      <gpxx:lon>-77.891463</gpxx:lon>
+      <gpxx:y_proj>40.663</gpxx:y_proj>
+      <gpxx:x_proj>-77.891463</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:32:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663069" lon="-77.891648">
+    <ele>324.839844</ele>
+    <time>2025-06-27T15:41:55Z</time>
+    <name>1662</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663069</gpxx:lat>
+      <gpxx:lon>-77.891648</gpxx:lon>
+      <gpxx:y_proj>40.663069</gpxx:y_proj>
+      <gpxx:x_proj>-77.891648</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:41:55</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663192" lon="-77.891702">
+    <ele>322.590515</ele>
+    <time>2025-06-27T15:43:36Z</time>
+    <name>1710</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663192</gpxx:lat>
+      <gpxx:lon>-77.891702</gpxx:lon>
+      <gpxx:y_proj>40.663192</gpxx:y_proj>
+      <gpxx:x_proj>-77.891702</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:43:36</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663246" lon="-77.891647">
+    <ele>323.094299</ele>
+    <time>2025-06-27T15:48:12Z</time>
+    <name>1711</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663246</gpxx:lat>
+      <gpxx:lon>-77.891647</gpxx:lon>
+      <gpxx:y_proj>40.663246</gpxx:y_proj>
+      <gpxx:x_proj>-77.891647</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:48:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663409" lon="-77.891832">
+    <ele>319.815613</ele>
+    <time>2025-06-27T15:51:28Z</time>
+    <name>1718</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663409</gpxx:lat>
+      <gpxx:lon>-77.891832</gpxx:lon>
+      <gpxx:y_proj>40.663409</gpxx:y_proj>
+      <gpxx:x_proj>-77.891832</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:51:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663443" lon="-77.891851">
+    <ele>318.452759</ele>
+    <time>2025-06-27T15:52:07Z</time>
+    <name>1719</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663443</gpxx:lat>
+      <gpxx:lon>-77.891851</gpxx:lon>
+      <gpxx:y_proj>40.663443</gpxx:y_proj>
+      <gpxx:x_proj>-77.891851</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:52:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663417" lon="-77.891906">
+    <ele>318.129303</ele>
+    <time>2025-06-27T15:53:19Z</time>
+    <name>SNT14</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663417</gpxx:lat>
+      <gpxx:lon>-77.891906</gpxx:lon>
+      <gpxx:y_proj>40.663417</gpxx:y_proj>
+      <gpxx:x_proj>-77.891906</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 11:53:19</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663482" lon="-77.891928">
+    <ele>316.801971</ele>
+    <time>2025-06-27T16:00:01Z</time>
+    <name>S079</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663482</gpxx:lat>
+      <gpxx:lon>-77.891928</gpxx:lon>
+      <gpxx:y_proj>40.663482</gpxx:y_proj>
+      <gpxx:x_proj>-77.891928</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:00:01</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66355" lon="-77.891836">
+    <ele>318.390625</ele>
+    <time>2025-06-27T16:03:45Z</time>
+    <name>S071</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66355</gpxx:lat>
+      <gpxx:lon>-77.891836</gpxx:lon>
+      <gpxx:y_proj>40.66355</gpxx:y_proj>
+      <gpxx:x_proj>-77.891836</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:03:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663528" lon="-77.89182">
+    <ele>319.013672</ele>
+    <time>2025-06-27T16:05:26Z</time>
+    <name>NT9</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663528</gpxx:lat>
+      <gpxx:lon>-77.89182</gpxx:lon>
+      <gpxx:y_proj>40.663528</gpxx:y_proj>
+      <gpxx:x_proj>-77.89182</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:05:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663593" lon="-77.891883">
+    <ele>316.976898</ele>
+    <time>2025-06-27T16:07:06Z</time>
+    <name>1783</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663593</gpxx:lat>
+      <gpxx:lon>-77.891883</gpxx:lon>
+      <gpxx:y_proj>40.663593</gpxx:y_proj>
+      <gpxx:x_proj>-77.891883</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:07:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663625" lon="-77.891829">
+    <ele>316.750732</ele>
+    <time>2025-06-27T16:08:50Z</time>
+    <name>S26</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663625</gpxx:lat>
+      <gpxx:lon>-77.891829</gpxx:lon>
+      <gpxx:y_proj>40.663625</gpxx:y_proj>
+      <gpxx:x_proj>-77.891829</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:08:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663571" lon="-77.891919">
+    <ele>315.689331</ele>
+    <time>2025-06-27T16:10:29Z</time>
+    <name>S287</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663571</gpxx:lat>
+      <gpxx:lon>-77.891919</gpxx:lon>
+      <gpxx:y_proj>40.663571</gpxx:y_proj>
+      <gpxx:x_proj>-77.891919</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:10:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663765" lon="-77.892012">
+    <ele>312.732269</ele>
+    <time>2025-06-27T16:11:58Z</time>
+    <name>1745</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663765</gpxx:lat>
+      <gpxx:lon>-77.892012</gpxx:lon>
+      <gpxx:y_proj>40.663765</gpxx:y_proj>
+      <gpxx:x_proj>-77.892012</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:11:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663809" lon="-77.892068">
+    <ele>311.878998</ele>
+    <time>2025-06-27T16:13:22Z</time>
+    <name>SNT15</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663809</gpxx:lat>
+      <gpxx:lon>-77.892068</gpxx:lon>
+      <gpxx:y_proj>40.663809</gpxx:y_proj>
+      <gpxx:x_proj>-77.892068</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:13:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663731" lon="-77.892052">
+    <ele>312.519165</ele>
+    <time>2025-06-27T16:14:21Z</time>
+    <name>S61</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663731</gpxx:lat>
+      <gpxx:lon>-77.892052</gpxx:lon>
+      <gpxx:y_proj>40.663731</gpxx:y_proj>
+      <gpxx:x_proj>-77.892052</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:14:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663745" lon="-77.891972">
+    <ele>313.243561</ele>
+    <time>2025-06-27T16:15:44Z</time>
+    <name>SNT16</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663745</gpxx:lat>
+      <gpxx:lon>-77.891972</gpxx:lon>
+      <gpxx:y_proj>40.663745</gpxx:y_proj>
+      <gpxx:x_proj>-77.891972</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:15:44</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663767" lon="-77.891968">
+    <ele>314.129211</ele>
+    <time>2025-06-27T16:17:27Z</time>
+    <name>S29</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663767</gpxx:lat>
+      <gpxx:lon>-77.891968</gpxx:lon>
+      <gpxx:y_proj>40.663767</gpxx:y_proj>
+      <gpxx:x_proj>-77.891968</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:17:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663715" lon="-77.891951">
+    <ele>313.818573</ele>
+    <time>2025-06-27T16:17:58Z</time>
+    <name>S60</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663715</gpxx:lat>
+      <gpxx:lon>-77.891951</gpxx:lon>
+      <gpxx:y_proj>40.663715</gpxx:y_proj>
+      <gpxx:x_proj>-77.891951</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:17:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66372" lon="-77.891927">
+    <ele>316.063324</ele>
+    <time>2025-06-27T16:19:06Z</time>
+    <name>S28</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66372</gpxx:lat>
+      <gpxx:lon>-77.891927</gpxx:lon>
+      <gpxx:y_proj>40.66372</gpxx:y_proj>
+      <gpxx:x_proj>-77.891927</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:19:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663783" lon="-77.891943">
+    <ele>313.444397</ele>
+    <time>2025-06-27T16:20:21Z</time>
+    <name>SNT17</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663783</gpxx:lat>
+      <gpxx:lon>-77.891943</gpxx:lon>
+      <gpxx:y_proj>40.663783</gpxx:y_proj>
+      <gpxx:x_proj>-77.891943</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:20:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663854" lon="-77.892082">
+    <ele>312.16272</ele>
+    <time>2025-06-27T16:21:18Z</time>
+    <name>1748</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663854</gpxx:lat>
+      <gpxx:lon>-77.892082</gpxx:lon>
+      <gpxx:y_proj>40.663854</gpxx:y_proj>
+      <gpxx:x_proj>-77.892082</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:21:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663903" lon="-77.892128">
+    <ele>310.485657</ele>
+    <time>2025-06-27T16:22:21Z</time>
+    <name>1749</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663903</gpxx:lat>
+      <gpxx:lon>-77.892128</gpxx:lon>
+      <gpxx:y_proj>40.663903</gpxx:y_proj>
+      <gpxx:x_proj>-77.892128</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:22:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663902" lon="-77.892138">
+    <ele>310.221039</ele>
+    <time>2025-06-27T16:23:02Z</time>
+    <name>S35</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663902</gpxx:lat>
+      <gpxx:lon>-77.892138</gpxx:lon>
+      <gpxx:y_proj>40.663902</gpxx:y_proj>
+      <gpxx:x_proj>-77.892138</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:23:02</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664235" lon="-77.892204">
+    <ele>313.692261</ele>
+    <time>2025-06-27T16:33:27Z</time>
+    <name>1594</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Drinking </sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664235</gpxx:lat>
+      <gpxx:lon>-77.892204</gpxx:lon>
+      <gpxx:y_proj>40.664235</gpxx:y_proj>
+      <gpxx:x_proj>-77.892204</gpxx:x_proj>
+      <gpxx:ltime>2025/06/27 12:33:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>
