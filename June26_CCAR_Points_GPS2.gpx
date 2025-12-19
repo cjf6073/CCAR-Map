@@ -1,0 +1,1702 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="40.663499999999999" minlon="-77.892312000000004" maxlat="40.664437999999997" maxlon="-77.890585999999999" />
+  </metadata>
+  <wpt lat="40.663518" lon="-77.890616">
+    <ele>346.15332</ele>
+    <time>2025-06-26T14:04:46Z</time>
+    <name>1220</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663518</gpxx:lat>
+      <gpxx:lon>-77.890616</gpxx:lon>
+      <gpxx:y_proj>40.663518</gpxx:y_proj>
+      <gpxx:x_proj>-77.890616</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:04:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.6635" lon="-77.890586">
+    <ele>346.55722</ele>
+    <time>2025-06-26T14:05:43Z</time>
+    <name>1221</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.6635</gpxx:lat>
+      <gpxx:lon>-77.890586</gpxx:lon>
+      <gpxx:y_proj>40.6635</gpxx:y_proj>
+      <gpxx:x_proj>-77.890586</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:05:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663556" lon="-77.890709">
+    <ele>344.810394</ele>
+    <time>2025-06-26T14:07:12Z</time>
+    <name>1246</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663556</gpxx:lat>
+      <gpxx:lon>-77.890709</gpxx:lon>
+      <gpxx:y_proj>40.663556</gpxx:y_proj>
+      <gpxx:x_proj>-77.890709</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:07:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663541" lon="-77.890733">
+    <ele>344.375214</ele>
+    <time>2025-06-26T14:08:09Z</time>
+    <name>1244</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663541</gpxx:lat>
+      <gpxx:lon>-77.890733</gpxx:lon>
+      <gpxx:y_proj>40.663541</gpxx:y_proj>
+      <gpxx:x_proj>-77.890733</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:08:09</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663569" lon="-77.890731">
+    <ele>344.019135</ele>
+    <time>2025-06-26T14:08:49Z</time>
+    <name>1245</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663569</gpxx:lat>
+      <gpxx:lon>-77.890731</gpxx:lon>
+      <gpxx:y_proj>40.663569</gpxx:y_proj>
+      <gpxx:x_proj>-77.890731</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:08:49</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663595" lon="-77.890792">
+    <ele>343.074524</ele>
+    <time>2025-06-26T14:10:40Z</time>
+    <name>1256</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663595</gpxx:lat>
+      <gpxx:lon>-77.890792</gpxx:lon>
+      <gpxx:y_proj>40.663595</gpxx:y_proj>
+      <gpxx:x_proj>-77.890792</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:10:40</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663601" lon="-77.890806">
+    <ele>343.043396</ele>
+    <time>2025-06-26T14:10:52Z</time>
+    <name>1255</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663601</gpxx:lat>
+      <gpxx:lon>-77.890806</gpxx:lon>
+      <gpxx:y_proj>40.663601</gpxx:y_proj>
+      <gpxx:x_proj>-77.890806</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:10:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663638" lon="-77.890826">
+    <ele>342.104828</ele>
+    <time>2025-06-26T14:12:24Z</time>
+    <name>1277</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663638</gpxx:lat>
+      <gpxx:lon>-77.890826</gpxx:lon>
+      <gpxx:y_proj>40.663638</gpxx:y_proj>
+      <gpxx:x_proj>-77.890826</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:12:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663645" lon="-77.890831">
+    <ele>341.2034</ele>
+    <time>2025-06-26T14:12:56Z</time>
+    <name>1278</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663645</gpxx:lat>
+      <gpxx:lon>-77.890831</gpxx:lon>
+      <gpxx:y_proj>40.663645</gpxx:y_proj>
+      <gpxx:x_proj>-77.890831</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:12:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66366" lon="-77.890709">
+    <ele>341.110535</ele>
+    <time>2025-06-26T14:17:31Z</time>
+    <name>1279</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66366</gpxx:lat>
+      <gpxx:lon>-77.890709</gpxx:lon>
+      <gpxx:y_proj>40.66366</gpxx:y_proj>
+      <gpxx:x_proj>-77.890709</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:17:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663709" lon="-77.890813">
+    <ele>340.404114</ele>
+    <time>2025-06-26T14:17:57Z</time>
+    <name>1287</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663709</gpxx:lat>
+      <gpxx:lon>-77.890813</gpxx:lon>
+      <gpxx:y_proj>40.663709</gpxx:y_proj>
+      <gpxx:x_proj>-77.890813</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:17:57</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663706" lon="-77.890822">
+    <ele>339.471588</ele>
+    <time>2025-06-26T14:20:25Z</time>
+    <name>1289</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663706</gpxx:lat>
+      <gpxx:lon>-77.890822</gpxx:lon>
+      <gpxx:y_proj>40.663706</gpxx:y_proj>
+      <gpxx:x_proj>-77.890822</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:20:25</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663655" lon="-77.89086">
+    <ele>339.669708</ele>
+    <time>2025-06-26T14:21:07Z</time>
+    <name>1290</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663655</gpxx:lat>
+      <gpxx:lon>-77.89086</gpxx:lon>
+      <gpxx:y_proj>40.663655</gpxx:y_proj>
+      <gpxx:x_proj>-77.89086</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:21:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663665" lon="-77.890888">
+    <ele>338.818726</ele>
+    <time>2025-06-26T14:22:42Z</time>
+    <name>1291</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663665</gpxx:lat>
+      <gpxx:lon>-77.890888</gpxx:lon>
+      <gpxx:y_proj>40.663665</gpxx:y_proj>
+      <gpxx:x_proj>-77.890888</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:22:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663701" lon="-77.890848">
+    <ele>339.014526</ele>
+    <time>2025-06-26T14:23:34Z</time>
+    <name>1288</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663701</gpxx:lat>
+      <gpxx:lon>-77.890848</gpxx:lon>
+      <gpxx:y_proj>40.663701</gpxx:y_proj>
+      <gpxx:x_proj>-77.890848</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:23:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663772" lon="-77.89085">
+    <ele>339.70929</ele>
+    <time>2025-06-26T14:25:26Z</time>
+    <name>1285</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663772</gpxx:lat>
+      <gpxx:lon>-77.89085</gpxx:lon>
+      <gpxx:y_proj>40.663772</gpxx:y_proj>
+      <gpxx:x_proj>-77.89085</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:25:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663727" lon="-77.890822">
+    <ele>340.178833</ele>
+    <time>2025-06-26T14:25:58Z</time>
+    <name>1286</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663727</gpxx:lat>
+      <gpxx:lon>-77.890822</gpxx:lon>
+      <gpxx:y_proj>40.663727</gpxx:y_proj>
+      <gpxx:x_proj>-77.890822</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:25:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663754" lon="-77.890848">
+    <ele>338.260681</ele>
+    <time>2025-06-26T14:26:48Z</time>
+    <name>1312</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663754</gpxx:lat>
+      <gpxx:lon>-77.890848</gpxx:lon>
+      <gpxx:y_proj>40.663754</gpxx:y_proj>
+      <gpxx:x_proj>-77.890848</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:26:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663719" lon="-77.890868">
+    <ele>338.226746</ele>
+    <time>2025-06-26T14:27:04Z</time>
+    <name>1311</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663719</gpxx:lat>
+      <gpxx:lon>-77.890868</gpxx:lon>
+      <gpxx:y_proj>40.663719</gpxx:y_proj>
+      <gpxx:x_proj>-77.890868</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:27:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663761" lon="-77.890883">
+    <ele>337.67511</ele>
+    <time>2025-06-26T14:30:29Z</time>
+    <name>1315</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663761</gpxx:lat>
+      <gpxx:lon>-77.890883</gpxx:lon>
+      <gpxx:y_proj>40.663761</gpxx:y_proj>
+      <gpxx:x_proj>-77.890883</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:30:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663766" lon="-77.890896">
+    <ele>337.937225</ele>
+    <time>2025-06-26T14:31:05Z</time>
+    <name>1316</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663766</gpxx:lat>
+      <gpxx:lon>-77.890896</gpxx:lon>
+      <gpxx:y_proj>40.663766</gpxx:y_proj>
+      <gpxx:x_proj>-77.890896</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:31:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663714" lon="-77.89097">
+    <ele>336.632202</ele>
+    <time>2025-06-26T14:32:29Z</time>
+    <name>1318</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663714</gpxx:lat>
+      <gpxx:lon>-77.89097</gpxx:lon>
+      <gpxx:y_proj>40.663714</gpxx:y_proj>
+      <gpxx:x_proj>-77.89097</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:32:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663795" lon="-77.891083">
+    <ele>333.451416</ele>
+    <time>2025-06-26T14:34:30Z</time>
+    <name>1356</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663795</gpxx:lat>
+      <gpxx:lon>-77.891083</gpxx:lon>
+      <gpxx:y_proj>40.663795</gpxx:y_proj>
+      <gpxx:x_proj>-77.891083</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:34:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663847" lon="-77.891048">
+    <ele>332.858856</ele>
+    <time>2025-06-26T14:34:52Z</time>
+    <name>1353</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663847</gpxx:lat>
+      <gpxx:lon>-77.891048</gpxx:lon>
+      <gpxx:y_proj>40.663847</gpxx:y_proj>
+      <gpxx:x_proj>-77.891048</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:34:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663857" lon="-77.891007">
+    <ele>334.4888</ele>
+    <time>2025-06-26T14:35:47Z</time>
+    <name>1352</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663857</gpxx:lat>
+      <gpxx:lon>-77.891007</gpxx:lon>
+      <gpxx:y_proj>40.663857</gpxx:y_proj>
+      <gpxx:x_proj>-77.891007</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:35:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663788" lon="-77.890976">
+    <ele>337.343597</ele>
+    <time>2025-06-26T14:36:34Z</time>
+    <name>1317</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663788</gpxx:lat>
+      <gpxx:lon>-77.890976</gpxx:lon>
+      <gpxx:y_proj>40.663788</gpxx:y_proj>
+      <gpxx:x_proj>-77.890976</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:36:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663847" lon="-77.890979">
+    <ele>336.818604</ele>
+    <time>2025-06-26T14:37:14Z</time>
+    <name>1347</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663847</gpxx:lat>
+      <gpxx:lon>-77.890979</gpxx:lon>
+      <gpxx:y_proj>40.663847</gpxx:y_proj>
+      <gpxx:x_proj>-77.890979</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:37:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663862" lon="-77.890973">
+    <ele>336.521362</ele>
+    <time>2025-06-26T14:38:37Z</time>
+    <name>1346</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663862</gpxx:lat>
+      <gpxx:lon>-77.890973</gpxx:lon>
+      <gpxx:y_proj>40.663862</gpxx:y_proj>
+      <gpxx:x_proj>-77.890973</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:38:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663904" lon="-77.891026">
+    <ele>334.200195</ele>
+    <time>2025-06-26T14:43:11Z</time>
+    <name>1351</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663904</gpxx:lat>
+      <gpxx:lon>-77.891026</gpxx:lon>
+      <gpxx:y_proj>40.663904</gpxx:y_proj>
+      <gpxx:x_proj>-77.891026</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:43:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663896" lon="-77.891082">
+    <ele>333.354553</ele>
+    <time>2025-06-26T14:44:17Z</time>
+    <name>1383</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663896</gpxx:lat>
+      <gpxx:lon>-77.891082</gpxx:lon>
+      <gpxx:y_proj>40.663896</gpxx:y_proj>
+      <gpxx:x_proj>-77.891082</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:44:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66384" lon="-77.891116">
+    <ele>333.293762</ele>
+    <time>2025-06-26T14:45:34Z</time>
+    <name>1354</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66384</gpxx:lat>
+      <gpxx:lon>-77.891116</gpxx:lon>
+      <gpxx:y_proj>40.66384</gpxx:y_proj>
+      <gpxx:x_proj>-77.891116</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:45:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663784" lon="-77.891125">
+    <ele>331.931</ele>
+    <time>2025-06-26T14:46:23Z</time>
+    <name>1355</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663784</gpxx:lat>
+      <gpxx:lon>-77.891125</gpxx:lon>
+      <gpxx:y_proj>40.663784</gpxx:y_proj>
+      <gpxx:x_proj>-77.891125</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:46:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663834" lon="-77.891201">
+    <ele>331.998749</ele>
+    <time>2025-06-26T14:47:00Z</time>
+    <name>1381</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663834</gpxx:lat>
+      <gpxx:lon>-77.891201</gpxx:lon>
+      <gpxx:y_proj>40.663834</gpxx:y_proj>
+      <gpxx:x_proj>-77.891201</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:47:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663892" lon="-77.891172">
+    <ele>330.724457</ele>
+    <time>2025-06-26T14:47:58Z</time>
+    <name>1379</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663892</gpxx:lat>
+      <gpxx:lon>-77.891172</gpxx:lon>
+      <gpxx:y_proj>40.663892</gpxx:y_proj>
+      <gpxx:x_proj>-77.891172</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:47:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663932" lon="-77.891243">
+    <ele>331.346436</ele>
+    <time>2025-06-26T14:48:17Z</time>
+    <name>1380</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663932</gpxx:lat>
+      <gpxx:lon>-77.891243</gpxx:lon>
+      <gpxx:y_proj>40.663932</gpxx:y_proj>
+      <gpxx:x_proj>-77.891243</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:48:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663939" lon="-77.891236">
+    <ele>333.442108</ele>
+    <time>2025-06-26T14:49:48Z</time>
+    <name>1387</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663939</gpxx:lat>
+      <gpxx:lon>-77.891236</gpxx:lon>
+      <gpxx:y_proj>40.663939</gpxx:y_proj>
+      <gpxx:x_proj>-77.891236</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:49:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663885" lon="-77.891185">
+    <ele>332.904297</ele>
+    <time>2025-06-26T14:50:06Z</time>
+    <name>1382</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663885</gpxx:lat>
+      <gpxx:lon>-77.891185</gpxx:lon>
+      <gpxx:y_proj>40.663885</gpxx:y_proj>
+      <gpxx:x_proj>-77.891185</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:50:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663946" lon="-77.891303">
+    <ele>330.973785</ele>
+    <time>2025-06-26T14:50:47Z</time>
+    <name>1391</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663946</gpxx:lat>
+      <gpxx:lon>-77.891303</gpxx:lon>
+      <gpxx:y_proj>40.663946</gpxx:y_proj>
+      <gpxx:x_proj>-77.891303</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:50:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663882" lon="-77.891288">
+    <ele>331.264435</ele>
+    <time>2025-06-26T14:52:06Z</time>
+    <name>1394</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663882</gpxx:lat>
+      <gpxx:lon>-77.891288</gpxx:lon>
+      <gpxx:y_proj>40.663882</gpxx:y_proj>
+      <gpxx:x_proj>-77.891288</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:52:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663886" lon="-77.891355">
+    <ele>330.566406</ele>
+    <time>2025-06-26T14:52:38Z</time>
+    <name>1395</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663886</gpxx:lat>
+      <gpxx:lon>-77.891355</gpxx:lon>
+      <gpxx:y_proj>40.663886</gpxx:y_proj>
+      <gpxx:x_proj>-77.891355</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:52:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663897" lon="-77.891321">
+    <ele>330.535095</ele>
+    <time>2025-06-26T14:55:49Z</time>
+    <name>1396</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663897</gpxx:lat>
+      <gpxx:lon>-77.891321</gpxx:lon>
+      <gpxx:y_proj>40.663897</gpxx:y_proj>
+      <gpxx:x_proj>-77.891321</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:55:49</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663902" lon="-77.891366">
+    <ele>329.96344</ele>
+    <time>2025-06-26T14:56:45Z</time>
+    <name>1397</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663902</gpxx:lat>
+      <gpxx:lon>-77.891366</gpxx:lon>
+      <gpxx:y_proj>40.663902</gpxx:y_proj>
+      <gpxx:x_proj>-77.891366</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:56:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663974" lon="-77.891492">
+    <ele>329.37558</ele>
+    <time>2025-06-26T14:57:44Z</time>
+    <name>1414</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663974</gpxx:lat>
+      <gpxx:lon>-77.891492</gpxx:lon>
+      <gpxx:y_proj>40.663974</gpxx:y_proj>
+      <gpxx:x_proj>-77.891492</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:57:44</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663926" lon="-77.891447">
+    <ele>329.386322</ele>
+    <time>2025-06-26T14:58:21Z</time>
+    <name>1415</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663926</gpxx:lat>
+      <gpxx:lon>-77.891447</gpxx:lon>
+      <gpxx:y_proj>40.663926</gpxx:y_proj>
+      <gpxx:x_proj>-77.891447</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:58:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664028" lon="-77.891438">
+    <ele>330.577606</ele>
+    <time>2025-06-26T14:59:48Z</time>
+    <name>1413</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664028</gpxx:lat>
+      <gpxx:lon>-77.891438</gpxx:lon>
+      <gpxx:y_proj>40.664028</gpxx:y_proj>
+      <gpxx:x_proj>-77.891438</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:59:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664043" lon="-77.891438">
+    <ele>330.155457</ele>
+    <time>2025-06-26T15:02:29Z</time>
+    <name>1412</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664043</gpxx:lat>
+      <gpxx:lon>-77.891438</gpxx:lon>
+      <gpxx:y_proj>40.664043</gpxx:y_proj>
+      <gpxx:x_proj>-77.891438</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:02:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664032" lon="-77.891412">
+    <ele>330.784393</ele>
+    <time>2025-06-26T15:04:15Z</time>
+    <name>1438</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664032</gpxx:lat>
+      <gpxx:lon>-77.891412</gpxx:lon>
+      <gpxx:y_proj>40.664032</gpxx:y_proj>
+      <gpxx:x_proj>-77.891412</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:04:15</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664007" lon="-77.891372">
+    <ele>330.70108</ele>
+    <time>2025-06-26T15:05:53Z</time>
+    <name>1393</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664007</gpxx:lat>
+      <gpxx:lon>-77.891372</gpxx:lon>
+      <gpxx:y_proj>40.664007</gpxx:y_proj>
+      <gpxx:x_proj>-77.891372</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:05:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664" lon="-77.891352">
+    <ele>329.864258</ele>
+    <time>2025-06-26T15:06:36Z</time>
+    <name>1392</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664</gpxx:lat>
+      <gpxx:lon>-77.891352</gpxx:lon>
+      <gpxx:y_proj>40.664</gpxx:y_proj>
+      <gpxx:x_proj>-77.891352</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:06:36</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663991" lon="-77.891496">
+    <ele>326.715942</ele>
+    <time>2025-06-26T15:08:34Z</time>
+    <name>1455</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663991</gpxx:lat>
+      <gpxx:lon>-77.891496</gpxx:lon>
+      <gpxx:y_proj>40.663991</gpxx:y_proj>
+      <gpxx:x_proj>-77.891496</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:08:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664066" lon="-77.891483">
+    <ele>327.848663</ele>
+    <time>2025-06-26T15:10:00Z</time>
+    <name>1437</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664066</gpxx:lat>
+      <gpxx:lon>-77.891483</gpxx:lon>
+      <gpxx:y_proj>40.664066</gpxx:y_proj>
+      <gpxx:x_proj>-77.891483</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:10:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664066" lon="-77.891406">
+    <ele>329.569458</ele>
+    <time>2025-06-26T15:10:37Z</time>
+    <name>1439</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664066</gpxx:lat>
+      <gpxx:lon>-77.891406</gpxx:lon>
+      <gpxx:y_proj>40.664066</gpxx:y_proj>
+      <gpxx:x_proj>-77.891406</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:10:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664138" lon="-77.891483">
+    <ele>328.96228</ele>
+    <time>2025-06-26T15:12:01Z</time>
+    <name>1442</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664138</gpxx:lat>
+      <gpxx:lon>-77.891483</gpxx:lon>
+      <gpxx:y_proj>40.664138</gpxx:y_proj>
+      <gpxx:x_proj>-77.891483</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:12:01</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664135" lon="-77.891506">
+    <ele>328.540955</ele>
+    <time>2025-06-26T15:12:31Z</time>
+    <name>1443</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664135</gpxx:lat>
+      <gpxx:lon>-77.891506</gpxx:lon>
+      <gpxx:y_proj>40.664135</gpxx:y_proj>
+      <gpxx:x_proj>-77.891506</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:12:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664148" lon="-77.891529">
+    <ele>328.293549</ele>
+    <time>2025-06-26T15:13:09Z</time>
+    <name>1444</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664148</gpxx:lat>
+      <gpxx:lon>-77.891529</gpxx:lon>
+      <gpxx:y_proj>40.664148</gpxx:y_proj>
+      <gpxx:x_proj>-77.891529</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:13:09</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664051" lon="-77.89155">
+    <ele>326.658112</ele>
+    <time>2025-06-26T15:14:53Z</time>
+    <name>1449</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664051</gpxx:lat>
+      <gpxx:lon>-77.89155</gpxx:lon>
+      <gpxx:y_proj>40.664051</gpxx:y_proj>
+      <gpxx:x_proj>-77.89155</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:14:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.6641" lon="-77.891587">
+    <ele>327.656921</ele>
+    <time>2025-06-26T15:15:29Z</time>
+    <name>1446</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.6641</gpxx:lat>
+      <gpxx:lon>-77.891587</gpxx:lon>
+      <gpxx:y_proj>40.6641</gpxx:y_proj>
+      <gpxx:x_proj>-77.891587</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:15:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66403" lon="-77.891601">
+    <ele>325.387451</ele>
+    <time>2025-06-26T15:16:12Z</time>
+    <name>1436</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66403</gpxx:lat>
+      <gpxx:lon>-77.891601</gpxx:lon>
+      <gpxx:y_proj>40.66403</gpxx:y_proj>
+      <gpxx:x_proj>-77.891601</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:16:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664016" lon="-77.891658">
+    <ele>324.740967</ele>
+    <time>2025-06-26T15:17:01Z</time>
+    <name>1450</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664016</gpxx:lat>
+      <gpxx:lon>-77.891658</gpxx:lon>
+      <gpxx:y_proj>40.664016</gpxx:y_proj>
+      <gpxx:x_proj>-77.891658</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:17:01</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66395" lon="-77.891648">
+    <ele>324.179321</ele>
+    <time>2025-06-26T15:18:18Z</time>
+    <name>1451</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66395</gpxx:lat>
+      <gpxx:lon>-77.891648</gpxx:lon>
+      <gpxx:y_proj>40.66395</gpxx:y_proj>
+      <gpxx:x_proj>-77.891648</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:18:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663971" lon="-77.891733">
+    <ele>323.68277</ele>
+    <time>2025-06-26T15:20:06Z</time>
+    <name>1452</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663971</gpxx:lat>
+      <gpxx:lon>-77.891733</gpxx:lon>
+      <gpxx:y_proj>40.663971</gpxx:y_proj>
+      <gpxx:x_proj>-77.891733</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:20:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664056" lon="-77.891625">
+    <ele>326.899689</ele>
+    <time>2025-06-26T15:21:13Z</time>
+    <name>1448</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664056</gpxx:lat>
+      <gpxx:lon>-77.891625</gpxx:lon>
+      <gpxx:y_proj>40.664056</gpxx:y_proj>
+      <gpxx:x_proj>-77.891625</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:21:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664165" lon="-77.891654">
+    <ele>328.089661</ele>
+    <time>2025-06-26T15:22:04Z</time>
+    <name>1447</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664165</gpxx:lat>
+      <gpxx:lon>-77.891654</gpxx:lon>
+      <gpxx:y_proj>40.664165</gpxx:y_proj>
+      <gpxx:x_proj>-77.891654</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:22:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664179" lon="-77.89171">
+    <ele>327.415527</ele>
+    <time>2025-06-26T15:23:18Z</time>
+    <name>1479</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664179</gpxx:lat>
+      <gpxx:lon>-77.89171</gpxx:lon>
+      <gpxx:y_proj>40.664179</gpxx:y_proj>
+      <gpxx:x_proj>-77.89171</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:23:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664179" lon="-77.891732">
+    <ele>326.937317</ele>
+    <time>2025-06-26T15:23:34Z</time>
+    <name>1480</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664179</gpxx:lat>
+      <gpxx:lon>-77.891732</gpxx:lon>
+      <gpxx:y_proj>40.664179</gpxx:y_proj>
+      <gpxx:x_proj>-77.891732</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:23:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664202" lon="-77.891745">
+    <ele>326.824768</ele>
+    <time>2025-06-26T15:24:31Z</time>
+    <name>1482</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664202</gpxx:lat>
+      <gpxx:lon>-77.891745</gpxx:lon>
+      <gpxx:y_proj>40.664202</gpxx:y_proj>
+      <gpxx:x_proj>-77.891745</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:24:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664191" lon="-77.891756">
+    <ele>326.384186</ele>
+    <time>2025-06-26T15:25:14Z</time>
+    <name>1481</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664191</gpxx:lat>
+      <gpxx:lon>-77.891756</gpxx:lon>
+      <gpxx:y_proj>40.664191</gpxx:y_proj>
+      <gpxx:x_proj>-77.891756</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:25:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664105" lon="-77.891802">
+    <ele>324.569427</ele>
+    <time>2025-06-26T15:26:06Z</time>
+    <name>1475</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664105</gpxx:lat>
+      <gpxx:lon>-77.891802</gpxx:lon>
+      <gpxx:y_proj>40.664105</gpxx:y_proj>
+      <gpxx:x_proj>-77.891802</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:26:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664108" lon="-77.891735">
+    <ele>324.625214</ele>
+    <time>2025-06-26T15:26:29Z</time>
+    <name>1476</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664108</gpxx:lat>
+      <gpxx:lon>-77.891735</gpxx:lon>
+      <gpxx:y_proj>40.664108</gpxx:y_proj>
+      <gpxx:x_proj>-77.891735</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:26:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664067" lon="-77.89172">
+    <ele>325.619232</ele>
+    <time>2025-06-26T15:27:24Z</time>
+    <name>1477</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664067</gpxx:lat>
+      <gpxx:lon>-77.89172</gpxx:lon>
+      <gpxx:y_proj>40.664067</gpxx:y_proj>
+      <gpxx:x_proj>-77.89172</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:27:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66405" lon="-77.891804">
+    <ele>323.687256</ele>
+    <time>2025-06-26T15:28:37Z</time>
+    <name>1473</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66405</gpxx:lat>
+      <gpxx:lon>-77.891804</gpxx:lon>
+      <gpxx:y_proj>40.66405</gpxx:y_proj>
+      <gpxx:x_proj>-77.891804</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:28:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664066" lon="-77.891809">
+    <ele>324.081421</ele>
+    <time>2025-06-26T15:29:26Z</time>
+    <name>1474</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664066</gpxx:lat>
+      <gpxx:lon>-77.891809</gpxx:lon>
+      <gpxx:y_proj>40.664066</gpxx:y_proj>
+      <gpxx:x_proj>-77.891809</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:29:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664053" lon="-77.891868">
+    <ele>322.737671</ele>
+    <time>2025-06-26T15:29:55Z</time>
+    <name>1472</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664053</gpxx:lat>
+      <gpxx:lon>-77.891868</gpxx:lon>
+      <gpxx:y_proj>40.664053</gpxx:y_proj>
+      <gpxx:x_proj>-77.891868</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:29:55</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664199" lon="-77.891838">
+    <ele>325.983582</ele>
+    <time>2025-06-26T15:35:23Z</time>
+    <name>1500</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664199</gpxx:lat>
+      <gpxx:lon>-77.891838</gpxx:lon>
+      <gpxx:y_proj>40.664199</gpxx:y_proj>
+      <gpxx:x_proj>-77.891838</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:35:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664145" lon="-77.891871">
+    <ele>324.402039</ele>
+    <time>2025-06-26T15:35:45Z</time>
+    <name>1528</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664145</gpxx:lat>
+      <gpxx:lon>-77.891871</gpxx:lon>
+      <gpxx:y_proj>40.664145</gpxx:y_proj>
+      <gpxx:x_proj>-77.891871</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:35:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664169" lon="-77.891935">
+    <ele>323.673218</ele>
+    <time>2025-06-26T15:36:59Z</time>
+    <name>1552</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664169</gpxx:lat>
+      <gpxx:lon>-77.891935</gpxx:lon>
+      <gpxx:y_proj>40.664169</gpxx:y_proj>
+      <gpxx:x_proj>-77.891935</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:36:59</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664152" lon="-77.891913">
+    <ele>323.575958</ele>
+    <time>2025-06-26T15:37:52Z</time>
+    <name>1553</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664152</gpxx:lat>
+      <gpxx:lon>-77.891913</gpxx:lon>
+      <gpxx:y_proj>40.664152</gpxx:y_proj>
+      <gpxx:x_proj>-77.891913</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:37:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664054" lon="-77.891957">
+    <ele>321.564117</ele>
+    <time>2025-06-26T15:38:52Z</time>
+    <name>1555</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664054</gpxx:lat>
+      <gpxx:lon>-77.891957</gpxx:lon>
+      <gpxx:y_proj>40.664054</gpxx:y_proj>
+      <gpxx:x_proj>-77.891957</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:38:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664076" lon="-77.891984">
+    <ele>322.03714</ele>
+    <time>2025-06-26T15:39:51Z</time>
+    <name>1554</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664076</gpxx:lat>
+      <gpxx:lon>-77.891984</gpxx:lon>
+      <gpxx:y_proj>40.664076</gpxx:y_proj>
+      <gpxx:x_proj>-77.891984</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:39:51</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664073" lon="-77.892082">
+    <ele>322.111877</ele>
+    <time>2025-06-26T15:40:39Z</time>
+    <name>1556</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664073</gpxx:lat>
+      <gpxx:lon>-77.892082</gpxx:lon>
+      <gpxx:y_proj>40.664073</gpxx:y_proj>
+      <gpxx:x_proj>-77.892082</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:40:39</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664135" lon="-77.89201">
+    <ele>323.107147</ele>
+    <time>2025-06-26T15:41:38Z</time>
+    <name>1583</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664135</gpxx:lat>
+      <gpxx:lon>-77.89201</gpxx:lon>
+      <gpxx:y_proj>40.664135</gpxx:y_proj>
+      <gpxx:x_proj>-77.89201</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:41:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664135" lon="-77.89201">
+    <ele>323.943085</ele>
+    <time>2025-06-26T15:42:14Z</time>
+    <name>1582</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664135</gpxx:lat>
+      <gpxx:lon>-77.89201</gpxx:lon>
+      <gpxx:y_proj>40.664135</gpxx:y_proj>
+      <gpxx:x_proj>-77.89201</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:42:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664142" lon="-77.892096">
+    <ele>321.704376</ele>
+    <time>2025-06-26T15:45:50Z</time>
+    <name>1585</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664142</gpxx:lat>
+      <gpxx:lon>-77.892096</gpxx:lon>
+      <gpxx:y_proj>40.664142</gpxx:y_proj>
+      <gpxx:x_proj>-77.892096</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:45:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664139" lon="-77.892082">
+    <ele>320.877747</ele>
+    <time>2025-06-26T15:46:43Z</time>
+    <name>1586</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664139</gpxx:lat>
+      <gpxx:lon>-77.892082</gpxx:lon>
+      <gpxx:y_proj>40.664139</gpxx:y_proj>
+      <gpxx:x_proj>-77.892082</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:46:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664052" lon="-77.892111">
+    <ele>320.555176</ele>
+    <time>2025-06-26T15:47:23Z</time>
+    <name>1587</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664052</gpxx:lat>
+      <gpxx:lon>-77.892111</gpxx:lon>
+      <gpxx:y_proj>40.664052</gpxx:y_proj>
+      <gpxx:x_proj>-77.892111</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:47:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664021" lon="-77.892088">
+    <ele>319.969269</ele>
+    <time>2025-06-26T15:48:20Z</time>
+    <name>1588</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664021</gpxx:lat>
+      <gpxx:lon>-77.892088</gpxx:lon>
+      <gpxx:y_proj>40.664021</gpxx:y_proj>
+      <gpxx:x_proj>-77.892088</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:48:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664167" lon="-77.892111">
+    <ele>322.711548</ele>
+    <time>2025-06-26T15:49:59Z</time>
+    <name>1590</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664167</gpxx:lat>
+      <gpxx:lon>-77.892111</gpxx:lon>
+      <gpxx:y_proj>40.664167</gpxx:y_proj>
+      <gpxx:x_proj>-77.892111</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:49:59</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664225" lon="-77.892115">
+    <ele>323.038666</ele>
+    <time>2025-06-26T15:50:45Z</time>
+    <name>1581</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664225</gpxx:lat>
+      <gpxx:lon>-77.892115</gpxx:lon>
+      <gpxx:y_proj>40.664225</gpxx:y_proj>
+      <gpxx:x_proj>-77.892115</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:50:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664211" lon="-77.892079">
+    <ele>322.337006</ele>
+    <time>2025-06-26T15:51:09Z</time>
+    <name>1580</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664211</gpxx:lat>
+      <gpxx:lon>-77.892079</gpxx:lon>
+      <gpxx:y_proj>40.664211</gpxx:y_proj>
+      <gpxx:x_proj>-77.892079</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:51:09</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664237" lon="-77.892138">
+    <ele>323.058807</ele>
+    <time>2025-06-26T15:52:11Z</time>
+    <name>1579</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664237</gpxx:lat>
+      <gpxx:lon>-77.892138</gpxx:lon>
+      <gpxx:y_proj>40.664237</gpxx:y_proj>
+      <gpxx:x_proj>-77.892138</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:52:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664175" lon="-77.892166">
+    <ele>322.331329</ele>
+    <time>2025-06-26T15:53:04Z</time>
+    <name>1578</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664175</gpxx:lat>
+      <gpxx:lon>-77.892166</gpxx:lon>
+      <gpxx:y_proj>40.664175</gpxx:y_proj>
+      <gpxx:x_proj>-77.892166</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:53:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66421" lon="-77.892101">
+    <ele>322.855682</ele>
+    <time>2025-06-26T15:53:28Z</time>
+    <name>1591</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66421</gpxx:lat>
+      <gpxx:lon>-77.892101</gpxx:lon>
+      <gpxx:y_proj>40.66421</gpxx:y_proj>
+      <gpxx:x_proj>-77.892101</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:53:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664155" lon="-77.892132">
+    <ele>322.449707</ele>
+    <time>2025-06-26T15:54:16Z</time>
+    <name>1577</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664155</gpxx:lat>
+      <gpxx:lon>-77.892132</gpxx:lon>
+      <gpxx:y_proj>40.664155</gpxx:y_proj>
+      <gpxx:x_proj>-77.892132</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:54:16</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664202" lon="-77.89219">
+    <ele>322.737885</ele>
+    <time>2025-06-26T15:55:19Z</time>
+    <name>1575</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664202</gpxx:lat>
+      <gpxx:lon>-77.89219</gpxx:lon>
+      <gpxx:y_proj>40.664202</gpxx:y_proj>
+      <gpxx:x_proj>-77.89219</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:55:19</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664175" lon="-77.892312">
+    <ele>321.318207</ele>
+    <time>2025-06-26T15:56:45Z</time>
+    <name>1574</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664175</gpxx:lat>
+      <gpxx:lon>-77.892312</gpxx:lon>
+      <gpxx:y_proj>40.664175</gpxx:y_proj>
+      <gpxx:x_proj>-77.892312</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:56:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664213" lon="-77.892165">
+    <ele>323.33194</ele>
+    <time>2025-06-26T15:57:48Z</time>
+    <name>1592</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664213</gpxx:lat>
+      <gpxx:lon>-77.892165</gpxx:lon>
+      <gpxx:y_proj>40.664213</gpxx:y_proj>
+      <gpxx:x_proj>-77.892165</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:57:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664159" lon="-77.892271">
+    <ele>322.568054</ele>
+    <time>2025-06-26T16:00:07Z</time>
+    <name>1573</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664159</gpxx:lat>
+      <gpxx:lon>-77.892271</gpxx:lon>
+      <gpxx:y_proj>40.664159</gpxx:y_proj>
+      <gpxx:x_proj>-77.892271</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:00:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664145" lon="-77.892308">
+    <ele>320.736786</ele>
+    <time>2025-06-26T16:00:23Z</time>
+    <name>1572</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664145</gpxx:lat>
+      <gpxx:lon>-77.892308</gpxx:lon>
+      <gpxx:y_proj>40.664145</gpxx:y_proj>
+      <gpxx:x_proj>-77.892308</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:00:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664391" lon="-77.891891">
+    <ele>323.326263</ele>
+    <time>2025-06-26T16:06:37Z</time>
+    <name>1549</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664391</gpxx:lat>
+      <gpxx:lon>-77.891891</gpxx:lon>
+      <gpxx:y_proj>40.664391</gpxx:y_proj>
+      <gpxx:x_proj>-77.891891</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:06:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664332" lon="-77.891895">
+    <ele>324.171753</ele>
+    <time>2025-06-26T16:07:28Z</time>
+    <name>1541</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664332</gpxx:lat>
+      <gpxx:lon>-77.891895</gpxx:lon>
+      <gpxx:y_proj>40.664332</gpxx:y_proj>
+      <gpxx:x_proj>-77.891895</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:07:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664313" lon="-77.891829">
+    <ele>324.934387</ele>
+    <time>2025-06-26T16:08:37Z</time>
+    <name>1543</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664313</gpxx:lat>
+      <gpxx:lon>-77.891829</gpxx:lon>
+      <gpxx:y_proj>40.664313</gpxx:y_proj>
+      <gpxx:x_proj>-77.891829</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:08:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664309" lon="-77.891891">
+    <ele>324.427887</ele>
+    <time>2025-06-26T16:10:35Z</time>
+    <name>1542</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664309</gpxx:lat>
+      <gpxx:lon>-77.891891</gpxx:lon>
+      <gpxx:y_proj>40.664309</gpxx:y_proj>
+      <gpxx:x_proj>-77.891891</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:10:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664356" lon="-77.891833">
+    <ele>323.141785</ele>
+    <time>2025-06-26T16:11:06Z</time>
+    <name>1548</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664356</gpxx:lat>
+      <gpxx:lon>-77.891833</gpxx:lon>
+      <gpxx:y_proj>40.664356</gpxx:y_proj>
+      <gpxx:x_proj>-77.891833</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:11:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664331" lon="-77.891789">
+    <ele>322.653473</ele>
+    <time>2025-06-26T16:12:34Z</time>
+    <name>1547</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664331</gpxx:lat>
+      <gpxx:lon>-77.891789</gpxx:lon>
+      <gpxx:y_proj>40.664331</gpxx:y_proj>
+      <gpxx:x_proj>-77.891789</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:12:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664306" lon="-77.891735">
+    <ele>323.343048</ele>
+    <time>2025-06-26T16:12:51Z</time>
+    <name>1546</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664306</gpxx:lat>
+      <gpxx:lon>-77.891735</gpxx:lon>
+      <gpxx:y_proj>40.664306</gpxx:y_proj>
+      <gpxx:x_proj>-77.891735</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:12:51</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664438" lon="-77.891724">
+    <ele>323.11441</ele>
+    <time>2025-06-26T16:13:40Z</time>
+    <name>1518</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664438</gpxx:lat>
+      <gpxx:lon>-77.891724</gpxx:lon>
+      <gpxx:y_proj>40.664438</gpxx:y_proj>
+      <gpxx:x_proj>-77.891724</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:13:40</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66437" lon="-77.891823">
+    <ele>324.004333</ele>
+    <time>2025-06-26T16:15:04Z</time>
+    <name>1545</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66437</gpxx:lat>
+      <gpxx:lon>-77.891823</gpxx:lon>
+      <gpxx:y_proj>40.66437</gpxx:y_proj>
+      <gpxx:x_proj>-77.891823</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:15:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664376" lon="-77.891759">
+    <ele>324.351715</ele>
+    <time>2025-06-26T16:16:04Z</time>
+    <name>1519</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664376</gpxx:lat>
+      <gpxx:lon>-77.891759</gpxx:lon>
+      <gpxx:y_proj>40.664376</gpxx:y_proj>
+      <gpxx:x_proj>-77.891759</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:16:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664341" lon="-77.891771">
+    <ele>324.787689</ele>
+    <time>2025-06-26T16:19:30Z</time>
+    <name>1520</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664341</gpxx:lat>
+      <gpxx:lon>-77.891771</gpxx:lon>
+      <gpxx:y_proj>40.664341</gpxx:y_proj>
+      <gpxx:x_proj>-77.891771</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:19:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664276" lon="-77.891743">
+    <ele>325.238068</ele>
+    <time>2025-06-26T16:19:50Z</time>
+    <name>1495</name>
+    <cmt>BEETREE</cmt>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664276</gpxx:lat>
+      <gpxx:lon>-77.891743</gpxx:lon>
+      <gpxx:y_proj>40.664276</gpxx:y_proj>
+      <gpxx:x_proj>-77.891743</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:19:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664365" lon="-77.89169">
+    <ele>325.306732</ele>
+    <time>2025-06-26T16:23:42Z</time>
+    <name>1503</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664365</gpxx:lat>
+      <gpxx:lon>-77.89169</gpxx:lon>
+      <gpxx:y_proj>40.664365</gpxx:y_proj>
+      <gpxx:x_proj>-77.89169</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:23:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664301" lon="-77.891516">
+    <ele>327.694336</ele>
+    <time>2025-06-26T16:25:03Z</time>
+    <name>1490</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664301</gpxx:lat>
+      <gpxx:lon>-77.891516</gpxx:lon>
+      <gpxx:y_proj>40.664301</gpxx:y_proj>
+      <gpxx:x_proj>-77.891516</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:25:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66429" lon="-77.89177">
+    <ele>325.445892</ele>
+    <time>2025-06-26T16:28:37Z</time>
+    <name>1521</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Upland Ga</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66429</gpxx:lat>
+      <gpxx:lon>-77.89177</gpxx:lon>
+      <gpxx:y_proj>40.66429</gpxx:y_proj>
+      <gpxx:x_proj>-77.89177</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:28:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>

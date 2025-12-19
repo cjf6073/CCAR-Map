@@ -1,0 +1,921 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="40.663271999999999" minlon="-77.892411999999993" maxlat="40.666322000000001" maxlon="-77.884383999999997" />
+  </metadata>
+  <wpt lat="40.666296" lon="-77.884833">
+    <ele>338.712524</ele>
+    <time>2025-06-12T13:47:00Z</time>
+    <name>908</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666296</gpxx:lat>
+      <gpxx:lon>-77.884833</gpxx:lon>
+      <gpxx:y_proj>40.666296</gpxx:y_proj>
+      <gpxx:x_proj>-77.884833</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 09:47:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66609" lon="-77.884784">
+    <ele>341.447571</ele>
+    <time>2025-06-12T14:09:23Z</time>
+    <name>820</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66609</gpxx:lat>
+      <gpxx:lon>-77.884784</gpxx:lon>
+      <gpxx:y_proj>40.66609</gpxx:y_proj>
+      <gpxx:x_proj>-77.884784</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 10:09:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666099" lon="-77.884765">
+    <ele>341.470764</ele>
+    <time>2025-06-12T14:09:38Z</time>
+    <name>821</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666099</gpxx:lat>
+      <gpxx:lon>-77.884765</gpxx:lon>
+      <gpxx:y_proj>40.666099</gpxx:y_proj>
+      <gpxx:x_proj>-77.884765</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 10:09:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.666322" lon="-77.884384">
+    <ele>344.431</ele>
+    <time>2025-06-12T14:13:58Z</time>
+    <name>844</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.666322</gpxx:lat>
+      <gpxx:lon>-77.884384</gpxx:lon>
+      <gpxx:y_proj>40.666322</gpxx:y_proj>
+      <gpxx:x_proj>-77.884384</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 10:13:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663319" lon="-77.890926">
+    <ele>341.959839</ele>
+    <time>2025-06-12T15:36:52Z</time>
+    <name>1230</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663319</gpxx:lat>
+      <gpxx:lon>-77.890926</gpxx:lon>
+      <gpxx:y_proj>40.663319</gpxx:y_proj>
+      <gpxx:x_proj>-77.890926</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:36:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663272" lon="-77.890975">
+    <ele>343.305054</ele>
+    <time>2025-06-12T15:39:34Z</time>
+    <name>1231</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663272</gpxx:lat>
+      <gpxx:lon>-77.890975</gpxx:lon>
+      <gpxx:y_proj>40.663272</gpxx:y_proj>
+      <gpxx:x_proj>-77.890975</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:39:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663357" lon="-77.890912">
+    <ele>342.407227</ele>
+    <time>2025-06-12T15:41:48Z</time>
+    <name>1236</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663357</gpxx:lat>
+      <gpxx:lon>-77.890912</gpxx:lon>
+      <gpxx:y_proj>40.663357</gpxx:y_proj>
+      <gpxx:x_proj>-77.890912</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:41:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663322" lon="-77.890894">
+    <ele>343.708374</ele>
+    <time>2025-06-12T15:42:12Z</time>
+    <name>1229</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663322</gpxx:lat>
+      <gpxx:lon>-77.890894</gpxx:lon>
+      <gpxx:y_proj>40.663322</gpxx:y_proj>
+      <gpxx:x_proj>-77.890894</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:42:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.6634" lon="-77.890956">
+    <ele>342.359589</ele>
+    <time>2025-06-12T15:43:33Z</time>
+    <name>1237</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.6634</gpxx:lat>
+      <gpxx:lon>-77.890956</gpxx:lon>
+      <gpxx:y_proj>40.6634</gpxx:y_proj>
+      <gpxx:x_proj>-77.890956</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:43:33</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66341" lon="-77.890949">
+    <ele>341.524353</ele>
+    <time>2025-06-12T15:44:46Z</time>
+    <name>1263</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66341</gpxx:lat>
+      <gpxx:lon>-77.890949</gpxx:lon>
+      <gpxx:y_proj>40.66341</gpxx:y_proj>
+      <gpxx:x_proj>-77.890949</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:44:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663373" lon="-77.890857">
+    <ele>342.336426</ele>
+    <time>2025-06-12T15:46:31Z</time>
+    <name>1238</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663373</gpxx:lat>
+      <gpxx:lon>-77.890857</gpxx:lon>
+      <gpxx:y_proj>40.663373</gpxx:y_proj>
+      <gpxx:x_proj>-77.890857</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:46:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663463" lon="-77.89094">
+    <ele>340.9505</ele>
+    <time>2025-06-12T15:47:44Z</time>
+    <name>1261</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663463</gpxx:lat>
+      <gpxx:lon>-77.89094</gpxx:lon>
+      <gpxx:y_proj>40.663463</gpxx:y_proj>
+      <gpxx:x_proj>-77.89094</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:47:44</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663452" lon="-77.890846">
+    <ele>342.020355</ele>
+    <time>2025-06-12T15:49:02Z</time>
+    <name>1239</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663452</gpxx:lat>
+      <gpxx:lon>-77.890846</gpxx:lon>
+      <gpxx:y_proj>40.663452</gpxx:y_proj>
+      <gpxx:x_proj>-77.890846</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:49:02</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663462" lon="-77.890839">
+    <ele>341.642548</ele>
+    <time>2025-06-12T15:49:21Z</time>
+    <name>1260</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663462</gpxx:lat>
+      <gpxx:lon>-77.890839</gpxx:lon>
+      <gpxx:y_proj>40.663462</gpxx:y_proj>
+      <gpxx:x_proj>-77.890839</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:49:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663477" lon="-77.890968">
+    <ele>340.698059</ele>
+    <time>2025-06-12T15:50:18Z</time>
+    <name>1273</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663477</gpxx:lat>
+      <gpxx:lon>-77.890968</gpxx:lon>
+      <gpxx:y_proj>40.663477</gpxx:y_proj>
+      <gpxx:x_proj>-77.890968</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:50:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663478" lon="-77.891009">
+    <ele>341.156799</ele>
+    <time>2025-06-12T15:51:37Z</time>
+    <name>1272</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663478</gpxx:lat>
+      <gpxx:lon>-77.891009</gpxx:lon>
+      <gpxx:y_proj>40.663478</gpxx:y_proj>
+      <gpxx:x_proj>-77.891009</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:51:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663437" lon="-77.891012">
+    <ele>340.671844</ele>
+    <time>2025-06-12T15:52:32Z</time>
+    <name>1271</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663437</gpxx:lat>
+      <gpxx:lon>-77.891012</gpxx:lon>
+      <gpxx:y_proj>40.663437</gpxx:y_proj>
+      <gpxx:x_proj>-77.891012</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:52:32</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663493" lon="-77.890924">
+    <ele>341.027374</ele>
+    <time>2025-06-12T15:53:37Z</time>
+    <name>1274</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663493</gpxx:lat>
+      <gpxx:lon>-77.890924</gpxx:lon>
+      <gpxx:y_proj>40.663493</gpxx:y_proj>
+      <gpxx:x_proj>-77.890924</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:53:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663509" lon="-77.891069">
+    <ele>339.783997</ele>
+    <time>2025-06-12T15:55:17Z</time>
+    <name>1297</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663509</gpxx:lat>
+      <gpxx:lon>-77.891069</gpxx:lon>
+      <gpxx:y_proj>40.663509</gpxx:y_proj>
+      <gpxx:x_proj>-77.891069</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:55:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663525" lon="-77.891047">
+    <ele>339.48587</ele>
+    <time>2025-06-12T15:56:13Z</time>
+    <name>1304</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663525</gpxx:lat>
+      <gpxx:lon>-77.891047</gpxx:lon>
+      <gpxx:y_proj>40.663525</gpxx:y_proj>
+      <gpxx:x_proj>-77.891047</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:56:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663577" lon="-77.89116">
+    <ele>338.12674</ele>
+    <time>2025-06-12T15:59:30Z</time>
+    <name>1325</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663577</gpxx:lat>
+      <gpxx:lon>-77.89116</gpxx:lon>
+      <gpxx:y_proj>40.663577</gpxx:y_proj>
+      <gpxx:x_proj>-77.89116</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:59:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663565" lon="-77.891164">
+    <ele>338.13974</ele>
+    <time>2025-06-12T15:59:45Z</time>
+    <name>1324</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663565</gpxx:lat>
+      <gpxx:lon>-77.891164</gpxx:lon>
+      <gpxx:y_proj>40.663565</gpxx:y_proj>
+      <gpxx:x_proj>-77.891164</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 11:59:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663621" lon="-77.891232">
+    <ele>336.478485</ele>
+    <time>2025-06-12T16:00:23Z</time>
+    <name>1339</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663621</gpxx:lat>
+      <gpxx:lon>-77.891232</gpxx:lon>
+      <gpxx:y_proj>40.663621</gpxx:y_proj>
+      <gpxx:x_proj>-77.891232</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:00:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663678" lon="-77.891232">
+    <ele>334.245453</ele>
+    <time>2025-06-12T16:01:31Z</time>
+    <name>1342</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663678</gpxx:lat>
+      <gpxx:lon>-77.891232</gpxx:lon>
+      <gpxx:y_proj>40.663678</gpxx:y_proj>
+      <gpxx:x_proj>-77.891232</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:01:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663658" lon="-77.891277">
+    <ele>334.646515</ele>
+    <time>2025-06-12T16:02:18Z</time>
+    <name>1341</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663658</gpxx:lat>
+      <gpxx:lon>-77.891277</gpxx:lon>
+      <gpxx:y_proj>40.663658</gpxx:y_proj>
+      <gpxx:x_proj>-77.891277</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:02:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663602" lon="-77.891249">
+    <ele>335.692078</ele>
+    <time>2025-06-12T16:02:47Z</time>
+    <name>1340</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663602</gpxx:lat>
+      <gpxx:lon>-77.891249</gpxx:lon>
+      <gpxx:y_proj>40.663602</gpxx:y_proj>
+      <gpxx:x_proj>-77.891249</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:02:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663718" lon="-77.891298">
+    <ele>332.245056</ele>
+    <time>2025-06-12T16:03:33Z</time>
+    <name>1364</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663718</gpxx:lat>
+      <gpxx:lon>-77.891298</gpxx:lon>
+      <gpxx:y_proj>40.663718</gpxx:y_proj>
+      <gpxx:x_proj>-77.891298</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:03:33</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663727" lon="-77.891325">
+    <ele>331.368652</ele>
+    <time>2025-06-12T16:05:22Z</time>
+    <name>1363</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663727</gpxx:lat>
+      <gpxx:lon>-77.891325</gpxx:lon>
+      <gpxx:y_proj>40.663727</gpxx:y_proj>
+      <gpxx:x_proj>-77.891325</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:05:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663706" lon="-77.891347">
+    <ele>330.989075</ele>
+    <time>2025-06-12T16:07:09Z</time>
+    <name>1362</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663706</gpxx:lat>
+      <gpxx:lon>-77.891347</gpxx:lon>
+      <gpxx:y_proj>40.663706</gpxx:y_proj>
+      <gpxx:x_proj>-77.891347</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:07:09</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663698" lon="-77.891349">
+    <ele>332.363861</ele>
+    <time>2025-06-12T16:08:11Z</time>
+    <name>1365</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663698</gpxx:lat>
+      <gpxx:lon>-77.891349</gpxx:lon>
+      <gpxx:y_proj>40.663698</gpxx:y_proj>
+      <gpxx:x_proj>-77.891349</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:08:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663694" lon="-77.89142">
+    <ele>330.271851</ele>
+    <time>2025-06-12T16:09:03Z</time>
+    <name>1375</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663694</gpxx:lat>
+      <gpxx:lon>-77.89142</gpxx:lon>
+      <gpxx:y_proj>40.663694</gpxx:y_proj>
+      <gpxx:x_proj>-77.89142</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:09:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663666" lon="-77.891492">
+    <ele>330.58313</ele>
+    <time>2025-06-12T16:10:47Z</time>
+    <name>1374</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663666</gpxx:lat>
+      <gpxx:lon>-77.891492</gpxx:lon>
+      <gpxx:y_proj>40.663666</gpxx:y_proj>
+      <gpxx:x_proj>-77.891492</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:10:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663668" lon="-77.891523">
+    <ele>330.027893</ele>
+    <time>2025-06-12T16:11:41Z</time>
+    <name>1372</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663668</gpxx:lat>
+      <gpxx:lon>-77.891523</gpxx:lon>
+      <gpxx:y_proj>40.663668</gpxx:y_proj>
+      <gpxx:x_proj>-77.891523</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:11:41</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663714" lon="-77.891568">
+    <ele>330.522003</ele>
+    <time>2025-06-12T16:13:08Z</time>
+    <name>1404</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663714</gpxx:lat>
+      <gpxx:lon>-77.891568</gpxx:lon>
+      <gpxx:y_proj>40.663714</gpxx:y_proj>
+      <gpxx:x_proj>-77.891568</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:13:08</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663728" lon="-77.891564">
+    <ele>327.621307</ele>
+    <time>2025-06-12T16:13:43Z</time>
+    <name>1422</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663728</gpxx:lat>
+      <gpxx:lon>-77.891564</gpxx:lon>
+      <gpxx:y_proj>40.663728</gpxx:y_proj>
+      <gpxx:x_proj>-77.891564</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:13:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663728" lon="-77.891633">
+    <ele>327.530792</ele>
+    <time>2025-06-12T16:14:35Z</time>
+    <name>1423</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663728</gpxx:lat>
+      <gpxx:lon>-77.891633</gpxx:lon>
+      <gpxx:y_proj>40.663728</gpxx:y_proj>
+      <gpxx:x_proj>-77.891633</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:14:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663803" lon="-77.891587">
+    <ele>326.801392</ele>
+    <time>2025-06-12T16:16:40Z</time>
+    <name>1421</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663803</gpxx:lat>
+      <gpxx:lon>-77.891587</gpxx:lon>
+      <gpxx:y_proj>40.663803</gpxx:y_proj>
+      <gpxx:x_proj>-77.891587</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:16:40</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663813" lon="-77.891545">
+    <ele>325.93512</ele>
+    <time>2025-06-12T16:17:07Z</time>
+    <name>1420</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663813</gpxx:lat>
+      <gpxx:lon>-77.891545</gpxx:lon>
+      <gpxx:y_proj>40.663813</gpxx:y_proj>
+      <gpxx:x_proj>-77.891545</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:17:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663813" lon="-77.891653">
+    <ele>325.191132</ele>
+    <time>2025-06-12T16:18:32Z</time>
+    <name>1430</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663813</gpxx:lat>
+      <gpxx:lon>-77.891653</gpxx:lon>
+      <gpxx:y_proj>40.663813</gpxx:y_proj>
+      <gpxx:x_proj>-77.891653</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:18:32</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663776" lon="-77.891687">
+    <ele>325.179169</ele>
+    <time>2025-06-12T16:20:42Z</time>
+    <name>1429</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663776</gpxx:lat>
+      <gpxx:lon>-77.891687</gpxx:lon>
+      <gpxx:y_proj>40.663776</gpxx:y_proj>
+      <gpxx:x_proj>-77.891687</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:20:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663811" lon="-77.891661">
+    <ele>323.344727</ele>
+    <time>2025-06-12T16:22:12Z</time>
+    <name>1431</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663811</gpxx:lat>
+      <gpxx:lon>-77.891661</gpxx:lon>
+      <gpxx:y_proj>40.663811</gpxx:y_proj>
+      <gpxx:x_proj>-77.891661</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:22:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66384" lon="-77.891704">
+    <ele>322.512238</ele>
+    <time>2025-06-12T16:22:49Z</time>
+    <name>1432</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66384</gpxx:lat>
+      <gpxx:lon>-77.891704</gpxx:lon>
+      <gpxx:y_proj>40.66384</gpxx:y_proj>
+      <gpxx:x_proj>-77.891704</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:22:49</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663848" lon="-77.891805">
+    <ele>321.872894</ele>
+    <time>2025-06-12T16:25:23Z</time>
+    <name>1455</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663848</gpxx:lat>
+      <gpxx:lon>-77.891805</gpxx:lon>
+      <gpxx:y_proj>40.663848</gpxx:y_proj>
+      <gpxx:x_proj>-77.891805</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:25:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66382" lon="-77.89176">
+    <ele>322.637268</ele>
+    <time>2025-06-12T16:26:26Z</time>
+    <name>1456</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66382</gpxx:lat>
+      <gpxx:lon>-77.89176</gpxx:lon>
+      <gpxx:y_proj>40.66382</gpxx:y_proj>
+      <gpxx:x_proj>-77.89176</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:26:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663882" lon="-77.891682">
+    <ele>320.335022</ele>
+    <time>2025-06-12T16:29:24Z</time>
+    <name>1433</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663882</gpxx:lat>
+      <gpxx:lon>-77.891682</gpxx:lon>
+      <gpxx:y_proj>40.663882</gpxx:y_proj>
+      <gpxx:x_proj>-77.891682</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:29:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663965" lon="-77.891761">
+    <ele>318.385101</ele>
+    <time>2025-06-12T16:31:34Z</time>
+    <name>1453</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663965</gpxx:lat>
+      <gpxx:lon>-77.891761</gpxx:lon>
+      <gpxx:y_proj>40.663965</gpxx:y_proj>
+      <gpxx:x_proj>-77.891761</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:31:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66394" lon="-77.89177">
+    <ele>318.339691</ele>
+    <time>2025-06-12T16:32:40Z</time>
+    <name>1454</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66394</gpxx:lat>
+      <gpxx:lon>-77.89177</gpxx:lon>
+      <gpxx:y_proj>40.66394</gpxx:y_proj>
+      <gpxx:x_proj>-77.89177</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:32:40</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663895" lon="-77.891861">
+    <ele>317.597748</ele>
+    <time>2025-06-12T16:35:10Z</time>
+    <name>1468</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663895</gpxx:lat>
+      <gpxx:lon>-77.891861</gpxx:lon>
+      <gpxx:y_proj>40.663895</gpxx:y_proj>
+      <gpxx:x_proj>-77.891861</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:35:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663953" lon="-77.891826">
+    <ele>317.058167</ele>
+    <time>2025-06-12T16:37:14Z</time>
+    <name>1469</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663953</gpxx:lat>
+      <gpxx:lon>-77.891826</gpxx:lon>
+      <gpxx:y_proj>40.663953</gpxx:y_proj>
+      <gpxx:x_proj>-77.891826</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:37:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663977" lon="-77.891825">
+    <ele>316.997833</ele>
+    <time>2025-06-12T16:37:37Z</time>
+    <name>1470</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663977</gpxx:lat>
+      <gpxx:lon>-77.891825</gpxx:lon>
+      <gpxx:y_proj>40.663977</gpxx:y_proj>
+      <gpxx:x_proj>-77.891825</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:37:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663934" lon="-77.891955">
+    <ele>315.904327</ele>
+    <time>2025-06-12T16:39:07Z</time>
+    <name>1471</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663934</gpxx:lat>
+      <gpxx:lon>-77.891955</gpxx:lon>
+      <gpxx:y_proj>40.663934</gpxx:y_proj>
+      <gpxx:x_proj>-77.891955</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:39:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663895" lon="-77.891893">
+    <ele>315.569794</ele>
+    <time>2025-06-12T16:40:05Z</time>
+    <name>1466</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663895</gpxx:lat>
+      <gpxx:lon>-77.891893</gpxx:lon>
+      <gpxx:y_proj>40.663895</gpxx:y_proj>
+      <gpxx:x_proj>-77.891893</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:40:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663981" lon="-77.89197">
+    <ele>315.249603</ele>
+    <time>2025-06-12T16:41:34Z</time>
+    <name>1557</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663981</gpxx:lat>
+      <gpxx:lon>-77.89197</gpxx:lon>
+      <gpxx:y_proj>40.663981</gpxx:y_proj>
+      <gpxx:x_proj>-77.89197</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:41:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663934" lon="-77.892034">
+    <ele>314.43515</ele>
+    <time>2025-06-12T16:42:42Z</time>
+    <name>1558</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663934</gpxx:lat>
+      <gpxx:lon>-77.892034</gpxx:lon>
+      <gpxx:y_proj>40.663934</gpxx:y_proj>
+      <gpxx:x_proj>-77.892034</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:42:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663983" lon="-77.892147">
+    <ele>314.312378</ele>
+    <time>2025-06-12T16:45:40Z</time>
+    <name>1560</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663983</gpxx:lat>
+      <gpxx:lon>-77.892147</gpxx:lon>
+      <gpxx:y_proj>40.663983</gpxx:y_proj>
+      <gpxx:x_proj>-77.892147</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:45:40</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663979" lon="-77.892191">
+    <ele>313.585663</ele>
+    <time>2025-06-12T16:46:23Z</time>
+    <name>1561</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663979</gpxx:lat>
+      <gpxx:lon>-77.892191</gpxx:lon>
+      <gpxx:y_proj>40.663979</gpxx:y_proj>
+      <gpxx:x_proj>-77.892191</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:46:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664023" lon="-77.892276">
+    <ele>313.66748</ele>
+    <time>2025-06-12T16:48:39Z</time>
+    <name>1564</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664023</gpxx:lat>
+      <gpxx:lon>-77.892276</gpxx:lon>
+      <gpxx:y_proj>40.664023</gpxx:y_proj>
+      <gpxx:x_proj>-77.892276</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:48:39</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664006" lon="-77.892232">
+    <ele>313.653992</ele>
+    <time>2025-06-12T16:48:50Z</time>
+    <name>1565</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664006</gpxx:lat>
+      <gpxx:lon>-77.892232</gpxx:lon>
+      <gpxx:y_proj>40.664006</gpxx:y_proj>
+      <gpxx:x_proj>-77.892232</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:48:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664029" lon="-77.892338">
+    <ele>314.441772</ele>
+    <time>2025-06-12T16:49:44Z</time>
+    <name>1571</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664029</gpxx:lat>
+      <gpxx:lon>-77.892338</gpxx:lon>
+      <gpxx:y_proj>40.664029</gpxx:y_proj>
+      <gpxx:x_proj>-77.892338</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:49:44</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664059" lon="-77.892412">
+    <ele>313.264191</ele>
+    <time>2025-06-12T16:51:21Z</time>
+    <name>1566</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664059</gpxx:lat>
+      <gpxx:lon>-77.892412</gpxx:lon>
+      <gpxx:y_proj>40.664059</gpxx:y_proj>
+      <gpxx:x_proj>-77.892412</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:51:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664005" lon="-77.892404">
+    <ele>312.909668</ele>
+    <time>2025-06-12T16:52:28Z</time>
+    <name>1567</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Skiing Ar</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664005</gpxx:lat>
+      <gpxx:lon>-77.892404</gpxx:lon>
+      <gpxx:y_proj>40.664005</gpxx:y_proj>
+      <gpxx:x_proj>-77.892404</gpxx:x_proj>
+      <gpxx:ltime>2025/06/12 12:52:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>

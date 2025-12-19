@@ -1,0 +1,1011 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="40.664091999999997" minlon="-77.890597000000000" maxlat="40.665049000000003" maxlon="-77.889759999999995" />
+  </metadata>
+  <wpt lat="40.664092" lon="-77.889851">
+    <ele>349.858704</ele>
+    <time>2025-07-22T14:01:54Z</time>
+    <name>S2023</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Zoo</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664092</gpxx:lat>
+      <gpxx:lon>-77.889851</gpxx:lon>
+      <gpxx:y_proj>40.664092</gpxx:y_proj>
+      <gpxx:x_proj>-77.889851</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:01:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664181" lon="-77.88976">
+    <ele>353.148651</ele>
+    <time>2025-07-22T14:06:22Z</time>
+    <name>976</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664181</gpxx:lat>
+      <gpxx:lon>-77.88976</gpxx:lon>
+      <gpxx:y_proj>40.664181</gpxx:y_proj>
+      <gpxx:x_proj>-77.88976</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:06:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664161" lon="-77.889791">
+    <ele>355.233551</ele>
+    <time>2025-07-22T14:07:50Z</time>
+    <name>984</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664161</gpxx:lat>
+      <gpxx:lon>-77.889791</gpxx:lon>
+      <gpxx:y_proj>40.664161</gpxx:y_proj>
+      <gpxx:x_proj>-77.889791</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:07:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664182" lon="-77.889803">
+    <ele>354.165466</ele>
+    <time>2025-07-22T14:09:08Z</time>
+    <name>2045</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664182</gpxx:lat>
+      <gpxx:lon>-77.889803</gpxx:lon>
+      <gpxx:y_proj>40.664182</gpxx:y_proj>
+      <gpxx:x_proj>-77.889803</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:09:08</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664217" lon="-77.889852">
+    <ele>353.271301</ele>
+    <time>2025-07-22T14:10:22Z</time>
+    <name>S2038</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664217</gpxx:lat>
+      <gpxx:lon>-77.889852</gpxx:lon>
+      <gpxx:y_proj>40.664217</gpxx:y_proj>
+      <gpxx:x_proj>-77.889852</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:10:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664139" lon="-77.889883">
+    <ele>351.47522</ele>
+    <time>2025-07-22T14:15:37Z</time>
+    <name>S2024</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664139</gpxx:lat>
+      <gpxx:lon>-77.889883</gpxx:lon>
+      <gpxx:y_proj>40.664139</gpxx:y_proj>
+      <gpxx:x_proj>-77.889883</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:15:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664248" lon="-77.889818">
+    <ele>352.127625</ele>
+    <time>2025-07-22T14:17:29Z</time>
+    <name>982</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664248</gpxx:lat>
+      <gpxx:lon>-77.889818</gpxx:lon>
+      <gpxx:y_proj>40.664248</gpxx:y_proj>
+      <gpxx:x_proj>-77.889818</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:17:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664281" lon="-77.889846">
+    <ele>351.009277</ele>
+    <time>2025-07-22T14:19:27Z</time>
+    <name>S2513</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664281</gpxx:lat>
+      <gpxx:lon>-77.889846</gpxx:lon>
+      <gpxx:y_proj>40.664281</gpxx:y_proj>
+      <gpxx:x_proj>-77.889846</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:19:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664254" lon="-77.88979">
+    <ele>352.164856</ele>
+    <time>2025-07-22T14:21:07Z</time>
+    <name>S2014</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664254</gpxx:lat>
+      <gpxx:lon>-77.88979</gpxx:lon>
+      <gpxx:y_proj>40.664254</gpxx:y_proj>
+      <gpxx:x_proj>-77.88979</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:21:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66426" lon="-77.889914">
+    <ele>351.984161</ele>
+    <time>2025-07-22T14:28:23Z</time>
+    <name>S2509</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66426</gpxx:lat>
+      <gpxx:lon>-77.889914</gpxx:lon>
+      <gpxx:y_proj>40.66426</gpxx:y_proj>
+      <gpxx:x_proj>-77.889914</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:28:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664286" lon="-77.889931">
+    <ele>350.747284</ele>
+    <time>2025-07-22T14:31:52Z</time>
+    <name>S2542</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664286</gpxx:lat>
+      <gpxx:lon>-77.889931</gpxx:lon>
+      <gpxx:y_proj>40.664286</gpxx:y_proj>
+      <gpxx:x_proj>-77.889931</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:31:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664271" lon="-77.88988">
+    <ele>350.522858</ele>
+    <time>2025-07-22T14:33:30Z</time>
+    <name>983</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664271</gpxx:lat>
+      <gpxx:lon>-77.88988</gpxx:lon>
+      <gpxx:y_proj>40.664271</gpxx:y_proj>
+      <gpxx:x_proj>-77.88988</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:33:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664314" lon="-77.88988">
+    <ele>350.986725</ele>
+    <time>2025-07-22T14:36:53Z</time>
+    <name>S2557</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664314</gpxx:lat>
+      <gpxx:lon>-77.88988</gpxx:lon>
+      <gpxx:y_proj>40.664314</gpxx:y_proj>
+      <gpxx:x_proj>-77.88988</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:36:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664242" lon="-77.889923">
+    <ele>350.288757</ele>
+    <time>2025-07-22T14:38:20Z</time>
+    <name>2536</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664242</gpxx:lat>
+      <gpxx:lon>-77.889923</gpxx:lon>
+      <gpxx:y_proj>40.664242</gpxx:y_proj>
+      <gpxx:x_proj>-77.889923</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:38:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664237" lon="-77.88995">
+    <ele>350.597351</ele>
+    <time>2025-07-22T14:39:11Z</time>
+    <name>1017</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664237</gpxx:lat>
+      <gpxx:lon>-77.88995</gpxx:lon>
+      <gpxx:y_proj>40.664237</gpxx:y_proj>
+      <gpxx:x_proj>-77.88995</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:39:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664283" lon="-77.889925">
+    <ele>351.045654</ele>
+    <time>2025-07-22T14:41:07Z</time>
+    <name>1018</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664283</gpxx:lat>
+      <gpxx:lon>-77.889925</gpxx:lon>
+      <gpxx:y_proj>40.664283</gpxx:y_proj>
+      <gpxx:x_proj>-77.889925</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:41:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664264" lon="-77.889932">
+    <ele>349.076843</ele>
+    <time>2025-07-22T14:41:21Z</time>
+    <name>1019</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664264</gpxx:lat>
+      <gpxx:lon>-77.889932</gpxx:lon>
+      <gpxx:y_proj>40.664264</gpxx:y_proj>
+      <gpxx:x_proj>-77.889932</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 10:41:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664311" lon="-77.889967">
+    <ele>337.98172</ele>
+    <time>2025-07-22T15:34:03Z</time>
+    <name>S2508</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664311</gpxx:lat>
+      <gpxx:lon>-77.889967</gpxx:lon>
+      <gpxx:y_proj>40.664311</gpxx:y_proj>
+      <gpxx:x_proj>-77.889967</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 11:34:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664297" lon="-77.889954">
+    <ele>340.816895</ele>
+    <time>2025-07-22T15:34:28Z</time>
+    <name>2682</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664297</gpxx:lat>
+      <gpxx:lon>-77.889954</gpxx:lon>
+      <gpxx:y_proj>40.664297</gpxx:y_proj>
+      <gpxx:x_proj>-77.889954</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 11:34:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664271" lon="-77.88995">
+    <ele>341.217163</ele>
+    <time>2025-07-22T15:36:12Z</time>
+    <name>S2565</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664271</gpxx:lat>
+      <gpxx:lon>-77.88995</gpxx:lon>
+      <gpxx:y_proj>40.664271</gpxx:y_proj>
+      <gpxx:x_proj>-77.88995</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 11:36:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664295" lon="-77.890024">
+    <ele>340.184113</ele>
+    <time>2025-07-22T15:43:27Z</time>
+    <name>S2549</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664295</gpxx:lat>
+      <gpxx:lon>-77.890024</gpxx:lon>
+      <gpxx:y_proj>40.664295</gpxx:y_proj>
+      <gpxx:x_proj>-77.890024</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 11:43:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664308" lon="-77.890045">
+    <ele>340.326965</ele>
+    <time>2025-07-22T15:47:36Z</time>
+    <name>1020</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664308</gpxx:lat>
+      <gpxx:lon>-77.890045</gpxx:lon>
+      <gpxx:y_proj>40.664308</gpxx:y_proj>
+      <gpxx:x_proj>-77.890045</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 11:47:36</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664382" lon="-77.890009">
+    <ele>341.605835</ele>
+    <time>2025-07-22T15:57:38Z</time>
+    <name>NT20</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664382</gpxx:lat>
+      <gpxx:lon>-77.890009</gpxx:lon>
+      <gpxx:y_proj>40.664382</gpxx:y_proj>
+      <gpxx:x_proj>-77.890009</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 11:57:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664392" lon="-77.890137">
+    <ele>340.0849</ele>
+    <time>2025-07-22T16:04:51Z</time>
+    <name>S2523</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664392</gpxx:lat>
+      <gpxx:lon>-77.890137</gpxx:lon>
+      <gpxx:y_proj>40.664392</gpxx:y_proj>
+      <gpxx:x_proj>-77.890137</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:04:51</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664377" lon="-77.890097">
+    <ele>340.416412</ele>
+    <time>2025-07-22T16:06:41Z</time>
+    <name>S2507</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664377</gpxx:lat>
+      <gpxx:lon>-77.890097</gpxx:lon>
+      <gpxx:y_proj>40.664377</gpxx:y_proj>
+      <gpxx:x_proj>-77.890097</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:06:41</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664428" lon="-77.89003">
+    <ele>338.590424</ele>
+    <time>2025-07-22T16:10:36Z</time>
+    <name>SNT40</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664428</gpxx:lat>
+      <gpxx:lon>-77.89003</gpxx:lon>
+      <gpxx:y_proj>40.664428</gpxx:y_proj>
+      <gpxx:x_proj>-77.89003</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:10:36</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664415" lon="-77.890127">
+    <ele>337.355042</ele>
+    <time>2025-07-22T16:14:31Z</time>
+    <name>2590</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664415</gpxx:lat>
+      <gpxx:lon>-77.890127</gpxx:lon>
+      <gpxx:y_proj>40.664415</gpxx:y_proj>
+      <gpxx:x_proj>-77.890127</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:14:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664437" lon="-77.890181">
+    <ele>336.223846</ele>
+    <time>2025-07-22T16:16:55Z</time>
+    <name>1060</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664437</gpxx:lat>
+      <gpxx:lon>-77.890181</gpxx:lon>
+      <gpxx:y_proj>40.664437</gpxx:y_proj>
+      <gpxx:x_proj>-77.890181</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:16:55</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664477" lon="-77.890143">
+    <ele>335.268677</ele>
+    <time>2025-07-22T16:20:57Z</time>
+    <name>2875</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664477</gpxx:lat>
+      <gpxx:lon>-77.890143</gpxx:lon>
+      <gpxx:y_proj>40.664477</gpxx:y_proj>
+      <gpxx:x_proj>-77.890143</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:20:57</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664473" lon="-77.890176">
+    <ele>334.176086</ele>
+    <time>2025-07-22T16:26:13Z</time>
+    <name>2859</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664473</gpxx:lat>
+      <gpxx:lon>-77.890176</gpxx:lon>
+      <gpxx:y_proj>40.664473</gpxx:y_proj>
+      <gpxx:x_proj>-77.890176</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:26:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664458" lon="-77.890316">
+    <ele>336.034729</ele>
+    <time>2025-07-22T16:27:38Z</time>
+    <name>2883</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664458</gpxx:lat>
+      <gpxx:lon>-77.890316</gpxx:lon>
+      <gpxx:y_proj>40.664458</gpxx:y_proj>
+      <gpxx:x_proj>-77.890316</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:27:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664489" lon="-77.890249">
+    <ele>335.322845</ele>
+    <time>2025-07-22T16:28:00Z</time>
+    <name>2813</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664489</gpxx:lat>
+      <gpxx:lon>-77.890249</gpxx:lon>
+      <gpxx:y_proj>40.664489</gpxx:y_proj>
+      <gpxx:x_proj>-77.890249</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:28:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664453" lon="-77.890295">
+    <ele>335.766266</ele>
+    <time>2025-07-22T16:28:56Z</time>
+    <name>1073</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664453</gpxx:lat>
+      <gpxx:lon>-77.890295</gpxx:lon>
+      <gpxx:y_proj>40.664453</gpxx:y_proj>
+      <gpxx:x_proj>-77.890295</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:28:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664476" lon="-77.890286">
+    <ele>335.508636</ele>
+    <time>2025-07-22T16:30:03Z</time>
+    <name>1074</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664476</gpxx:lat>
+      <gpxx:lon>-77.890286</gpxx:lon>
+      <gpxx:y_proj>40.664476</gpxx:y_proj>
+      <gpxx:x_proj>-77.890286</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:30:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664444" lon="-77.890329">
+    <ele>335.708649</ele>
+    <time>2025-07-22T16:31:15Z</time>
+    <name>2832</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664444</gpxx:lat>
+      <gpxx:lon>-77.890329</gpxx:lon>
+      <gpxx:y_proj>40.664444</gpxx:y_proj>
+      <gpxx:x_proj>-77.890329</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:31:15</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664543" lon="-77.890309">
+    <ele>334.567963</ele>
+    <time>2025-07-22T16:38:50Z</time>
+    <name>S2823</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664543</gpxx:lat>
+      <gpxx:lon>-77.890309</gpxx:lon>
+      <gpxx:y_proj>40.664543</gpxx:y_proj>
+      <gpxx:x_proj>-77.890309</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:38:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664511" lon="-77.890318">
+    <ele>333.170898</ele>
+    <time>2025-07-22T16:39:42Z</time>
+    <name>S2814</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664511</gpxx:lat>
+      <gpxx:lon>-77.890318</gpxx:lon>
+      <gpxx:y_proj>40.664511</gpxx:y_proj>
+      <gpxx:x_proj>-77.890318</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:39:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664617" lon="-77.890223">
+    <ele>334.898743</ele>
+    <time>2025-07-22T16:44:28Z</time>
+    <name>S2889</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664617</gpxx:lat>
+      <gpxx:lon>-77.890223</gpxx:lon>
+      <gpxx:y_proj>40.664617</gpxx:y_proj>
+      <gpxx:x_proj>-77.890223</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:44:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664592" lon="-77.890331">
+    <ele>334.160461</ele>
+    <time>2025-07-22T16:50:03Z</time>
+    <name>1102</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664592</gpxx:lat>
+      <gpxx:lon>-77.890331</gpxx:lon>
+      <gpxx:y_proj>40.664592</gpxx:y_proj>
+      <gpxx:x_proj>-77.890331</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:50:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664557" lon="-77.890335">
+    <ele>333.689667</ele>
+    <time>2025-07-22T16:51:03Z</time>
+    <name>1112</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664557</gpxx:lat>
+      <gpxx:lon>-77.890335</gpxx:lon>
+      <gpxx:y_proj>40.664557</gpxx:y_proj>
+      <gpxx:x_proj>-77.890335</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 12:51:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664658" lon="-77.89046">
+    <ele>336.161987</ele>
+    <time>2025-07-22T17:01:47Z</time>
+    <name>1111</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664658</gpxx:lat>
+      <gpxx:lon>-77.89046</gpxx:lon>
+      <gpxx:y_proj>40.664658</gpxx:y_proj>
+      <gpxx:x_proj>-77.89046</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:01:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664622" lon="-77.890448">
+    <ele>337.920197</ele>
+    <time>2025-07-22T17:03:34Z</time>
+    <name>S2864</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664622</gpxx:lat>
+      <gpxx:lon>-77.890448</gpxx:lon>
+      <gpxx:y_proj>40.664622</gpxx:y_proj>
+      <gpxx:x_proj>-77.890448</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:03:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664692" lon="-77.890437">
+    <ele>334.923401</ele>
+    <time>2025-07-22T17:04:30Z</time>
+    <name>S990</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664692</gpxx:lat>
+      <gpxx:lon>-77.890437</gpxx:lon>
+      <gpxx:y_proj>40.664692</gpxx:y_proj>
+      <gpxx:x_proj>-77.890437</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:04:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664635" lon="-77.890477">
+    <ele>337.52066</ele>
+    <time>2025-07-22T17:09:21Z</time>
+    <name>695</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664635</gpxx:lat>
+      <gpxx:lon>-77.890477</gpxx:lon>
+      <gpxx:y_proj>40.664635</gpxx:y_proj>
+      <gpxx:x_proj>-77.890477</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:09:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664611" lon="-77.890492">
+    <ele>337.724121</ele>
+    <time>2025-07-22T17:09:50Z</time>
+    <name>1114</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664611</gpxx:lat>
+      <gpxx:lon>-77.890492</gpxx:lon>
+      <gpxx:y_proj>40.664611</gpxx:y_proj>
+      <gpxx:x_proj>-77.890492</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:09:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664608" lon="-77.890517">
+    <ele>337.611145</ele>
+    <time>2025-07-22T17:11:36Z</time>
+    <name>900</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664608</gpxx:lat>
+      <gpxx:lon>-77.890517</gpxx:lon>
+      <gpxx:y_proj>40.664608</gpxx:y_proj>
+      <gpxx:x_proj>-77.890517</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:11:36</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664663" lon="-77.890496">
+    <ele>335.891998</ele>
+    <time>2025-07-22T17:12:46Z</time>
+    <name>S2868</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664663</gpxx:lat>
+      <gpxx:lon>-77.890496</gpxx:lon>
+      <gpxx:y_proj>40.664663</gpxx:y_proj>
+      <gpxx:x_proj>-77.890496</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:12:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664683" lon="-77.890526">
+    <ele>334.358856</ele>
+    <time>2025-07-22T17:14:01Z</time>
+    <name>SNT42</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664683</gpxx:lat>
+      <gpxx:lon>-77.890526</gpxx:lon>
+      <gpxx:y_proj>40.664683</gpxx:y_proj>
+      <gpxx:x_proj>-77.890526</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:14:01</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664654" lon="-77.890485">
+    <ele>336.815948</ele>
+    <time>2025-07-22T17:15:29Z</time>
+    <name>1137</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664654</gpxx:lat>
+      <gpxx:lon>-77.890485</gpxx:lon>
+      <gpxx:y_proj>40.664654</gpxx:y_proj>
+      <gpxx:x_proj>-77.890485</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:15:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664631" lon="-77.890536">
+    <ele>337.39328</ele>
+    <time>2025-07-22T17:16:25Z</time>
+    <name>1136</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664631</gpxx:lat>
+      <gpxx:lon>-77.890536</gpxx:lon>
+      <gpxx:y_proj>40.664631</gpxx:y_proj>
+      <gpxx:x_proj>-77.890536</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:16:25</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664663" lon="-77.890519">
+    <ele>337.011353</ele>
+    <time>2025-07-22T17:17:17Z</time>
+    <name>691</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664663</gpxx:lat>
+      <gpxx:lon>-77.890519</gpxx:lon>
+      <gpxx:y_proj>40.664663</gpxx:y_proj>
+      <gpxx:x_proj>-77.890519</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:17:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664784" lon="-77.890422">
+    <ele>335.664429</ele>
+    <time>2025-07-22T17:19:53Z</time>
+    <name>1139</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664784</gpxx:lat>
+      <gpxx:lon>-77.890422</gpxx:lon>
+      <gpxx:y_proj>40.664784</gpxx:y_proj>
+      <gpxx:x_proj>-77.890422</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:19:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664838" lon="-77.890515">
+    <ele>334.003113</ele>
+    <time>2025-07-22T17:21:44Z</time>
+    <name>1140</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664838</gpxx:lat>
+      <gpxx:lon>-77.890515</gpxx:lon>
+      <gpxx:y_proj>40.664838</gpxx:y_proj>
+      <gpxx:x_proj>-77.890515</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:21:44</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66481" lon="-77.890506">
+    <ele>333.577454</ele>
+    <time>2025-07-22T17:22:48Z</time>
+    <name>S974</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66481</gpxx:lat>
+      <gpxx:lon>-77.890506</gpxx:lon>
+      <gpxx:y_proj>40.66481</gpxx:y_proj>
+      <gpxx:x_proj>-77.890506</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:22:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664746" lon="-77.890516">
+    <ele>334.594299</ele>
+    <time>2025-07-22T17:30:04Z</time>
+    <name>2851</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664746</gpxx:lat>
+      <gpxx:lon>-77.890516</gpxx:lon>
+      <gpxx:y_proj>40.664746</gpxx:y_proj>
+      <gpxx:x_proj>-77.890516</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:30:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664764" lon="-77.890582">
+    <ele>335.366974</ele>
+    <time>2025-07-22T17:32:17Z</time>
+    <name>2801</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664764</gpxx:lat>
+      <gpxx:lon>-77.890582</gpxx:lon>
+      <gpxx:y_proj>40.664764</gpxx:y_proj>
+      <gpxx:x_proj>-77.890582</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:32:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664818" lon="-77.890551">
+    <ele>334.760773</ele>
+    <time>2025-07-22T17:33:38Z</time>
+    <name>1168</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664818</gpxx:lat>
+      <gpxx:lon>-77.890551</gpxx:lon>
+      <gpxx:y_proj>40.664818</gpxx:y_proj>
+      <gpxx:x_proj>-77.890551</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:33:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664747" lon="-77.890488">
+    <ele>335.27066</ele>
+    <time>2025-07-22T17:34:31Z</time>
+    <name>1138</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664747</gpxx:lat>
+      <gpxx:lon>-77.890488</gpxx:lon>
+      <gpxx:y_proj>40.664747</gpxx:y_proj>
+      <gpxx:x_proj>-77.890488</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:34:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664919" lon="-77.890413">
+    <ele>330.866425</ele>
+    <time>2025-07-22T17:41:51Z</time>
+    <name>1152</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664919</gpxx:lat>
+      <gpxx:lon>-77.890413</gpxx:lon>
+      <gpxx:y_proj>40.664919</gpxx:y_proj>
+      <gpxx:x_proj>-77.890413</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:41:51</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664887" lon="-77.890453">
+    <ele>332.193451</ele>
+    <time>2025-07-22T17:42:27Z</time>
+    <name>1153</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664887</gpxx:lat>
+      <gpxx:lon>-77.890453</gpxx:lon>
+      <gpxx:y_proj>40.664887</gpxx:y_proj>
+      <gpxx:x_proj>-77.890453</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:42:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665049" lon="-77.890597">
+    <ele>327.43515</ele>
+    <time>2025-07-22T17:45:20Z</time>
+    <name>1154</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665049</gpxx:lat>
+      <gpxx:lon>-77.890597</gpxx:lon>
+      <gpxx:y_proj>40.665049</gpxx:y_proj>
+      <gpxx:x_proj>-77.890597</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:45:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66497" lon="-77.890578">
+    <ele>327.594452</ele>
+    <time>2025-07-22T17:46:39Z</time>
+    <name>1164</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66497</gpxx:lat>
+      <gpxx:lon>-77.890578</gpxx:lon>
+      <gpxx:y_proj>40.66497</gpxx:y_proj>
+      <gpxx:x_proj>-77.890578</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:46:39</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664922" lon="-77.890554">
+    <ele>329.5401</ele>
+    <time>2025-07-22T17:47:37Z</time>
+    <name>S948</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664922</gpxx:lat>
+      <gpxx:lon>-77.890554</gpxx:lon>
+      <gpxx:y_proj>40.664922</gpxx:y_proj>
+      <gpxx:x_proj>-77.890554</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:47:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664973" lon="-77.890379">
+    <ele>328.354797</ele>
+    <time>2025-07-22T17:50:45Z</time>
+    <name>S936</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664973</gpxx:lat>
+      <gpxx:lon>-77.890379</gpxx:lon>
+      <gpxx:y_proj>40.664973</gpxx:y_proj>
+      <gpxx:x_proj>-77.890379</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 13:50:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664889" lon="-77.890387">
+    <ele>332.091553</ele>
+    <time>2025-07-22T18:34:38Z</time>
+    <name>928</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664889</gpxx:lat>
+      <gpxx:lon>-77.890387</gpxx:lon>
+      <gpxx:y_proj>40.664889</gpxx:y_proj>
+      <gpxx:x_proj>-77.890387</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 14:34:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664913" lon="-77.890217">
+    <ele>333.42984</ele>
+    <time>2025-07-22T18:37:13Z</time>
+    <name>S924</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664913</gpxx:lat>
+      <gpxx:lon>-77.890217</gpxx:lon>
+      <gpxx:y_proj>40.664913</gpxx:y_proj>
+      <gpxx:x_proj>-77.890217</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 14:37:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664887" lon="-77.890456">
+    <ele>336.273132</ele>
+    <time>2025-07-22T18:46:54Z</time>
+    <name>S987</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Pizza</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664887</gpxx:lat>
+      <gpxx:lon>-77.890456</gpxx:lon>
+      <gpxx:y_proj>40.664887</gpxx:y_proj>
+      <gpxx:x_proj>-77.890456</gpxx:x_proj>
+      <gpxx:ltime>2025/07/22 14:46:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>

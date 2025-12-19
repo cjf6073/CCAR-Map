@@ -1,0 +1,2091 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="40.664512000000002" minlon="-77.889932000000002" maxlat="40.665146999999997" maxlon="-77.888642000000004" />
+  </metadata>
+  <wpt lat="40.665055" lon="-77.889932">
+    <ele>335.930786</ele>
+    <time>2025-07-25T13:44:20Z</time>
+    <name>504</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665055</gpxx:lat>
+      <gpxx:lon>-77.889932</gpxx:lon>
+      <gpxx:y_proj>40.665055</gpxx:y_proj>
+      <gpxx:x_proj>-77.889932</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:44:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664954" lon="-77.889766">
+    <ele>343.00415</ele>
+    <time>2025-07-25T13:45:54Z</time>
+    <name>513</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664954</gpxx:lat>
+      <gpxx:lon>-77.889766</gpxx:lon>
+      <gpxx:y_proj>40.664954</gpxx:y_proj>
+      <gpxx:x_proj>-77.889766</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:45:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664999" lon="-77.889727">
+    <ele>343.983185</ele>
+    <time>2025-07-25T13:46:43Z</time>
+    <name>514</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664999</gpxx:lat>
+      <gpxx:lon>-77.889727</gpxx:lon>
+      <gpxx:y_proj>40.664999</gpxx:y_proj>
+      <gpxx:x_proj>-77.889727</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:46:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665064" lon="-77.889768">
+    <ele>343.814087</ele>
+    <time>2025-07-25T13:48:02Z</time>
+    <name>822</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665064</gpxx:lat>
+      <gpxx:lon>-77.889768</gpxx:lon>
+      <gpxx:y_proj>40.665064</gpxx:y_proj>
+      <gpxx:x_proj>-77.889768</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:48:02</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665142" lon="-77.889758">
+    <ele>342.925323</ele>
+    <time>2025-07-25T13:49:06Z</time>
+    <name>515</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665142</gpxx:lat>
+      <gpxx:lon>-77.889758</gpxx:lon>
+      <gpxx:y_proj>40.665142</gpxx:y_proj>
+      <gpxx:x_proj>-77.889758</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:49:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665147" lon="-77.889727">
+    <ele>340.288818</ele>
+    <time>2025-07-25T13:52:25Z</time>
+    <name>1811</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665147</gpxx:lat>
+      <gpxx:lon>-77.889727</gpxx:lon>
+      <gpxx:y_proj>40.665147</gpxx:y_proj>
+      <gpxx:x_proj>-77.889727</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:52:25</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66511" lon="-77.889637">
+    <ele>342.891235</ele>
+    <time>2025-07-25T13:53:27Z</time>
+    <name>516</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66511</gpxx:lat>
+      <gpxx:lon>-77.889637</gpxx:lon>
+      <gpxx:y_proj>40.66511</gpxx:y_proj>
+      <gpxx:x_proj>-77.889637</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:53:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664961" lon="-77.889645">
+    <ele>341.847473</ele>
+    <time>2025-07-25T13:55:45Z</time>
+    <name>642</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664961</gpxx:lat>
+      <gpxx:lon>-77.889645</gpxx:lon>
+      <gpxx:y_proj>40.664961</gpxx:y_proj>
+      <gpxx:x_proj>-77.889645</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:55:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665068" lon="-77.889563">
+    <ele>342.518066</ele>
+    <time>2025-07-25T13:56:57Z</time>
+    <name>1899</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665068</gpxx:lat>
+      <gpxx:lon>-77.889563</gpxx:lon>
+      <gpxx:y_proj>40.665068</gpxx:y_proj>
+      <gpxx:x_proj>-77.889563</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:56:57</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665059" lon="-77.889575">
+    <ele>343.557861</ele>
+    <time>2025-07-25T13:57:45Z</time>
+    <name>519</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665059</gpxx:lat>
+      <gpxx:lon>-77.889575</gpxx:lon>
+      <gpxx:y_proj>40.665059</gpxx:y_proj>
+      <gpxx:x_proj>-77.889575</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:57:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665076" lon="-77.889516">
+    <ele>342.722046</ele>
+    <time>2025-07-25T13:58:32Z</time>
+    <name>520</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665076</gpxx:lat>
+      <gpxx:lon>-77.889516</gpxx:lon>
+      <gpxx:y_proj>40.665076</gpxx:y_proj>
+      <gpxx:x_proj>-77.889516</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:58:32</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665038" lon="-77.88952">
+    <ele>342.905273</ele>
+    <time>2025-07-25T13:59:28Z</time>
+    <name>641</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665038</gpxx:lat>
+      <gpxx:lon>-77.88952</gpxx:lon>
+      <gpxx:y_proj>40.665038</gpxx:y_proj>
+      <gpxx:x_proj>-77.88952</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 09:59:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665052" lon="-77.889634">
+    <ele>342.986298</ele>
+    <time>2025-07-25T14:00:06Z</time>
+    <name>643</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665052</gpxx:lat>
+      <gpxx:lon>-77.889634</gpxx:lon>
+      <gpxx:y_proj>40.665052</gpxx:y_proj>
+      <gpxx:x_proj>-77.889634</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:00:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665048" lon="-77.88973">
+    <ele>339.27713</ele>
+    <time>2025-07-25T14:01:02Z</time>
+    <name>644</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665048</gpxx:lat>
+      <gpxx:lon>-77.88973</gpxx:lon>
+      <gpxx:y_proj>40.665048</gpxx:y_proj>
+      <gpxx:x_proj>-77.88973</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:01:02</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665021" lon="-77.889664">
+    <ele>341.415802</ele>
+    <time>2025-07-25T14:02:12Z</time>
+    <name>645</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665021</gpxx:lat>
+      <gpxx:lon>-77.889664</gpxx:lon>
+      <gpxx:y_proj>40.665021</gpxx:y_proj>
+      <gpxx:x_proj>-77.889664</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:02:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665037" lon="-77.889657">
+    <ele>341.740417</ele>
+    <time>2025-07-25T14:02:50Z</time>
+    <name>646</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665037</gpxx:lat>
+      <gpxx:lon>-77.889657</gpxx:lon>
+      <gpxx:y_proj>40.665037</gpxx:y_proj>
+      <gpxx:x_proj>-77.889657</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:02:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664987" lon="-77.889621">
+    <ele>341.728424</ele>
+    <time>2025-07-25T14:06:18Z</time>
+    <name>647</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664987</gpxx:lat>
+      <gpxx:lon>-77.889621</gpxx:lon>
+      <gpxx:y_proj>40.664987</gpxx:y_proj>
+      <gpxx:x_proj>-77.889621</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:06:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664929" lon="-77.889618">
+    <ele>341.643768</ele>
+    <time>2025-07-25T14:07:58Z</time>
+    <name>648</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664929</gpxx:lat>
+      <gpxx:lon>-77.889618</gpxx:lon>
+      <gpxx:y_proj>40.664929</gpxx:y_proj>
+      <gpxx:x_proj>-77.889618</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:07:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66487" lon="-77.889627">
+    <ele>342.704285</ele>
+    <time>2025-07-25T14:09:13Z</time>
+    <name>674</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66487</gpxx:lat>
+      <gpxx:lon>-77.889627</gpxx:lon>
+      <gpxx:y_proj>40.66487</gpxx:y_proj>
+      <gpxx:x_proj>-77.889627</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:09:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664943" lon="-77.889594">
+    <ele>341.877014</ele>
+    <time>2025-07-25T14:10:15Z</time>
+    <name>639</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664943</gpxx:lat>
+      <gpxx:lon>-77.889594</gpxx:lon>
+      <gpxx:y_proj>40.664943</gpxx:y_proj>
+      <gpxx:x_proj>-77.889594</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:10:15</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664963" lon="-77.889507">
+    <ele>341.727264</ele>
+    <time>2025-07-25T14:11:04Z</time>
+    <name>638</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664963</gpxx:lat>
+      <gpxx:lon>-77.889507</gpxx:lon>
+      <gpxx:y_proj>40.664963</gpxx:y_proj>
+      <gpxx:x_proj>-77.889507</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:11:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665027" lon="-77.889538">
+    <ele>340.502472</ele>
+    <time>2025-07-25T14:11:58Z</time>
+    <name>640</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665027</gpxx:lat>
+      <gpxx:lon>-77.889538</gpxx:lon>
+      <gpxx:y_proj>40.665027</gpxx:y_proj>
+      <gpxx:x_proj>-77.889538</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:11:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665076" lon="-77.889329">
+    <ele>341.099243</ele>
+    <time>2025-07-25T14:14:18Z</time>
+    <name>612</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665076</gpxx:lat>
+      <gpxx:lon>-77.889329</gpxx:lon>
+      <gpxx:y_proj>40.665076</gpxx:y_proj>
+      <gpxx:x_proj>-77.889329</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:14:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665082" lon="-77.889365">
+    <ele>340.132111</ele>
+    <time>2025-07-25T14:14:56Z</time>
+    <name>613</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665082</gpxx:lat>
+      <gpxx:lon>-77.889365</gpxx:lon>
+      <gpxx:y_proj>40.665082</gpxx:y_proj>
+      <gpxx:x_proj>-77.889365</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:14:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665033" lon="-77.889437">
+    <ele>340.299957</ele>
+    <time>2025-07-25T14:15:21Z</time>
+    <name>614</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665033</gpxx:lat>
+      <gpxx:lon>-77.889437</gpxx:lon>
+      <gpxx:y_proj>40.665033</gpxx:y_proj>
+      <gpxx:x_proj>-77.889437</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:15:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665034" lon="-77.889376">
+    <ele>341.228699</ele>
+    <time>2025-07-25T14:17:19Z</time>
+    <name>615</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665034</gpxx:lat>
+      <gpxx:lon>-77.889376</gpxx:lon>
+      <gpxx:y_proj>40.665034</gpxx:y_proj>
+      <gpxx:x_proj>-77.889376</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:17:19</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66494" lon="-77.889443">
+    <ele>340.710419</ele>
+    <time>2025-07-25T14:18:12Z</time>
+    <name>616</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66494</gpxx:lat>
+      <gpxx:lon>-77.889443</gpxx:lon>
+      <gpxx:y_proj>40.66494</gpxx:y_proj>
+      <gpxx:x_proj>-77.889443</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:18:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664951" lon="-77.889476">
+    <ele>341.259827</ele>
+    <time>2025-07-25T14:18:41Z</time>
+    <name>636</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664951</gpxx:lat>
+      <gpxx:lon>-77.889476</gpxx:lon>
+      <gpxx:y_proj>40.664951</gpxx:y_proj>
+      <gpxx:x_proj>-77.889476</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:18:41</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664904" lon="-77.88951">
+    <ele>341.214996</ele>
+    <time>2025-07-25T14:19:28Z</time>
+    <name>637</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664904</gpxx:lat>
+      <gpxx:lon>-77.88951</gpxx:lon>
+      <gpxx:y_proj>40.664904</gpxx:y_proj>
+      <gpxx:x_proj>-77.88951</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:19:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664892" lon="-77.889619">
+    <ele>340.069641</ele>
+    <time>2025-07-25T14:20:29Z</time>
+    <name>649</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664892</gpxx:lat>
+      <gpxx:lon>-77.889619</gpxx:lon>
+      <gpxx:y_proj>40.664892</gpxx:y_proj>
+      <gpxx:x_proj>-77.889619</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:20:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66485" lon="-77.889629">
+    <ele>341.504425</ele>
+    <time>2025-07-25T14:21:17Z</time>
+    <name>673</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66485</gpxx:lat>
+      <gpxx:lon>-77.889629</gpxx:lon>
+      <gpxx:y_proj>40.66485</gpxx:y_proj>
+      <gpxx:x_proj>-77.889629</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:21:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664796" lon="-77.889544">
+    <ele>341.29541</ele>
+    <time>2025-07-25T14:23:40Z</time>
+    <name>809</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664796</gpxx:lat>
+      <gpxx:lon>-77.889544</gpxx:lon>
+      <gpxx:y_proj>40.664796</gpxx:y_proj>
+      <gpxx:x_proj>-77.889544</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:23:40</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664842" lon="-77.889625">
+    <ele>341.332977</ele>
+    <time>2025-07-25T14:24:32Z</time>
+    <name>650</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664842</gpxx:lat>
+      <gpxx:lon>-77.889625</gpxx:lon>
+      <gpxx:y_proj>40.664842</gpxx:y_proj>
+      <gpxx:x_proj>-77.889625</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:24:32</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664897" lon="-77.889555">
+    <ele>340.851074</ele>
+    <time>2025-07-25T14:25:26Z</time>
+    <name>899</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664897</gpxx:lat>
+      <gpxx:lon>-77.889555</gpxx:lon>
+      <gpxx:y_proj>40.664897</gpxx:y_proj>
+      <gpxx:x_proj>-77.889555</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:25:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66487" lon="-77.889516">
+    <ele>341.914124</ele>
+    <time>2025-07-25T14:25:58Z</time>
+    <name>652</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66487</gpxx:lat>
+      <gpxx:lon>-77.889516</gpxx:lon>
+      <gpxx:y_proj>40.66487</gpxx:y_proj>
+      <gpxx:x_proj>-77.889516</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:25:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66483" lon="-77.889537">
+    <ele>342.440643</ele>
+    <time>2025-07-25T14:26:28Z</time>
+    <name>816</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66483</gpxx:lat>
+      <gpxx:lon>-77.889537</gpxx:lon>
+      <gpxx:y_proj>40.66483</gpxx:y_proj>
+      <gpxx:x_proj>-77.889537</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:26:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664781" lon="-77.889482">
+    <ele>342.764252</ele>
+    <time>2025-07-25T14:27:35Z</time>
+    <name>654</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664781</gpxx:lat>
+      <gpxx:lon>-77.889482</gpxx:lon>
+      <gpxx:y_proj>40.664781</gpxx:y_proj>
+      <gpxx:x_proj>-77.889482</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:27:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66473" lon="-77.88945">
+    <ele>344.069336</ele>
+    <time>2025-07-25T14:29:46Z</time>
+    <name>657</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66473</gpxx:lat>
+      <gpxx:lon>-77.88945</gpxx:lon>
+      <gpxx:y_proj>40.66473</gpxx:y_proj>
+      <gpxx:x_proj>-77.88945</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:29:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664749" lon="-77.889365">
+    <ele>344.131775</ele>
+    <time>2025-07-25T14:30:38Z</time>
+    <name>656</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664749</gpxx:lat>
+      <gpxx:lon>-77.889365</gpxx:lon>
+      <gpxx:y_proj>40.664749</gpxx:y_proj>
+      <gpxx:x_proj>-77.889365</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:30:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664831" lon="-77.889408">
+    <ele>342.333649</ele>
+    <time>2025-07-25T14:31:38Z</time>
+    <name>655</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664831</gpxx:lat>
+      <gpxx:lon>-77.889408</gpxx:lon>
+      <gpxx:y_proj>40.664831</gpxx:y_proj>
+      <gpxx:x_proj>-77.889408</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:31:38</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664855" lon="-77.889369">
+    <ele>343.638733</ele>
+    <time>2025-07-25T14:32:26Z</time>
+    <name>633</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664855</gpxx:lat>
+      <gpxx:lon>-77.889369</gpxx:lon>
+      <gpxx:y_proj>40.664855</gpxx:y_proj>
+      <gpxx:x_proj>-77.889369</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:32:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664849" lon="-77.88936">
+    <ele>341.555725</ele>
+    <time>2025-07-25T14:33:05Z</time>
+    <name>634</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664849</gpxx:lat>
+      <gpxx:lon>-77.88936</gpxx:lon>
+      <gpxx:y_proj>40.664849</gpxx:y_proj>
+      <gpxx:x_proj>-77.88936</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:33:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664865" lon="-77.889389">
+    <ele>343.249756</ele>
+    <time>2025-07-25T14:34:08Z</time>
+    <name>813</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664865</gpxx:lat>
+      <gpxx:lon>-77.889389</gpxx:lon>
+      <gpxx:y_proj>40.664865</gpxx:y_proj>
+      <gpxx:x_proj>-77.889389</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:34:08</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664836" lon="-77.889373">
+    <ele>343.171997</ele>
+    <time>2025-07-25T14:34:54Z</time>
+    <name>632</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664836</gpxx:lat>
+      <gpxx:lon>-77.889373</gpxx:lon>
+      <gpxx:y_proj>40.664836</gpxx:y_proj>
+      <gpxx:x_proj>-77.889373</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:34:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664916" lon="-77.889408">
+    <ele>341.099243</ele>
+    <time>2025-07-25T14:35:36Z</time>
+    <name>635</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664916</gpxx:lat>
+      <gpxx:lon>-77.889408</gpxx:lon>
+      <gpxx:y_proj>40.664916</gpxx:y_proj>
+      <gpxx:x_proj>-77.889408</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:35:36</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664853" lon="-77.88943">
+    <ele>341.269409</ele>
+    <time>2025-07-25T14:36:09Z</time>
+    <name>699</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664853</gpxx:lat>
+      <gpxx:lon>-77.88943</gpxx:lon>
+      <gpxx:y_proj>40.664853</gpxx:y_proj>
+      <gpxx:x_proj>-77.88943</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:36:09</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664866" lon="-77.889505">
+    <ele>340.450867</ele>
+    <time>2025-07-25T14:36:53Z</time>
+    <name>651</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664866</gpxx:lat>
+      <gpxx:lon>-77.889505</gpxx:lon>
+      <gpxx:y_proj>40.664866</gpxx:y_proj>
+      <gpxx:x_proj>-77.889505</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:36:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664845" lon="-77.889443">
+    <ele>340.167969</ele>
+    <time>2025-07-25T14:37:40Z</time>
+    <name>817</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664845</gpxx:lat>
+      <gpxx:lon>-77.889443</gpxx:lon>
+      <gpxx:y_proj>40.664845</gpxx:y_proj>
+      <gpxx:x_proj>-77.889443</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:37:40</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664938" lon="-77.889377">
+    <ele>339.511627</ele>
+    <time>2025-07-25T14:38:39Z</time>
+    <name>617</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664938</gpxx:lat>
+      <gpxx:lon>-77.889377</gpxx:lon>
+      <gpxx:y_proj>40.664938</gpxx:y_proj>
+      <gpxx:x_proj>-77.889377</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:38:39</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66494" lon="-77.889347">
+    <ele>340.695831</ele>
+    <time>2025-07-25T14:39:31Z</time>
+    <name>618</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66494</gpxx:lat>
+      <gpxx:lon>-77.889347</gpxx:lon>
+      <gpxx:y_proj>40.66494</gpxx:y_proj>
+      <gpxx:x_proj>-77.889347</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:39:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665024" lon="-77.889284">
+    <ele>339.83017</ele>
+    <time>2025-07-25T14:40:20Z</time>
+    <name>610</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665024</gpxx:lat>
+      <gpxx:lon>-77.889284</gpxx:lon>
+      <gpxx:y_proj>40.665024</gpxx:y_proj>
+      <gpxx:x_proj>-77.889284</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:40:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66507" lon="-77.889262">
+    <ele>340.04364</ele>
+    <time>2025-07-25T14:41:56Z</time>
+    <name>597</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66507</gpxx:lat>
+      <gpxx:lon>-77.889262</gpxx:lon>
+      <gpxx:y_proj>40.66507</gpxx:y_proj>
+      <gpxx:x_proj>-77.889262</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:41:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665081" lon="-77.88917">
+    <ele>341.358459</ele>
+    <time>2025-07-25T14:43:33Z</time>
+    <name>592</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665081</gpxx:lat>
+      <gpxx:lon>-77.88917</gpxx:lon>
+      <gpxx:y_proj>40.665081</gpxx:y_proj>
+      <gpxx:x_proj>-77.88917</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:43:33</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66506" lon="-77.889153">
+    <ele>341.964569</ele>
+    <time>2025-07-25T14:43:58Z</time>
+    <name>593</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66506</gpxx:lat>
+      <gpxx:lon>-77.889153</gpxx:lon>
+      <gpxx:y_proj>40.66506</gpxx:y_proj>
+      <gpxx:x_proj>-77.889153</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:43:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665075" lon="-77.889113">
+    <ele>342.089935</ele>
+    <time>2025-07-25T14:44:41Z</time>
+    <name>826</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665075</gpxx:lat>
+      <gpxx:lon>-77.889113</gpxx:lon>
+      <gpxx:y_proj>40.665075</gpxx:y_proj>
+      <gpxx:x_proj>-77.889113</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:44:41</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665038" lon="-77.889213">
+    <ele>341.263184</ele>
+    <time>2025-07-25T14:45:30Z</time>
+    <name>1815</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665038</gpxx:lat>
+      <gpxx:lon>-77.889213</gpxx:lon>
+      <gpxx:y_proj>40.665038</gpxx:y_proj>
+      <gpxx:x_proj>-77.889213</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:45:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665016" lon="-77.889236">
+    <ele>340.540619</ele>
+    <time>2025-07-25T14:46:53Z</time>
+    <name>598</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665016</gpxx:lat>
+      <gpxx:lon>-77.889236</gpxx:lon>
+      <gpxx:y_proj>40.665016</gpxx:y_proj>
+      <gpxx:x_proj>-77.889236</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:46:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665008" lon="-77.889254">
+    <ele>341.524841</ele>
+    <time>2025-07-25T14:48:00Z</time>
+    <name>600</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665008</gpxx:lat>
+      <gpxx:lon>-77.889254</gpxx:lon>
+      <gpxx:y_proj>40.665008</gpxx:y_proj>
+      <gpxx:x_proj>-77.889254</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:48:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.665034" lon="-77.889173">
+    <ele>341.502686</ele>
+    <time>2025-07-25T14:48:33Z</time>
+    <name>599</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.665034</gpxx:lat>
+      <gpxx:lon>-77.889173</gpxx:lon>
+      <gpxx:y_proj>40.665034</gpxx:y_proj>
+      <gpxx:x_proj>-77.889173</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:48:33</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664991" lon="-77.889131">
+    <ele>341.650452</ele>
+    <time>2025-07-25T14:49:11Z</time>
+    <name>601</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664991</gpxx:lat>
+      <gpxx:lon>-77.889131</gpxx:lon>
+      <gpxx:y_proj>40.664991</gpxx:y_proj>
+      <gpxx:x_proj>-77.889131</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:49:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664947" lon="-77.889245">
+    <ele>340.837372</ele>
+    <time>2025-07-25T14:51:09Z</time>
+    <name>609</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664947</gpxx:lat>
+      <gpxx:lon>-77.889245</gpxx:lon>
+      <gpxx:y_proj>40.664947</gpxx:y_proj>
+      <gpxx:x_proj>-77.889245</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:51:09</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664881" lon="-77.88924">
+    <ele>341.436646</ele>
+    <time>2025-07-25T14:51:34Z</time>
+    <name>608</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664881</gpxx:lat>
+      <gpxx:lon>-77.88924</gpxx:lon>
+      <gpxx:y_proj>40.664881</gpxx:y_proj>
+      <gpxx:x_proj>-77.88924</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:51:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664897" lon="-77.889295">
+    <ele>340.911774</ele>
+    <time>2025-07-25T14:52:13Z</time>
+    <name>619</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664897</gpxx:lat>
+      <gpxx:lon>-77.889295</gpxx:lon>
+      <gpxx:y_proj>40.664897</gpxx:y_proj>
+      <gpxx:x_proj>-77.889295</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:52:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664888" lon="-77.88932">
+    <ele>337.970276</ele>
+    <time>2025-07-25T14:52:45Z</time>
+    <name>620</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664888</gpxx:lat>
+      <gpxx:lon>-77.88932</gpxx:lon>
+      <gpxx:y_proj>40.664888</gpxx:y_proj>
+      <gpxx:x_proj>-77.88932</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:52:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664818" lon="-77.889312">
+    <ele>342.044098</ele>
+    <time>2025-07-25T14:55:31Z</time>
+    <name>630</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664818</gpxx:lat>
+      <gpxx:lon>-77.889312</gpxx:lon>
+      <gpxx:y_proj>40.664818</gpxx:y_proj>
+      <gpxx:x_proj>-77.889312</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:55:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664818" lon="-77.889335">
+    <ele>340.966095</ele>
+    <time>2025-07-25T14:55:48Z</time>
+    <name>631</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664818</gpxx:lat>
+      <gpxx:lon>-77.889335</gpxx:lon>
+      <gpxx:y_proj>40.664818</gpxx:y_proj>
+      <gpxx:x_proj>-77.889335</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:55:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66478" lon="-77.889405">
+    <ele>340.819794</ele>
+    <time>2025-07-25T14:56:42Z</time>
+    <name>811</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66478</gpxx:lat>
+      <gpxx:lon>-77.889405</gpxx:lon>
+      <gpxx:y_proj>40.66478</gpxx:y_proj>
+      <gpxx:x_proj>-77.889405</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:56:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664737" lon="-77.889327">
+    <ele>341.604614</ele>
+    <time>2025-07-25T14:57:21Z</time>
+    <name>659</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664737</gpxx:lat>
+      <gpxx:lon>-77.889327</gpxx:lon>
+      <gpxx:y_proj>40.664737</gpxx:y_proj>
+      <gpxx:x_proj>-77.889327</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:57:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664687" lon="-77.889348">
+    <ele>341.623566</ele>
+    <time>2025-07-25T14:59:27Z</time>
+    <name>658</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664687</gpxx:lat>
+      <gpxx:lon>-77.889348</gpxx:lon>
+      <gpxx:y_proj>40.664687</gpxx:y_proj>
+      <gpxx:x_proj>-77.889348</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 10:59:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664638" lon="-77.889391">
+    <ele>342.531128</ele>
+    <time>2025-07-25T15:03:53Z</time>
+    <name>666</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664638</gpxx:lat>
+      <gpxx:lon>-77.889391</gpxx:lon>
+      <gpxx:y_proj>40.664638</gpxx:y_proj>
+      <gpxx:x_proj>-77.889391</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:03:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664588" lon="-77.889334">
+    <ele>343.56778</ele>
+    <time>2025-07-25T15:05:03Z</time>
+    <name>664</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664588</gpxx:lat>
+      <gpxx:lon>-77.889334</gpxx:lon>
+      <gpxx:y_proj>40.664588</gpxx:y_proj>
+      <gpxx:x_proj>-77.889334</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:05:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664556" lon="-77.889275">
+    <ele>344.016937</ele>
+    <time>2025-07-25T15:06:48Z</time>
+    <name>285</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664556</gpxx:lat>
+      <gpxx:lon>-77.889275</gpxx:lon>
+      <gpxx:y_proj>40.664556</gpxx:y_proj>
+      <gpxx:x_proj>-77.889275</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:06:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664516" lon="-77.889275">
+    <ele>344.020294</ele>
+    <time>2025-07-25T15:09:04Z</time>
+    <name>284</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664516</gpxx:lat>
+      <gpxx:lon>-77.889275</gpxx:lon>
+      <gpxx:y_proj>40.664516</gpxx:y_proj>
+      <gpxx:x_proj>-77.889275</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:09:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664556" lon="-77.889169">
+    <ele>344.239227</ele>
+    <time>2025-07-25T15:10:50Z</time>
+    <name>279</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664556</gpxx:lat>
+      <gpxx:lon>-77.889169</gpxx:lon>
+      <gpxx:y_proj>40.664556</gpxx:y_proj>
+      <gpxx:x_proj>-77.889169</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:10:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664512" lon="-77.889194">
+    <ele>342.821655</ele>
+    <time>2025-07-25T15:12:00Z</time>
+    <name>280</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664512</gpxx:lat>
+      <gpxx:lon>-77.889194</gpxx:lon>
+      <gpxx:y_proj>40.664512</gpxx:y_proj>
+      <gpxx:x_proj>-77.889194</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:12:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664579" lon="-77.889228">
+    <ele>342.585388</ele>
+    <time>2025-07-25T15:12:42Z</time>
+    <name>281</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664579</gpxx:lat>
+      <gpxx:lon>-77.889228</gpxx:lon>
+      <gpxx:y_proj>40.664579</gpxx:y_proj>
+      <gpxx:x_proj>-77.889228</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:12:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664553" lon="-77.889156">
+    <ele>344.075623</ele>
+    <time>2025-07-25T15:13:30Z</time>
+    <name>278</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664553</gpxx:lat>
+      <gpxx:lon>-77.889156</gpxx:lon>
+      <gpxx:y_proj>40.664553</gpxx:y_proj>
+      <gpxx:x_proj>-77.889156</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:13:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664577" lon="-77.889098">
+    <ele>344.729797</ele>
+    <time>2025-07-25T15:15:00Z</time>
+    <name>273</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664577</gpxx:lat>
+      <gpxx:lon>-77.889098</gpxx:lon>
+      <gpxx:y_proj>40.664577</gpxx:y_proj>
+      <gpxx:x_proj>-77.889098</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:15:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66461" lon="-77.889122">
+    <ele>344.019531</ele>
+    <time>2025-07-25T15:15:45Z</time>
+    <name>274</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66461</gpxx:lat>
+      <gpxx:lon>-77.889122</gpxx:lon>
+      <gpxx:y_proj>40.66461</gpxx:y_proj>
+      <gpxx:x_proj>-77.889122</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:15:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664589" lon="-77.889117">
+    <ele>343.704712</ele>
+    <time>2025-07-25T15:16:43Z</time>
+    <name>277</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664589</gpxx:lat>
+      <gpxx:lon>-77.889117</gpxx:lon>
+      <gpxx:y_proj>40.664589</gpxx:y_proj>
+      <gpxx:x_proj>-77.889117</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:16:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664598" lon="-77.889203">
+    <ele>344.547882</ele>
+    <time>2025-07-25T15:18:26Z</time>
+    <name>282</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664598</gpxx:lat>
+      <gpxx:lon>-77.889203</gpxx:lon>
+      <gpxx:y_proj>40.664598</gpxx:y_proj>
+      <gpxx:x_proj>-77.889203</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:18:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664599" lon="-77.889221">
+    <ele>342.275726</ele>
+    <time>2025-07-25T15:18:53Z</time>
+    <name>283</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664599</gpxx:lat>
+      <gpxx:lon>-77.889221</gpxx:lon>
+      <gpxx:y_proj>40.664599</gpxx:y_proj>
+      <gpxx:x_proj>-77.889221</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:18:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664603" lon="-77.889337">
+    <ele>344.231018</ele>
+    <time>2025-07-25T15:19:58Z</time>
+    <name>662</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664603</gpxx:lat>
+      <gpxx:lon>-77.889337</gpxx:lon>
+      <gpxx:y_proj>40.664603</gpxx:y_proj>
+      <gpxx:x_proj>-77.889337</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:19:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664578" lon="-77.889294">
+    <ele>344.682983</ele>
+    <time>2025-07-25T15:23:04Z</time>
+    <name>663</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664578</gpxx:lat>
+      <gpxx:lon>-77.889294</gpxx:lon>
+      <gpxx:y_proj>40.664578</gpxx:y_proj>
+      <gpxx:x_proj>-77.889294</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:23:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664603" lon="-77.889293">
+    <ele>344.703308</ele>
+    <time>2025-07-25T15:26:58Z</time>
+    <name>665</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664603</gpxx:lat>
+      <gpxx:lon>-77.889293</gpxx:lon>
+      <gpxx:y_proj>40.664603</gpxx:y_proj>
+      <gpxx:x_proj>-77.889293</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:26:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66463" lon="-77.889241">
+    <ele>345.78479</ele>
+    <time>2025-07-25T15:33:01Z</time>
+    <name>661</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66463</gpxx:lat>
+      <gpxx:lon>-77.889241</gpxx:lon>
+      <gpxx:y_proj>40.66463</gpxx:y_proj>
+      <gpxx:x_proj>-77.889241</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:33:01</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664629" lon="-77.889063">
+    <ele>348.160431</ele>
+    <time>2025-07-25T15:38:14Z</time>
+    <name>260</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664629</gpxx:lat>
+      <gpxx:lon>-77.889063</gpxx:lon>
+      <gpxx:y_proj>40.664629</gpxx:y_proj>
+      <gpxx:x_proj>-77.889063</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:38:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664702" lon="-77.889047">
+    <ele>348.420288</ele>
+    <time>2025-07-25T15:38:46Z</time>
+    <name>261</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664702</gpxx:lat>
+      <gpxx:lon>-77.889047</gpxx:lon>
+      <gpxx:y_proj>40.664702</gpxx:y_proj>
+      <gpxx:x_proj>-77.889047</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:38:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664675" lon="-77.88904">
+    <ele>348.63031</ele>
+    <time>2025-07-25T15:39:34Z</time>
+    <name>267</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664675</gpxx:lat>
+      <gpxx:lon>-77.88904</gpxx:lon>
+      <gpxx:y_proj>40.664675</gpxx:y_proj>
+      <gpxx:x_proj>-77.88904</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:39:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664642" lon="-77.889019">
+    <ele>348.192169</ele>
+    <time>2025-07-25T15:40:03Z</time>
+    <name>268</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664642</gpxx:lat>
+      <gpxx:lon>-77.889019</gpxx:lon>
+      <gpxx:y_proj>40.664642</gpxx:y_proj>
+      <gpxx:x_proj>-77.889019</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:40:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664604" lon="-77.889051">
+    <ele>348.5755</ele>
+    <time>2025-07-25T15:42:06Z</time>
+    <name>270</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664604</gpxx:lat>
+      <gpxx:lon>-77.889051</gpxx:lon>
+      <gpxx:y_proj>40.664604</gpxx:y_proj>
+      <gpxx:x_proj>-77.889051</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:42:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664665" lon="-77.889096">
+    <ele>348.424469</ele>
+    <time>2025-07-25T15:42:47Z</time>
+    <name>272</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664665</gpxx:lat>
+      <gpxx:lon>-77.889096</gpxx:lon>
+      <gpxx:y_proj>40.664665</gpxx:y_proj>
+      <gpxx:x_proj>-77.889096</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:42:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66465" lon="-77.889121">
+    <ele>348.941498</ele>
+    <time>2025-07-25T15:43:15Z</time>
+    <name>271</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66465</gpxx:lat>
+      <gpxx:lon>-77.889121</gpxx:lon>
+      <gpxx:y_proj>40.66465</gpxx:y_proj>
+      <gpxx:x_proj>-77.889121</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:43:15</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664615" lon="-77.889092">
+    <ele>348.002594</ele>
+    <time>2025-07-25T15:43:49Z</time>
+    <name>269</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664615</gpxx:lat>
+      <gpxx:lon>-77.889092</gpxx:lon>
+      <gpxx:y_proj>40.664615</gpxx:y_proj>
+      <gpxx:x_proj>-77.889092</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:43:49</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664611" lon="-77.889224">
+    <ele>348.079163</ele>
+    <time>2025-07-25T15:45:06Z</time>
+    <name>275</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664611</gpxx:lat>
+      <gpxx:lon>-77.889224</gpxx:lon>
+      <gpxx:y_proj>40.664611</gpxx:y_proj>
+      <gpxx:x_proj>-77.889224</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:45:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664621" lon="-77.889187">
+    <ele>347.873901</ele>
+    <time>2025-07-25T15:46:17Z</time>
+    <name>276</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664621</gpxx:lat>
+      <gpxx:lon>-77.889187</gpxx:lon>
+      <gpxx:y_proj>40.664621</gpxx:y_proj>
+      <gpxx:x_proj>-77.889187</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:46:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664657" lon="-77.889197">
+    <ele>346.607605</ele>
+    <time>2025-07-25T15:47:00Z</time>
+    <name>627</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664657</gpxx:lat>
+      <gpxx:lon>-77.889197</gpxx:lon>
+      <gpxx:y_proj>40.664657</gpxx:y_proj>
+      <gpxx:x_proj>-77.889197</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:47:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664703" lon="-77.889169">
+    <ele>347.078278</ele>
+    <time>2025-07-25T15:48:34Z</time>
+    <name>628</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664703</gpxx:lat>
+      <gpxx:lon>-77.889169</gpxx:lon>
+      <gpxx:y_proj>40.664703</gpxx:y_proj>
+      <gpxx:x_proj>-77.889169</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:48:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664748" lon="-77.889214">
+    <ele>346.508453</ele>
+    <time>2025-07-25T15:49:43Z</time>
+    <name>626</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664748</gpxx:lat>
+      <gpxx:lon>-77.889214</gpxx:lon>
+      <gpxx:y_proj>40.664748</gpxx:y_proj>
+      <gpxx:x_proj>-77.889214</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:49:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664796" lon="-77.889219">
+    <ele>345.607117</ele>
+    <time>2025-07-25T15:50:42Z</time>
+    <name>624</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664796</gpxx:lat>
+      <gpxx:lon>-77.889219</gpxx:lon>
+      <gpxx:y_proj>40.664796</gpxx:y_proj>
+      <gpxx:x_proj>-77.889219</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:50:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664765" lon="-77.88917">
+    <ele>345.210724</ele>
+    <time>2025-07-25T15:51:52Z</time>
+    <name>625</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664765</gpxx:lat>
+      <gpxx:lon>-77.88917</gpxx:lon>
+      <gpxx:y_proj>40.664765</gpxx:y_proj>
+      <gpxx:x_proj>-77.88917</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:51:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664765" lon="-77.889248">
+    <ele>345.113312</ele>
+    <time>2025-07-25T15:52:27Z</time>
+    <name>622</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664765</gpxx:lat>
+      <gpxx:lon>-77.889248</gpxx:lon>
+      <gpxx:y_proj>40.664765</gpxx:y_proj>
+      <gpxx:x_proj>-77.889248</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:52:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664742" lon="-77.889291">
+    <ele>345.856445</ele>
+    <time>2025-07-25T15:53:35Z</time>
+    <name>805</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664742</gpxx:lat>
+      <gpxx:lon>-77.889291</gpxx:lon>
+      <gpxx:y_proj>40.664742</gpxx:y_proj>
+      <gpxx:x_proj>-77.889291</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:53:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664717" lon="-77.889277">
+    <ele>345.459229</ele>
+    <time>2025-07-25T15:54:58Z</time>
+    <name>629</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664717</gpxx:lat>
+      <gpxx:lon>-77.889277</gpxx:lon>
+      <gpxx:y_proj>40.664717</gpxx:y_proj>
+      <gpxx:x_proj>-77.889277</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:54:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664761" lon="-77.889303">
+    <ele>346.164886</ele>
+    <time>2025-07-25T15:55:55Z</time>
+    <name>804</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664761</gpxx:lat>
+      <gpxx:lon>-77.889303</gpxx:lon>
+      <gpxx:y_proj>40.664761</gpxx:y_proj>
+      <gpxx:x_proj>-77.889303</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:55:55</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664672" lon="-77.889345">
+    <ele>347.028656</ele>
+    <time>2025-07-25T15:57:48Z</time>
+    <name>660</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664672</gpxx:lat>
+      <gpxx:lon>-77.889345</gpxx:lon>
+      <gpxx:y_proj>40.664672</gpxx:y_proj>
+      <gpxx:x_proj>-77.889345</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 11:57:48</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664852" lon="-77.889212">
+    <ele>346.43634</ele>
+    <time>2025-07-25T16:00:33Z</time>
+    <name>806</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664852</gpxx:lat>
+      <gpxx:lon>-77.889212</gpxx:lon>
+      <gpxx:y_proj>40.664852</gpxx:y_proj>
+      <gpxx:x_proj>-77.889212</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:00:33</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664832" lon="-77.88923">
+    <ele>347.143555</ele>
+    <time>2025-07-25T16:01:27Z</time>
+    <name>621</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664832</gpxx:lat>
+      <gpxx:lon>-77.88923</gpxx:lon>
+      <gpxx:y_proj>40.664832</gpxx:y_proj>
+      <gpxx:x_proj>-77.88923</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:01:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664866" lon="-77.889123">
+    <ele>346.270782</ele>
+    <time>2025-07-25T16:10:32Z</time>
+    <name>607</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664866</gpxx:lat>
+      <gpxx:lon>-77.889123</gpxx:lon>
+      <gpxx:y_proj>40.664866</gpxx:y_proj>
+      <gpxx:x_proj>-77.889123</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:10:32</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664817" lon="-77.889171">
+    <ele>346.654663</ele>
+    <time>2025-07-25T16:11:14Z</time>
+    <name>606</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664817</gpxx:lat>
+      <gpxx:lon>-77.889171</gpxx:lon>
+      <gpxx:y_proj>40.664817</gpxx:y_proj>
+      <gpxx:x_proj>-77.889171</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:11:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664797" lon="-77.889023">
+    <ele>348.225494</ele>
+    <time>2025-07-25T16:12:11Z</time>
+    <name>605</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664797</gpxx:lat>
+      <gpxx:lon>-77.889023</gpxx:lon>
+      <gpxx:y_proj>40.664797</gpxx:y_proj>
+      <gpxx:x_proj>-77.889023</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:12:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66474" lon="-77.889034">
+    <ele>348.419556</ele>
+    <time>2025-07-25T16:13:35Z</time>
+    <name>265</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66474</gpxx:lat>
+      <gpxx:lon>-77.889034</gpxx:lon>
+      <gpxx:y_proj>40.66474</gpxx:y_proj>
+      <gpxx:x_proj>-77.889034</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:13:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664619" lon="-77.889066">
+    <ele>348.436218</ele>
+    <time>2025-07-25T16:14:17Z</time>
+    <name>266</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664619</gpxx:lat>
+      <gpxx:lon>-77.889066</gpxx:lon>
+      <gpxx:y_proj>40.664619</gpxx:y_proj>
+      <gpxx:x_proj>-77.889066</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:14:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664654" lon="-77.888958">
+    <ele>348.450378</ele>
+    <time>2025-07-25T16:14:55Z</time>
+    <name>262</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664654</gpxx:lat>
+      <gpxx:lon>-77.888958</gpxx:lon>
+      <gpxx:y_proj>40.664654</gpxx:y_proj>
+      <gpxx:x_proj>-77.888958</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:14:55</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664677" lon="-77.888869">
+    <ele>348.986511</ele>
+    <time>2025-07-25T16:15:34Z</time>
+    <name>259</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664677</gpxx:lat>
+      <gpxx:lon>-77.888869</gpxx:lon>
+      <gpxx:y_proj>40.664677</gpxx:y_proj>
+      <gpxx:x_proj>-77.888869</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:15:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664664" lon="-77.888945">
+    <ele>349.124451</ele>
+    <time>2025-07-25T16:17:19Z</time>
+    <name>257</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664664</gpxx:lat>
+      <gpxx:lon>-77.888945</gpxx:lon>
+      <gpxx:y_proj>40.664664</gpxx:y_proj>
+      <gpxx:x_proj>-77.888945</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:17:19</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66457" lon="-77.888898">
+    <ele>348.485565</ele>
+    <time>2025-07-25T16:18:18Z</time>
+    <name>258</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66457</gpxx:lat>
+      <gpxx:lon>-77.888898</gpxx:lon>
+      <gpxx:y_proj>40.66457</gpxx:y_proj>
+      <gpxx:x_proj>-77.888898</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:18:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664783" lon="-77.88882">
+    <ele>349.285614</ele>
+    <time>2025-07-25T16:19:35Z</time>
+    <name>255</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664783</gpxx:lat>
+      <gpxx:lon>-77.88882</gpxx:lon>
+      <gpxx:y_proj>40.664783</gpxx:y_proj>
+      <gpxx:x_proj>-77.88882</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:19:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664746" lon="-77.888786">
+    <ele>349.205383</ele>
+    <time>2025-07-25T16:20:24Z</time>
+    <name>254</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664746</gpxx:lat>
+      <gpxx:lon>-77.888786</gpxx:lon>
+      <gpxx:y_proj>40.664746</gpxx:y_proj>
+      <gpxx:x_proj>-77.888786</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:20:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664701" lon="-77.888759">
+    <ele>350.101379</ele>
+    <time>2025-07-25T16:20:59Z</time>
+    <name>253</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664701</gpxx:lat>
+      <gpxx:lon>-77.888759</gpxx:lon>
+      <gpxx:y_proj>40.664701</gpxx:y_proj>
+      <gpxx:x_proj>-77.888759</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:20:59</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66471" lon="-77.888934">
+    <ele>348.53894</ele>
+    <time>2025-07-25T16:23:10Z</time>
+    <name>256</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66471</gpxx:lat>
+      <gpxx:lon>-77.888934</gpxx:lon>
+      <gpxx:y_proj>40.66471</gpxx:y_proj>
+      <gpxx:x_proj>-77.888934</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:23:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664742" lon="-77.889058">
+    <ele>348.215759</ele>
+    <time>2025-07-25T16:23:46Z</time>
+    <name>264</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664742</gpxx:lat>
+      <gpxx:lon>-77.889058</gpxx:lon>
+      <gpxx:y_proj>40.664742</gpxx:y_proj>
+      <gpxx:x_proj>-77.889058</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:23:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664694" lon="-77.888972">
+    <ele>348.015961</ele>
+    <time>2025-07-25T16:24:22Z</time>
+    <name>263</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664694</gpxx:lat>
+      <gpxx:lon>-77.888972</gpxx:lon>
+      <gpxx:y_proj>40.664694</gpxx:y_proj>
+      <gpxx:x_proj>-77.888972</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:24:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664897" lon="-77.889079">
+    <ele>344.401855</ele>
+    <time>2025-07-25T16:26:34Z</time>
+    <name>602</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664897</gpxx:lat>
+      <gpxx:lon>-77.889079</gpxx:lon>
+      <gpxx:y_proj>40.664897</gpxx:y_proj>
+      <gpxx:x_proj>-77.889079</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:26:34</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664947" lon="-77.889071">
+    <ele>344.618561</ele>
+    <time>2025-07-25T16:27:16Z</time>
+    <name>591</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664947</gpxx:lat>
+      <gpxx:lon>-77.889071</gpxx:lon>
+      <gpxx:y_proj>40.664947</gpxx:y_proj>
+      <gpxx:x_proj>-77.889071</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:27:16</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664862" lon="-77.889077">
+    <ele>346.667816</ele>
+    <time>2025-07-25T16:28:24Z</time>
+    <name>603</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664862</gpxx:lat>
+      <gpxx:lon>-77.889077</gpxx:lon>
+      <gpxx:y_proj>40.664862</gpxx:y_proj>
+      <gpxx:x_proj>-77.889077</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:28:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664754" lon="-77.888955">
+    <ele>348.260345</ele>
+    <time>2025-07-25T16:30:06Z</time>
+    <name>604</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664754</gpxx:lat>
+      <gpxx:lon>-77.888955</gpxx:lon>
+      <gpxx:y_proj>40.664754</gpxx:y_proj>
+      <gpxx:x_proj>-77.888955</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:30:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664827" lon="-77.888989">
+    <ele>348.568451</ele>
+    <time>2025-07-25T16:32:58Z</time>
+    <name>589</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664827</gpxx:lat>
+      <gpxx:lon>-77.888989</gpxx:lon>
+      <gpxx:y_proj>40.664827</gpxx:y_proj>
+      <gpxx:x_proj>-77.888989</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:32:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66479" lon="-77.888886">
+    <ele>350.289093</ele>
+    <time>2025-07-25T16:34:22Z</time>
+    <name>252</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66479</gpxx:lat>
+      <gpxx:lon>-77.888886</gpxx:lon>
+      <gpxx:y_proj>40.66479</gpxx:y_proj>
+      <gpxx:x_proj>-77.888886</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:34:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664801" lon="-77.888871">
+    <ele>349.885742</ele>
+    <time>2025-07-25T16:35:17Z</time>
+    <name>251</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664801</gpxx:lat>
+      <gpxx:lon>-77.888871</gpxx:lon>
+      <gpxx:y_proj>40.664801</gpxx:y_proj>
+      <gpxx:x_proj>-77.888871</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:35:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66482" lon="-77.888831">
+    <ele>350.501678</ele>
+    <time>2025-07-25T16:35:47Z</time>
+    <name>249</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66482</gpxx:lat>
+      <gpxx:lon>-77.888831</gpxx:lon>
+      <gpxx:y_proj>40.66482</gpxx:y_proj>
+      <gpxx:x_proj>-77.888831</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:35:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664821" lon="-77.888784">
+    <ele>350.627594</ele>
+    <time>2025-07-25T16:36:14Z</time>
+    <name>248</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664821</gpxx:lat>
+      <gpxx:lon>-77.888784</gpxx:lon>
+      <gpxx:y_proj>40.664821</gpxx:y_proj>
+      <gpxx:x_proj>-77.888784</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:36:14</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664731" lon="-77.888685">
+    <ele>351.639893</ele>
+    <time>2025-07-25T16:37:05Z</time>
+    <name>246</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664731</gpxx:lat>
+      <gpxx:lon>-77.888685</gpxx:lon>
+      <gpxx:y_proj>40.664731</gpxx:y_proj>
+      <gpxx:x_proj>-77.888685</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:37:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664693" lon="-77.888668">
+    <ele>351.292908</ele>
+    <time>2025-07-25T16:39:15Z</time>
+    <name>244</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664693</gpxx:lat>
+      <gpxx:lon>-77.888668</gpxx:lon>
+      <gpxx:y_proj>40.664693</gpxx:y_proj>
+      <gpxx:x_proj>-77.888668</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:39:15</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664799" lon="-77.888642">
+    <ele>351.638794</ele>
+    <time>2025-07-25T16:39:36Z</time>
+    <name>243</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664799</gpxx:lat>
+      <gpxx:lon>-77.888642</gpxx:lon>
+      <gpxx:y_proj>40.664799</gpxx:y_proj>
+      <gpxx:x_proj>-77.888642</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:39:36</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664818" lon="-77.888709">
+    <ele>349.862549</ele>
+    <time>2025-07-25T16:40:30Z</time>
+    <name>242</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664818</gpxx:lat>
+      <gpxx:lon>-77.888709</gpxx:lon>
+      <gpxx:y_proj>40.664818</gpxx:y_proj>
+      <gpxx:x_proj>-77.888709</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:40:30</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664798" lon="-77.888697">
+    <ele>349.993103</ele>
+    <time>2025-07-25T16:41:12Z</time>
+    <name>245</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664798</gpxx:lat>
+      <gpxx:lon>-77.888697</gpxx:lon>
+      <gpxx:y_proj>40.664798</gpxx:y_proj>
+      <gpxx:x_proj>-77.888697</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:41:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664795" lon="-77.888718">
+    <ele>350.064392</ele>
+    <time>2025-07-25T16:42:39Z</time>
+    <name>247</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664795</gpxx:lat>
+      <gpxx:lon>-77.888718</gpxx:lon>
+      <gpxx:y_proj>40.664795</gpxx:y_proj>
+      <gpxx:x_proj>-77.888718</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:42:39</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664832" lon="-77.888949">
+    <ele>349.92157</ele>
+    <time>2025-07-25T16:44:42Z</time>
+    <name>250</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Crossing</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664832</gpxx:lat>
+      <gpxx:lon>-77.888949</gpxx:lon>
+      <gpxx:y_proj>40.664832</gpxx:y_proj>
+      <gpxx:x_proj>-77.888949</gpxx:x_proj>
+      <gpxx:ltime>2025/07/25 12:44:42</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>

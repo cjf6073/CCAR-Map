@@ -1,0 +1,1296 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="40.663544999999999" minlon="-77.892035000000007" maxlat="40.664631999999997" maxlon="-77.890527000000006" />
+  </metadata>
+  <wpt lat="40.663587" lon="-77.890527">
+    <ele>373.196869</ele>
+    <time>2025-06-26T14:07:11Z</time>
+    <name>1218</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663587</gpxx:lat>
+      <gpxx:lon>-77.890527</gpxx:lon>
+      <gpxx:y_proj>40.663587</gpxx:y_proj>
+      <gpxx:x_proj>-77.890527</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:07:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66355" lon="-77.89058">
+    <ele>370.829803</ele>
+    <time>2025-06-26T14:09:35Z</time>
+    <name>1219</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66355</gpxx:lat>
+      <gpxx:lon>-77.89058</gpxx:lon>
+      <gpxx:y_proj>40.66355</gpxx:y_proj>
+      <gpxx:x_proj>-77.89058</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:09:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663628" lon="-77.890552">
+    <ele>369.364807</ele>
+    <time>2025-06-26T14:10:54Z</time>
+    <name>1249</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663628</gpxx:lat>
+      <gpxx:lon>-77.890552</gpxx:lon>
+      <gpxx:y_proj>40.663628</gpxx:y_proj>
+      <gpxx:x_proj>-77.890552</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:10:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663545" lon="-77.890685">
+    <ele>368.898895</ele>
+    <time>2025-06-26T14:12:10Z</time>
+    <name>1247</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663545</gpxx:lat>
+      <gpxx:lon>-77.890685</gpxx:lon>
+      <gpxx:y_proj>40.663545</gpxx:y_proj>
+      <gpxx:x_proj>-77.890685</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:12:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663597" lon="-77.890633">
+    <ele>368.214691</ele>
+    <time>2025-06-26T14:13:12Z</time>
+    <name>1248</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663597</gpxx:lat>
+      <gpxx:lon>-77.890633</gpxx:lon>
+      <gpxx:y_proj>40.663597</gpxx:y_proj>
+      <gpxx:x_proj>-77.890633</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:13:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663609" lon="-77.890707">
+    <ele>365.051605</ele>
+    <time>2025-06-26T14:14:50Z</time>
+    <name>1253</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663609</gpxx:lat>
+      <gpxx:lon>-77.890707</gpxx:lon>
+      <gpxx:y_proj>40.663609</gpxx:y_proj>
+      <gpxx:x_proj>-77.890707</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:14:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66364" lon="-77.890603">
+    <ele>364.294739</ele>
+    <time>2025-06-26T14:17:37Z</time>
+    <name>1250</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66364</gpxx:lat>
+      <gpxx:lon>-77.890603</gpxx:lon>
+      <gpxx:y_proj>40.66364</gpxx:y_proj>
+      <gpxx:x_proj>-77.890603</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:17:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663655" lon="-77.890649">
+    <ele>362.1409</ele>
+    <time>2025-06-26T14:21:07Z</time>
+    <name>1251</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663655</gpxx:lat>
+      <gpxx:lon>-77.890649</gpxx:lon>
+      <gpxx:y_proj>40.663655</gpxx:y_proj>
+      <gpxx:x_proj>-77.890649</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:21:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663696" lon="-77.890671">
+    <ele>361.291443</ele>
+    <time>2025-06-26T14:22:03Z</time>
+    <name>1252</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663696</gpxx:lat>
+      <gpxx:lon>-77.890671</gpxx:lon>
+      <gpxx:y_proj>40.663696</gpxx:y_proj>
+      <gpxx:x_proj>-77.890671</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:22:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663713" lon="-77.89069">
+    <ele>360.331879</ele>
+    <time>2025-06-26T14:23:45Z</time>
+    <name>1281</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663713</gpxx:lat>
+      <gpxx:lon>-77.89069</gpxx:lon>
+      <gpxx:y_proj>40.663713</gpxx:y_proj>
+      <gpxx:x_proj>-77.89069</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:23:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663737" lon="-77.890709">
+    <ele>359.241821</ele>
+    <time>2025-06-26T14:25:07Z</time>
+    <name>1282</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663737</gpxx:lat>
+      <gpxx:lon>-77.890709</gpxx:lon>
+      <gpxx:y_proj>40.663737</gpxx:y_proj>
+      <gpxx:x_proj>-77.890709</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:25:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663701" lon="-77.890724">
+    <ele>359.30777</ele>
+    <time>2025-06-26T14:26:07Z</time>
+    <name>1280</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663701</gpxx:lat>
+      <gpxx:lon>-77.890724</gpxx:lon>
+      <gpxx:y_proj>40.663701</gpxx:y_proj>
+      <gpxx:x_proj>-77.890724</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:26:07</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663803" lon="-77.89066">
+    <ele>358.159729</ele>
+    <time>2025-06-26T14:27:41Z</time>
+    <name>1001</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663803</gpxx:lat>
+      <gpxx:lon>-77.89066</gpxx:lon>
+      <gpxx:y_proj>40.663803</gpxx:y_proj>
+      <gpxx:x_proj>-77.89066</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:27:41</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663733" lon="-77.890759">
+    <ele>356.934052</ele>
+    <time>2025-06-26T14:29:08Z</time>
+    <name>1283</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663733</gpxx:lat>
+      <gpxx:lon>-77.890759</gpxx:lon>
+      <gpxx:y_proj>40.663733</gpxx:y_proj>
+      <gpxx:x_proj>-77.890759</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:29:08</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663816" lon="-77.890758">
+    <ele>355.862</ele>
+    <time>2025-06-26T14:29:56Z</time>
+    <name>1285</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663816</gpxx:lat>
+      <gpxx:lon>-77.890758</gpxx:lon>
+      <gpxx:y_proj>40.663816</gpxx:y_proj>
+      <gpxx:x_proj>-77.890758</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:29:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663864" lon="-77.890844">
+    <ele>354.229004</ele>
+    <time>2025-06-26T14:33:27Z</time>
+    <name>1313</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663864</gpxx:lat>
+      <gpxx:lon>-77.890844</gpxx:lon>
+      <gpxx:y_proj>40.663864</gpxx:y_proj>
+      <gpxx:x_proj>-77.890844</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:33:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663862" lon="-77.890877">
+    <ele>352.59259</ele>
+    <time>2025-06-26T14:34:16Z</time>
+    <name>1314</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663862</gpxx:lat>
+      <gpxx:lon>-77.890877</gpxx:lon>
+      <gpxx:y_proj>40.663862</gpxx:y_proj>
+      <gpxx:x_proj>-77.890877</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:34:16</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663909" lon="-77.890924">
+    <ele>351.069336</ele>
+    <time>2025-06-26T14:37:00Z</time>
+    <name>NT2</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663909</gpxx:lat>
+      <gpxx:lon>-77.890924</gpxx:lon>
+      <gpxx:y_proj>40.663909</gpxx:y_proj>
+      <gpxx:x_proj>-77.890924</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:37:00</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663876" lon="-77.890954">
+    <ele>349.420258</ele>
+    <time>2025-06-26T14:38:08Z</time>
+    <name>1345</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663876</gpxx:lat>
+      <gpxx:lon>-77.890954</gpxx:lon>
+      <gpxx:y_proj>40.663876</gpxx:y_proj>
+      <gpxx:x_proj>-77.890954</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:38:08</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663902" lon="-77.891025">
+    <ele>347.255463</ele>
+    <time>2025-06-26T14:42:24Z</time>
+    <name>1348</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663902</gpxx:lat>
+      <gpxx:lon>-77.891025</gpxx:lon>
+      <gpxx:y_proj>40.663902</gpxx:y_proj>
+      <gpxx:x_proj>-77.891025</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:42:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663924" lon="-77.891039">
+    <ele>346.209259</ele>
+    <time>2025-06-26T14:43:58Z</time>
+    <name>1350</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663924</gpxx:lat>
+      <gpxx:lon>-77.891039</gpxx:lon>
+      <gpxx:y_proj>40.663924</gpxx:y_proj>
+      <gpxx:x_proj>-77.891039</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:43:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663953" lon="-77.89099">
+    <ele>346.072449</ele>
+    <time>2025-06-26T14:46:46Z</time>
+    <name>1349</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663953</gpxx:lat>
+      <gpxx:lon>-77.89099</gpxx:lon>
+      <gpxx:y_proj>40.663953</gpxx:y_proj>
+      <gpxx:x_proj>-77.89099</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:46:46</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663964" lon="-77.890982">
+    <ele>344.992096</ele>
+    <time>2025-06-26T14:47:47Z</time>
+    <name>NT3</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663964</gpxx:lat>
+      <gpxx:lon>-77.890982</gpxx:lon>
+      <gpxx:y_proj>40.663964</gpxx:y_proj>
+      <gpxx:x_proj>-77.890982</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:47:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66399" lon="-77.891074">
+    <ele>343.677063</ele>
+    <time>2025-06-26T14:49:26Z</time>
+    <name>1384</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66399</gpxx:lat>
+      <gpxx:lon>-77.891074</gpxx:lon>
+      <gpxx:y_proj>40.66399</gpxx:y_proj>
+      <gpxx:x_proj>-77.891074</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:49:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663985" lon="-77.891068">
+    <ele>342.950348</ele>
+    <time>2025-06-26T14:50:50Z</time>
+    <name>1385</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663985</gpxx:lat>
+      <gpxx:lon>-77.891068</gpxx:lon>
+      <gpxx:y_proj>40.663985</gpxx:y_proj>
+      <gpxx:x_proj>-77.891068</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:50:50</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663974" lon="-77.891149">
+    <ele>341.540558</ele>
+    <time>2025-06-26T14:53:04Z</time>
+    <name>1386</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663974</gpxx:lat>
+      <gpxx:lon>-77.891149</gpxx:lon>
+      <gpxx:y_proj>40.663974</gpxx:y_proj>
+      <gpxx:x_proj>-77.891149</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:53:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664084" lon="-77.891158">
+    <ele>339.622406</ele>
+    <time>2025-06-26T14:57:05Z</time>
+    <name>1406</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664084</gpxx:lat>
+      <gpxx:lon>-77.891158</gpxx:lon>
+      <gpxx:y_proj>40.664084</gpxx:y_proj>
+      <gpxx:x_proj>-77.891158</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:57:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663969" lon="-77.891181">
+    <ele>339.233154</ele>
+    <time>2025-06-26T14:58:54Z</time>
+    <name>1388</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663969</gpxx:lat>
+      <gpxx:lon>-77.891181</gpxx:lon>
+      <gpxx:y_proj>40.663969</gpxx:y_proj>
+      <gpxx:x_proj>-77.891181</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:58:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663999" lon="-77.891206">
+    <ele>338.961914</ele>
+    <time>2025-06-26T14:59:47Z</time>
+    <name>1389</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663999</gpxx:lat>
+      <gpxx:lon>-77.891206</gpxx:lon>
+      <gpxx:y_proj>40.663999</gpxx:y_proj>
+      <gpxx:x_proj>-77.891206</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 10:59:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.663996" lon="-77.891278">
+    <ele>337.653198</ele>
+    <time>2025-06-26T15:01:39Z</time>
+    <name>1390</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.663996</gpxx:lat>
+      <gpxx:lon>-77.891278</gpxx:lon>
+      <gpxx:y_proj>40.663996</gpxx:y_proj>
+      <gpxx:x_proj>-77.891278</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:01:39</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664084" lon="-77.891203">
+    <ele>337.808197</ele>
+    <time>2025-06-26T15:02:44Z</time>
+    <name>1407</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664084</gpxx:lat>
+      <gpxx:lon>-77.891203</gpxx:lon>
+      <gpxx:y_proj>40.664084</gpxx:y_proj>
+      <gpxx:x_proj>-77.891203</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:02:44</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664072" lon="-77.891284">
+    <ele>337.604614</ele>
+    <time>2025-06-26T15:03:41Z</time>
+    <name>1408</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664072</gpxx:lat>
+      <gpxx:lon>-77.891284</gpxx:lon>
+      <gpxx:y_proj>40.664072</gpxx:y_proj>
+      <gpxx:x_proj>-77.891284</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:03:41</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664101" lon="-77.89129">
+    <ele>336.5271</ele>
+    <time>2025-06-26T15:04:37Z</time>
+    <name>1409</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664101</gpxx:lat>
+      <gpxx:lon>-77.89129</gpxx:lon>
+      <gpxx:y_proj>40.664101</gpxx:y_proj>
+      <gpxx:x_proj>-77.89129</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:04:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664118" lon="-77.89131">
+    <ele>335.886292</ele>
+    <time>2025-06-26T15:05:44Z</time>
+    <name>1410</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664118</gpxx:lat>
+      <gpxx:lon>-77.89131</gpxx:lon>
+      <gpxx:y_proj>40.664118</gpxx:y_proj>
+      <gpxx:x_proj>-77.89131</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:05:44</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664046" lon="-77.891307">
+    <ele>335.26416</ele>
+    <time>2025-06-26T15:06:58Z</time>
+    <name>1411</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664046</gpxx:lat>
+      <gpxx:lon>-77.891307</gpxx:lon>
+      <gpxx:y_proj>40.664046</gpxx:y_proj>
+      <gpxx:x_proj>-77.891307</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:06:58</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664205" lon="-77.891368">
+    <ele>333.804688</ele>
+    <time>2025-06-26T15:09:56Z</time>
+    <name>1440</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664205</gpxx:lat>
+      <gpxx:lon>-77.891368</gpxx:lon>
+      <gpxx:y_proj>40.664205</gpxx:y_proj>
+      <gpxx:x_proj>-77.891368</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:09:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664143" lon="-77.891381">
+    <ele>332.907623</ele>
+    <time>2025-06-26T15:11:23Z</time>
+    <name>1441</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664143</gpxx:lat>
+      <gpxx:lon>-77.891381</gpxx:lon>
+      <gpxx:y_proj>40.664143</gpxx:y_proj>
+      <gpxx:x_proj>-77.891381</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:11:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66418" lon="-77.891408">
+    <ele>333.241089</ele>
+    <time>2025-06-26T15:12:51Z</time>
+    <name>1445</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66418</gpxx:lat>
+      <gpxx:lon>-77.891408</gpxx:lon>
+      <gpxx:y_proj>40.66418</gpxx:y_proj>
+      <gpxx:x_proj>-77.891408</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:12:51</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664198" lon="-77.891484">
+    <ele>331.616364</ele>
+    <time>2025-06-26T15:14:33Z</time>
+    <name>1487</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664198</gpxx:lat>
+      <gpxx:lon>-77.891484</gpxx:lon>
+      <gpxx:y_proj>40.664198</gpxx:y_proj>
+      <gpxx:x_proj>-77.891484</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:14:33</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664175" lon="-77.891517">
+    <ele>331.834351</ele>
+    <time>2025-06-26T15:15:37Z</time>
+    <name>1501</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664175</gpxx:lat>
+      <gpxx:lon>-77.891517</gpxx:lon>
+      <gpxx:y_proj>40.664175</gpxx:y_proj>
+      <gpxx:x_proj>-77.891517</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:15:37</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664161" lon="-77.89155">
+    <ele>331.914398</ele>
+    <time>2025-06-26T15:16:31Z</time>
+    <name>1502</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664161</gpxx:lat>
+      <gpxx:lon>-77.89155</gpxx:lon>
+      <gpxx:y_proj>40.664161</gpxx:y_proj>
+      <gpxx:x_proj>-77.89155</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:16:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664283" lon="-77.891568">
+    <ele>329.147125</ele>
+    <time>2025-06-26T15:20:08Z</time>
+    <name>1488</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664283</gpxx:lat>
+      <gpxx:lon>-77.891568</gpxx:lon>
+      <gpxx:y_proj>40.664283</gpxx:y_proj>
+      <gpxx:x_proj>-77.891568</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:20:08</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664254" lon="-77.891543">
+    <ele>330.256683</ele>
+    <time>2025-06-26T15:21:28Z</time>
+    <name>1486</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664254</gpxx:lat>
+      <gpxx:lon>-77.891543</gpxx:lon>
+      <gpxx:y_proj>40.664254</gpxx:y_proj>
+      <gpxx:x_proj>-77.891543</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:21:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664236" lon="-77.891628">
+    <ele>327.743927</ele>
+    <time>2025-06-26T15:23:10Z</time>
+    <name>1485</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664236</gpxx:lat>
+      <gpxx:lon>-77.891628</gpxx:lon>
+      <gpxx:y_proj>40.664236</gpxx:y_proj>
+      <gpxx:x_proj>-77.891628</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:23:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664256" lon="-77.891638">
+    <ele>328.441956</ele>
+    <time>2025-06-26T15:24:12Z</time>
+    <name>1484</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664256</gpxx:lat>
+      <gpxx:lon>-77.891638</gpxx:lon>
+      <gpxx:y_proj>40.664256</gpxx:y_proj>
+      <gpxx:x_proj>-77.891638</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:24:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664285" lon="-77.891577">
+    <ele>327.345398</ele>
+    <time>2025-06-26T15:25:06Z</time>
+    <name>1489</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664285</gpxx:lat>
+      <gpxx:lon>-77.891577</gpxx:lon>
+      <gpxx:y_proj>40.664285</gpxx:y_proj>
+      <gpxx:x_proj>-77.891577</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:25:06</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664386" lon="-77.891634">
+    <ele>325.857849</ele>
+    <time>2025-06-26T15:27:20Z</time>
+    <name>1492</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664386</gpxx:lat>
+      <gpxx:lon>-77.891634</gpxx:lon>
+      <gpxx:y_proj>40.664386</gpxx:y_proj>
+      <gpxx:x_proj>-77.891634</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:27:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664291" lon="-77.891612">
+    <ele>326.192535</ele>
+    <time>2025-06-26T15:28:43Z</time>
+    <name>1491</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664291</gpxx:lat>
+      <gpxx:lon>-77.891612</gpxx:lon>
+      <gpxx:y_proj>40.664291</gpxx:y_proj>
+      <gpxx:x_proj>-77.891612</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:28:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664256" lon="-77.891664">
+    <ele>326.109985</ele>
+    <time>2025-06-26T15:29:45Z</time>
+    <name>1493</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664256</gpxx:lat>
+      <gpxx:lon>-77.891664</gpxx:lon>
+      <gpxx:y_proj>40.664256</gpxx:y_proj>
+      <gpxx:x_proj>-77.891664</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:29:45</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664256" lon="-77.891662">
+    <ele>326.698364</ele>
+    <time>2025-06-26T15:30:33Z</time>
+    <name>1494</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664256</gpxx:lat>
+      <gpxx:lon>-77.891662</gpxx:lon>
+      <gpxx:y_proj>40.664256</gpxx:y_proj>
+      <gpxx:x_proj>-77.891662</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:30:33</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664204" lon="-77.891738">
+    <ele>326.910828</ele>
+    <time>2025-06-26T15:31:28Z</time>
+    <name>1483</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664204</gpxx:lat>
+      <gpxx:lon>-77.891738</gpxx:lon>
+      <gpxx:y_proj>40.664204</gpxx:y_proj>
+      <gpxx:x_proj>-77.891738</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:31:28</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664172" lon="-77.891686">
+    <ele>325.911102</ele>
+    <time>2025-06-26T15:34:32Z</time>
+    <name>1499</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664172</gpxx:lat>
+      <gpxx:lon>-77.891686</gpxx:lon>
+      <gpxx:y_proj>40.664172</gpxx:y_proj>
+      <gpxx:x_proj>-77.891686</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:34:32</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664203" lon="-77.891799">
+    <ele>325.4422</ele>
+    <time>2025-06-26T15:35:23Z</time>
+    <name>1498</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664203</gpxx:lat>
+      <gpxx:lon>-77.891799</gpxx:lon>
+      <gpxx:y_proj>40.664203</gpxx:y_proj>
+      <gpxx:x_proj>-77.891799</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:35:23</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66423" lon="-77.891751">
+    <ele>325.375366</ele>
+    <time>2025-06-26T15:36:53Z</time>
+    <name>1496</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66423</gpxx:lat>
+      <gpxx:lon>-77.891751</gpxx:lon>
+      <gpxx:y_proj>40.66423</gpxx:y_proj>
+      <gpxx:x_proj>-77.891751</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:36:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664301" lon="-77.891825">
+    <ele>324.281433</ele>
+    <time>2025-06-26T15:38:03Z</time>
+    <name>1522</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664301</gpxx:lat>
+      <gpxx:lon>-77.891825</gpxx:lon>
+      <gpxx:y_proj>40.664301</gpxx:y_proj>
+      <gpxx:x_proj>-77.891825</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:38:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664253" lon="-77.891797">
+    <ele>324.748779</ele>
+    <time>2025-06-26T15:38:47Z</time>
+    <name>1523</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664253</gpxx:lat>
+      <gpxx:lon>-77.891797</gpxx:lon>
+      <gpxx:y_proj>40.664253</gpxx:y_proj>
+      <gpxx:x_proj>-77.891797</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:38:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664139" lon="-77.891779">
+    <ele>324.73819</ele>
+    <time>2025-06-26T15:40:17Z</time>
+    <name>1524</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664139</gpxx:lat>
+      <gpxx:lon>-77.891779</gpxx:lon>
+      <gpxx:y_proj>40.664139</gpxx:y_proj>
+      <gpxx:x_proj>-77.891779</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:40:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664148" lon="-77.891764">
+    <ele>325.786957</ele>
+    <time>2025-06-26T15:40:54Z</time>
+    <name>1525</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664148</gpxx:lat>
+      <gpxx:lon>-77.891764</gpxx:lon>
+      <gpxx:y_proj>40.664148</gpxx:y_proj>
+      <gpxx:x_proj>-77.891764</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:40:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664177" lon="-77.891802">
+    <ele>324.339386</ele>
+    <time>2025-06-26T15:41:32Z</time>
+    <name>1526</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664177</gpxx:lat>
+      <gpxx:lon>-77.891802</gpxx:lon>
+      <gpxx:y_proj>40.664177</gpxx:y_proj>
+      <gpxx:x_proj>-77.891802</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:41:32</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664169" lon="-77.891835">
+    <ele>323.722504</ele>
+    <time>2025-06-26T15:42:17Z</time>
+    <name>1527</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664169</gpxx:lat>
+      <gpxx:lon>-77.891835</gpxx:lon>
+      <gpxx:y_proj>40.664169</gpxx:y_proj>
+      <gpxx:x_proj>-77.891835</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:42:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664146" lon="-77.891861">
+    <ele>324.250397</ele>
+    <time>2025-06-26T15:42:47Z</time>
+    <name>1530</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664146</gpxx:lat>
+      <gpxx:lon>-77.891861</gpxx:lon>
+      <gpxx:y_proj>40.664146</gpxx:y_proj>
+      <gpxx:x_proj>-77.891861</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:42:47</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664183" lon="-77.891838">
+    <ele>324.539825</ele>
+    <time>2025-06-26T15:43:36Z</time>
+    <name>1531</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664183</gpxx:lat>
+      <gpxx:lon>-77.891838</gpxx:lon>
+      <gpxx:y_proj>40.664183</gpxx:y_proj>
+      <gpxx:x_proj>-77.891838</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:43:36</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664144" lon="-77.891876">
+    <ele>324.04657</ele>
+    <time>2025-06-26T15:44:10Z</time>
+    <name>1529</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664144</gpxx:lat>
+      <gpxx:lon>-77.891876</gpxx:lon>
+      <gpxx:y_proj>40.664144</gpxx:y_proj>
+      <gpxx:x_proj>-77.891876</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:44:10</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66425" lon="-77.891904">
+    <ele>323.801605</ele>
+    <time>2025-06-26T15:46:03Z</time>
+    <name>1533</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66425</gpxx:lat>
+      <gpxx:lon>-77.891904</gpxx:lon>
+      <gpxx:y_proj>40.66425</gpxx:y_proj>
+      <gpxx:x_proj>-77.891904</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:46:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664166" lon="-77.891874">
+    <ele>323.411621</ele>
+    <time>2025-06-26T15:46:35Z</time>
+    <name>1551</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664166</gpxx:lat>
+      <gpxx:lon>-77.891874</gpxx:lon>
+      <gpxx:y_proj>40.664166</gpxx:y_proj>
+      <gpxx:x_proj>-77.891874</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:46:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664233" lon="-77.891921">
+    <ele>322.828308</ele>
+    <time>2025-06-26T15:47:35Z</time>
+    <name>1532</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664233</gpxx:lat>
+      <gpxx:lon>-77.891921</gpxx:lon>
+      <gpxx:y_proj>40.664233</gpxx:y_proj>
+      <gpxx:x_proj>-77.891921</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:47:35</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664292" lon="-77.891954">
+    <ele>323.439209</ele>
+    <time>2025-06-26T15:48:25Z</time>
+    <name>1537</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664292</gpxx:lat>
+      <gpxx:lon>-77.891954</gpxx:lon>
+      <gpxx:y_proj>40.664292</gpxx:y_proj>
+      <gpxx:x_proj>-77.891954</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:48:25</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664303" lon="-77.891973">
+    <ele>322.999756</ele>
+    <time>2025-06-26T15:49:24Z</time>
+    <name>1538</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664303</gpxx:lat>
+      <gpxx:lon>-77.891973</gpxx:lon>
+      <gpxx:y_proj>40.664303</gpxx:y_proj>
+      <gpxx:x_proj>-77.891973</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:49:24</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66432" lon="-77.891998">
+    <ele>323.306885</ele>
+    <time>2025-06-26T15:50:52Z</time>
+    <name>1536</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66432</gpxx:lat>
+      <gpxx:lon>-77.891998</gpxx:lon>
+      <gpxx:y_proj>40.66432</gpxx:y_proj>
+      <gpxx:x_proj>-77.891998</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:50:52</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664264" lon="-77.892035">
+    <ele>322.49054</ele>
+    <time>2025-06-26T15:51:56Z</time>
+    <name>1534</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664264</gpxx:lat>
+      <gpxx:lon>-77.892035</gpxx:lon>
+      <gpxx:y_proj>40.664264</gpxx:y_proj>
+      <gpxx:x_proj>-77.892035</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:51:56</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664339" lon="-77.892">
+    <ele>321.90921</ele>
+    <time>2025-06-26T15:56:03Z</time>
+    <name>1539</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664339</gpxx:lat>
+      <gpxx:lon>-77.892</gpxx:lon>
+      <gpxx:y_proj>40.664339</gpxx:y_proj>
+      <gpxx:x_proj>-77.892</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:56:03</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664314" lon="-77.891919">
+    <ele>321.755554</ele>
+    <time>2025-06-26T15:59:26Z</time>
+    <name>1540</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664314</gpxx:lat>
+      <gpxx:lon>-77.891919</gpxx:lon>
+      <gpxx:y_proj>40.664314</gpxx:y_proj>
+      <gpxx:x_proj>-77.891919</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 11:59:26</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664632" lon="-77.891717">
+    <ele>318.627167</ele>
+    <time>2025-06-26T16:06:13Z</time>
+    <name>1511</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664632</gpxx:lat>
+      <gpxx:lon>-77.891717</gpxx:lon>
+      <gpxx:y_proj>40.664632</gpxx:y_proj>
+      <gpxx:x_proj>-77.891717</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:06:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664517" lon="-77.891819">
+    <ele>317.823273</ele>
+    <time>2025-06-26T16:07:29Z</time>
+    <name>1512</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664517</gpxx:lat>
+      <gpxx:lon>-77.891819</gpxx:lon>
+      <gpxx:y_proj>40.664517</gpxx:y_proj>
+      <gpxx:x_proj>-77.891819</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:07:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664472" lon="-77.891864">
+    <ele>319.977936</ele>
+    <time>2025-06-26T16:09:18Z</time>
+    <name>1515</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664472</gpxx:lat>
+      <gpxx:lon>-77.891864</gpxx:lon>
+      <gpxx:y_proj>40.664472</gpxx:y_proj>
+      <gpxx:x_proj>-77.891864</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:09:18</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664476" lon="-77.891898">
+    <ele>319.757721</ele>
+    <time>2025-06-26T16:10:21Z</time>
+    <name>1514</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664476</gpxx:lat>
+      <gpxx:lon>-77.891898</gpxx:lon>
+      <gpxx:y_proj>40.664476</gpxx:y_proj>
+      <gpxx:x_proj>-77.891898</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:10:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66446" lon="-77.891838">
+    <ele>318.938019</ele>
+    <time>2025-06-26T16:11:04Z</time>
+    <name>1513</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66446</gpxx:lat>
+      <gpxx:lon>-77.891838</gpxx:lon>
+      <gpxx:y_proj>40.66446</gpxx:y_proj>
+      <gpxx:x_proj>-77.891838</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:11:04</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664475" lon="-77.891853">
+    <ele>319.600281</ele>
+    <time>2025-06-26T16:11:39Z</time>
+    <name>1516</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664475</gpxx:lat>
+      <gpxx:lon>-77.891853</gpxx:lon>
+      <gpxx:y_proj>40.664475</gpxx:y_proj>
+      <gpxx:x_proj>-77.891853</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:11:39</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664496" lon="-77.891753">
+    <ele>319.197296</ele>
+    <time>2025-06-26T16:13:05Z</time>
+    <name>1517</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664496</gpxx:lat>
+      <gpxx:lon>-77.891753</gpxx:lon>
+      <gpxx:y_proj>40.664496</gpxx:y_proj>
+      <gpxx:x_proj>-77.891753</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:13:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.66451" lon="-77.89174">
+    <ele>317.847382</ele>
+    <time>2025-06-26T16:14:31Z</time>
+    <name>1510</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.66451</gpxx:lat>
+      <gpxx:lon>-77.89174</gpxx:lon>
+      <gpxx:y_proj>40.66451</gpxx:y_proj>
+      <gpxx:x_proj>-77.89174</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:14:31</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664511" lon="-77.891714">
+    <ele>317.718262</ele>
+    <time>2025-06-26T16:15:20Z</time>
+    <name>1509</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664511</gpxx:lat>
+      <gpxx:lon>-77.891714</gpxx:lon>
+      <gpxx:y_proj>40.664511</gpxx:y_proj>
+      <gpxx:x_proj>-77.891714</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:15:20</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664592" lon="-77.891653">
+    <ele>317.908508</ele>
+    <time>2025-06-26T16:16:12Z</time>
+    <name>1508</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664592</gpxx:lat>
+      <gpxx:lon>-77.891653</gpxx:lon>
+      <gpxx:y_proj>40.664592</gpxx:y_proj>
+      <gpxx:x_proj>-77.891653</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:16:12</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664453" lon="-77.891697">
+    <ele>318.486389</ele>
+    <time>2025-06-26T16:18:29Z</time>
+    <name>1507</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664453</gpxx:lat>
+      <gpxx:lon>-77.891697</gpxx:lon>
+      <gpxx:y_proj>40.664453</gpxx:y_proj>
+      <gpxx:x_proj>-77.891697</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:18:29</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664421" lon="-77.891639">
+    <ele>320.29599</ele>
+    <time>2025-06-26T16:23:17Z</time>
+    <name>1505</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664421</gpxx:lat>
+      <gpxx:lon>-77.891639</gpxx:lon>
+      <gpxx:y_proj>40.664421</gpxx:y_proj>
+      <gpxx:x_proj>-77.891639</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:23:17</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664424" lon="-77.891669">
+    <ele>320.161255</ele>
+    <time>2025-06-26T16:24:05Z</time>
+    <name>1506</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664424</gpxx:lat>
+      <gpxx:lon>-77.891669</gpxx:lon>
+      <gpxx:y_proj>40.664424</gpxx:y_proj>
+      <gpxx:x_proj>-77.891669</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:24:05</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="40.664421" lon="-77.891661">
+    <ele>321.371216</ele>
+    <time>2025-06-26T16:26:11Z</time>
+    <name>1504</name>
+    <src>garmin GPSMAP 65s S</src>
+    <sym>Beach</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>40.664421</gpxx:lat>
+      <gpxx:lon>-77.891661</gpxx:lon>
+      <gpxx:y_proj>40.664421</gpxx:y_proj>
+      <gpxx:x_proj>-77.891661</gpxx:x_proj>
+      <gpxx:ltime>2025/06/26 12:26:11</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>
